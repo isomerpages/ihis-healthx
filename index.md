@@ -62,7 +62,7 @@ sections:
         experiment your tech solutions for healthcare. We will assess your
         suitability and contact with you.
       button: I AM READY
-      url: /
+      url: https://form.gov.sg/63f7116ff390580012f9ef61
       image: /images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
       alt: Image alt text
 ---
