@@ -10,7 +10,7 @@ sections:
       title: HealthX API Portal
       subtitle: "Learn about the HealthX API Portal by browsing the developer
         documentation including API refere nces, guides and sample codes. "
-      background: /images/joshua-sortino-LqKhnDzSF-8-unsplash.jpeg
+      background: /images/HealthX_KeyVisual.jpg
       button: MORE INFO
       url: /contact-us/
       key_highlights:
@@ -38,7 +38,7 @@ sections:
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
       url: /
-      image: /images/favicon-isomer.ico
+      image: /images/HealthX_HealthTechInnovation.png
       alt: GUIDELINES
   - infopic:
       title: PRODUCTS
@@ -48,7 +48,7 @@ sections:
         their customised apps.
       button: LEARN MORE
       url: /
-      image: /images/isomer-logo.svg
+      image: /images/HealthX_Network.jpg
       alt: Image alt text
   - infobar:
       title: RESOURCES
