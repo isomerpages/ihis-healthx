@@ -16,7 +16,7 @@ CCDP supports the 3 main public healthcare groups in Singapore (SingHealth, NUHS
 * TEST 3
 
 ---
-### HEALTHIER SG PROGRAMMES
+### HEALTHIER SG PROJECTS & PROGRAMMES
 
 Healthier SG will bring forth a major transformation in Singapore’s healthcare system as we move away from reactive care to preventive care. 
 
@@ -25,10 +25,16 @@ IHiS will be a strategic partner alongside the Ministry of Health, Agency for In
 Healthier SG will require close collaboration among family doctors, healthcare clusters, and a wide range of community partners. Clusters need to be able to aggregate residents’ health data, analyse trends, identify gaps in patient coverage, and review the effectiveness of interventions to improve care protocols. 
   
 
-**Heathier SG Projects & Programmes:**
+#### **Projects & Programmes:**
+
+**Citizens-facing:**
+
+* **HealthHub**: One of the digital front doors for Healthier SG. Residents taking part in Healthier SG will be able to enrol and view the Health Plan that they will jointly create with their primary care provider on HealthHub. 
+>Learn more about HealthHub [here](https://www.ihis.com.sg/Project_Showcase/Mobile_Applications/Pages/HealthHub.aspx)
+
+**Providers-facing:**
 
 * **Healthier SG Customer Relationship Management system:** Working with the Healthier SG Implementation Office, IHiS will be building a Healthier SG Customer Relationship Management system to develop a 360 view of the resident under the programme for a more seamless citizen engagement experience.  
-
 
 * **Healthier SG Admin Repository and the Healthier SG Gateway:** Key pillars to support our expansionary efforts in the national programme - IHiS will be leveraging analytics and artificial intelligence capabilities built over multiple transformative projects as a foundation to jumpstart Healthier SG. 
 
