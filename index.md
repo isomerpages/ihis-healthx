@@ -24,7 +24,7 @@ sections:
         - title: RESOURCES
           description: "Tools and guides for you "
           url: /privacy/
-      background: /images/Test Images/HEADER 4.jpg
+      background: /images/Test Images/HEADER 5.png
   - infopic:
       title: GUIDELINES
       description: A standardised interface design promotes interoperability between
