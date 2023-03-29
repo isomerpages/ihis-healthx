@@ -23,7 +23,7 @@ sections:
           url: /products/
         - title: RESOURCES
           description: "Tools and guides for you "
-          url: /privacy/
+          url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
       background: /images/Test Images/HEADER 5.png
   - infopic:
       title: GUIDELINES
@@ -64,4 +64,3 @@ sections:
       title: Guidelines
       button: learn more
 ---
-
