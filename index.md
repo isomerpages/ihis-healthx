@@ -58,7 +58,7 @@ sections:
         suitability and contact with you.
       button: I AM READY
       url: https://form.gov.sg/63f7116ff390580012f9ef61
-      image: /images/Test Images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
+      image: /images/Icons and Logos/ICON_CONTACT US.png
       alt: Image alt text
   - resources:
       title: Guidelines
