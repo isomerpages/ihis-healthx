@@ -30,7 +30,7 @@ sections:
       description: A standardised interface design promotes interoperability between
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
-      url: /guidelines
+      url: /guidelines/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
   - infopic:
