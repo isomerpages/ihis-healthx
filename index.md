@@ -10,22 +10,19 @@ sections:
       title: HealthX API Portal
       subtitle: "Learn about the HealthX API Portal by browsing the developer
         documentation including API refere nces, guides and sample codes. "
-      background: /images/IHiS HealthX Images/HealthX_KeyVisual.jpg
+      background: /images/Test Images/joshua-sortino-LqKhnDzSF-8-unsplash.jpeg
       button: MORE INFO
       url: /contact-us/
       key_highlights:
         - title: GUIDELINES
-          description: Important highlight A is important
+          description: "Understand tech requirements "
           url: https://google.com
         - title: PRODUCTS
-          description: Important highlight B is equally important
+          description: Gain access to CCDP & HSGW API
           url: https://gmail.com
         - title: RESOURCES
-          description: Page A is important too
+          description: "Tools and guides for you "
           url: /privacy/
-        - title: CONTACT US
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: HEALTHX API PORTAL
       description: Your one-stop resource and support platform for IHiS managed
@@ -38,7 +35,7 @@ sections:
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
       url: /
-      image: /images/HealthX_HealthTechInnovation.png
+      image: /images/IHiS HealthX Images/HealthX_Network.jpg
       alt: GUIDELINES
   - infopic:
       title: PRODUCTS
@@ -48,7 +45,7 @@ sections:
         their customised apps.
       button: LEARN MORE
       url: /
-      image: /images/HealthX_Network.jpg
+      image: /images/IHiS HealthX Images/HealthX_HealthTechInnovation.png
       alt: Image alt text
   - infobar:
       title: RESOURCES
@@ -63,6 +60,6 @@ sections:
         suitability and contact with you.
       button: I AM READY
       url: https://form.gov.sg/63f7116ff390580012f9ef61
-      image: /images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
+      image: /images/Test Images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
       alt: Image alt text
 ---
