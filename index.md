@@ -8,8 +8,8 @@ notification: "This is a staging site. "
 sections:
   - hero:
       title: HealthX API Portal
-      subtitle: "Learn about the HealthX API Portal by browsing the developer
-        documentation including API refere nces, guides and sample codes. "
+      subtitle: "Learn about IHiS HealthX API Portal by browsing the developer
+        documentation including API references, guides and sample codes. "
       button: MORE INFO
       url: /contact-us/
       key_highlights:
