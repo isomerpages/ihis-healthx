@@ -43,11 +43,14 @@ sections:
       url: /products/
       image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
-  - infobar:
+  - infopic:
       title: RESOURCES
+      subtitle: Infopic Subtitle
       description: Learn more about all our artefacts to design with compliance.
-      button: tell me more
+      button: TELL ME MORE
       url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
+      image: /images/Icons and Logos/ICON_RESOURCES.png
+      alt: RESOURCES
   - infopic:
       title: APPLY NOW
       subtitle: "YOUR SECURED SPACE "
