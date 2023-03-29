@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: IHiS
+agency_name: Integrated Health Information Systems Pte Ltd (IHiS)
 locations:
   - address:
       - ​​​​​​6 Serangoon North Ave 5
