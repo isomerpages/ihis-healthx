@@ -3,5 +3,4 @@ title: Guidelines
 permalink: /healthx/guidelines/
 description: ""
 ---
-
-[](/files/key-policies-third-party-framework.pdf)
+Download guidelines here: [](/files/key-policies-third-party-framework.pdf)
