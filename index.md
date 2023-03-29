@@ -24,12 +24,6 @@ sections:
           description: "Tools and guides for you "
           url: /privacy/
       background: /images/Test Images/HEADER 4.jpg
-  - infobar:
-      title: HEALTHX API PORTAL
-      description: earn about IHiS HealthX API Portal by browsing the developer
-        documentation including API references, guides and sample codes.
-      button: learn more
-      url: /faq/
   - infopic:
       title: GUIDELINES
       description: A standardised interface design promotes interoperability between
