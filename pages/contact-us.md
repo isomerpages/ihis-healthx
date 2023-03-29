@@ -13,13 +13,8 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6594 1800
+      - email: contactus@ihis.com.sg
+      - other: For media enquiries, jeanlouise.lee@ihis.com.sg
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
