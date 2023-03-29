@@ -31,7 +31,7 @@ sections:
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
       url: https://www.smartnation.gov.sg/files/publications/key-policies-third-party-framework.pdf
-      image: /images/Icons and Logos/ICON 1.png
+      image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
   - infopic:
       title: PRODUCTS
@@ -41,7 +41,7 @@ sections:
         their customised apps.
       button: LEARN MORE
       url: /products/
-      image: /images/Icons and Logos/ICON 2.png
+      image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
   - infobar:
       title: RESOURCES
