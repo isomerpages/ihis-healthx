@@ -23,7 +23,7 @@ sections:
         - title: RESOURCES
           description: "Tools and guides for you "
           url: /privacy/
-      background: /images/Test Images/HEADER 3.jpg
+      background: /images/Test Images/HEADER 4.jpg
   - infobar:
       title: HEALTHX API PORTAL
       description: Your one-stop resource and support platform for IHiS managed
