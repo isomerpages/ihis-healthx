@@ -52,7 +52,7 @@ sections:
       title: RESOURCES
       description: Learn more about all our artefacts to design with compliance.
       button: tell me more
-      url: /
+      url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
   - infopic:
       title: APPLY NOW
       subtitle: "YOUR SECURED SPACE "
