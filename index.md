@@ -12,7 +12,7 @@ sections:
         documentation including API references, guides and sample codes. Apply
         for a secured space now.
       button: I AM INTERESTED
-      url: /contact-us/
+      url: https://form.gov.sg/63f7116ff390580012f9ef61
       key_highlights:
         - title: GUIDELINES
           description: "Understand tech requirements "
