@@ -2,7 +2,10 @@ logo: /images/Icons and Logos/IHIS Logo.png
 links:
   - title: Products
     url: /products/
-  - title: Resources
-    collection: example-folder
   - title: Contact Us
     url: /contact-us/
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Guidelines
+        url: /healthx/guidelines/
