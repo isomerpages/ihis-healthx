@@ -36,7 +36,7 @@ sections:
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
       url: /
-      image: /images/Icons/ICON 1.png
+      image: /images/Icons and Logos/ICON 1.png
       alt: GUIDELINES
   - infopic:
       title: PRODUCTS
@@ -46,7 +46,7 @@ sections:
         their customised apps.
       button: LEARN MORE
       url: /products/
-      image: /images/Icons/ICON 2.png
+      image: /images/Icons and Logos/ICON 2.png
       alt: IHiS CCDP & HSGW Products
   - infobar:
       title: RESOURCES
@@ -64,5 +64,3 @@ sections:
       image: /images/Test Images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
       alt: Image alt text
 ---
-
-
