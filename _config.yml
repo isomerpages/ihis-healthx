@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1hmg150cbkion.amplifyapp.com
 prod: https://master.d1hmg150cbkion.amplifyapp.com
-resources_name: guides
+resources_name: tools-and-documents
