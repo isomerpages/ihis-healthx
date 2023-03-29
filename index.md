@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: GUIDELINES
           description: "Understand tech requirements "
-          url: /guidelines
+          url: /guidelines/
         - title: PRODUCTS
           description: CCDP & HSGW APIs
           url: /products/
