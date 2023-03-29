@@ -2,10 +2,12 @@ logo: /images/Icons and Logos/IHIS Logo.png
 links:
   - title: Products
     url: /products/
-  - title: Contact Us
-    url: /contact-us/
-  - title: Menu Title
+  - title: Resources
     url: /permalink
     sublinks:
       - title: Guidelines
         url: /healthx/guidelines/
+      - title: CAO Artifacts
+        url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
+  - title: Contact Us
+    url: /contact-us/
