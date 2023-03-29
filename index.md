@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: IHIS
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -64,4 +64,5 @@ sections:
       image: /images/Test Images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
       alt: Image alt text
 ---
+
 
