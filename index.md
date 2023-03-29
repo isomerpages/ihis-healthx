@@ -10,7 +10,7 @@ sections:
       title: HealthX API Portal
       subtitle: "Learn about the HealthX API Portal by browsing the developer
         documentation including API refere nces, guides and sample codes. "
-      background: /images/Test Images/HEADER 2.jpg
+      background: /images/Test Images/HEADER 3.jpg
       button: MORE INFO
       url: /contact-us/
       key_highlights:
