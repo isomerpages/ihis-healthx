@@ -30,7 +30,7 @@ Healthier SG will require close collaboration among family doctors, healthcare c
 **Citizens-facing:**
 
 * **HealthHub**: One of the digital front doors for Healthier SG. Residents taking part in Healthier SG will be able to enrol and view the Health Plan that they will jointly create with their primary care provider on HealthHub. 
->Learn more about HealthHub [here](https://www.ihis.com.sg/Project_Showcase/Mobile_Applications/Pages/HealthHub.aspx)
+>Learn more about HealthHub [here](https://www.ihis.com.sg/Project_Showcase/Mobile_Applications/Pages/HealthHub.aspx).
 
 **Providers-facing:**
 
