@@ -45,7 +45,6 @@ sections:
       alt: IHiS CCDP & HSGW Products
   - infopic:
       title: RESOURCES
-      subtitle: Infopic Subtitle
       description: Learn more about all our artefacts to design with compliance.
       button: TELL ME MORE
       url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
