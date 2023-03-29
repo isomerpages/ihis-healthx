@@ -27,13 +27,16 @@ Healthier SG will require close collaboration among family doctors, healthcare c
 
 **Heathier SG Projects & Programmes:**
 
-* **Healthier SG Customer Relationship Management system (SmartCMS):** Working with the Healthier SG Implementation Office, IHiS will be building a Healthier SG Customer Relationship Management system to develop a 360 view of the resident under the programme for a more seamless citizen engagement experience.  
+* **Healthier SG Customer Relationship Management system:** Working with the Healthier SG Implementation Office, IHiS will be building a Healthier SG Customer Relationship Management system to develop a 360 view of the resident under the programme for a more seamless citizen engagement experience.  
 
 
 * **Healthier SG Admin Repository and the Healthier SG Gateway:** Key pillars to support our expansionary efforts in the national programme - IHiS will be leveraging analytics and artificial intelligence capabilities built over multiple transformative projects as a foundation to jumpstart Healthier SG. 
 
 * **GPConnect, the Smart Clinic Management Systems (CMS) and National Electronic Health Record (NEHR) system:** With such systems, GPs will be able to submit data in Healthier SG. The NEHR will also be enhanced to improve data sharing among healthcare providers. Patients will be able to access relevant information from the NEHR through an enhanced HealthHub over time, with expanded access to records such as their screening results, health plan etc. 
->Learn more about SmartCMS [here](https://www.ihis.com.sg/SmartCMS_Programme).
+>Learn more about: 
+>1. GPConnect [here](https://www.ihis.com.sg/gpc).
+>2. SmartCMS [here](https://www.ihis.com.sg/SmartCMS_Programme).
+>3. NEHR [here](https://www.ihis.com.sg/nehr). 
 
 
 ---
