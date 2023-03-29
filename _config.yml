@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://ihis.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d1hmg150cbkion.amplifyapp.com
 prod: https://master.d1hmg150cbkion.amplifyapp.com
 resources_name: tools-and-documents
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
