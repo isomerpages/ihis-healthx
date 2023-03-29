@@ -36,7 +36,7 @@ sections:
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
       url: /
-      image: /images/IHiS HealthX Images/HealthX_Network.jpg
+      image: /images/Icons/ICON 1.png
       alt: GUIDELINES
   - infopic:
       title: PRODUCTS
