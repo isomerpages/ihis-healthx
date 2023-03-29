@@ -10,7 +10,7 @@ locations:
       - Singapore 554910
     operating_hours: []
     maps_link: ""
-    title: Headquarters
+    title: Main Office
 contacts:
   - content:
       - phone: +65 6123 4567
