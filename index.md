@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: GUIDELINES
           description: "Understand tech requirements "
-          url: https://google.com
+          url: https://www.smartnation.gov.sg/files/publications/key-policies-third-party-framework.pdf
         - title: PRODUCTS
           description: Gain access to CCDP & HSGW API
           url: /products/
