@@ -19,7 +19,7 @@ sections:
           url: https://google.com
         - title: PRODUCTS
           description: Gain access to CCDP & HSGW API
-          url: https://gmail.com
+          url: /products/
         - title: RESOURCES
           description: "Tools and guides for you "
           url: /privacy/
@@ -44,7 +44,7 @@ sections:
         engage, and share healthcare information easily with patients through
         their customised apps.
       button: LEARN MORE
-      url: /
+      url: /products/
       image: /images/IHiS HealthX Images/HealthX_HealthTechInnovation.png
       alt: Image alt text
   - infobar:
