@@ -35,7 +35,7 @@ sections:
       description: A standardised interface design promotes interoperability between
         systems and improves developers’ experience and productivity.
       button: LEARN MORE
-      url: https://www.smartnation.gov.sg/files/publications/key-policies-third-party-framework.pdf
+      url: /Guidelines
       image: /images/Icons and Logos/ICON 1.png
       alt: GUIDELINES
   - infopic:
