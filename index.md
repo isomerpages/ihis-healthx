@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: IHIS
-description: An Isomer site of the Singapore Government
+description: IHIS HealthX Innovation Sandbox | Copyright ©2022 Integrated Health
+  Information Systems (IHIS) Pte Ltd. All Rights Reserved. Co Reg No.200814464H
 image: /images/isomer-logo.svg
 permalink: /
 notification: "This is a staging site. "
@@ -58,3 +59,4 @@ sections:
       image: /images/Test Images/ben-kolde-bs2Ba7t69mM-unsplash.jpeg
       alt: Image alt text
 ---
+
