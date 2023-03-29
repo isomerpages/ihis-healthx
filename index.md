@@ -8,9 +8,9 @@ notification: "This is a staging site. "
 sections:
   - hero:
       title: HealthX API Portal
-      subtitle: Learn about IHiS HealthX API Portal by browsing the developer
-        documentation including API references, guides and sample codes. Apply
-        for a secured space now.
+      subtitle: Your one-stop resource and support platform for IHiS managed
+        application programming interfaces (APIs). Learn more and apply for a
+        secured virtual space now.
       button: I AM INTERESTED
       url: https://form.gov.sg/63f7116ff390580012f9ef61
       key_highlights:
@@ -26,8 +26,8 @@ sections:
       background: /images/Test Images/HEADER 4.jpg
   - infobar:
       title: HEALTHX API PORTAL
-      description: Your one-stop resource and support platform for IHiS managed
-        application programming interfaces (APIs).
+      description: earn about IHiS HealthX API Portal by browsing the developer
+        documentation including API references, guides and sample codes.
       button: learn more
       url: /faq/
   - infopic:
