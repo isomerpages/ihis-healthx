@@ -46,8 +46,8 @@ sections:
         their customised apps.
       button: LEARN MORE
       url: /products/
-      image: /images/IHiS HealthX Images/HealthX_HealthTechInnovation.png
-      alt: Image alt text
+      image: /images/Icons/ICON 2.png
+      alt: IHiS CCDP & HSGW Products
   - infobar:
       title: RESOURCES
       description: Learn more about all our artefacts to design with compliance.
