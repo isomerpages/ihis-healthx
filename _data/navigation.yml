@@ -3,7 +3,7 @@ links:
   - title: Products
     url: /products/
   - title: Resources
-    url: /permalink
+    url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
     sublinks:
       - title: Guidelines
         url: /healthx/guidelines/
