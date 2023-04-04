@@ -13,7 +13,7 @@ sections:
         application programming interfaces (APIs). Learn more and apply for a
         secured virtual space now.
       button: I AM INTERESTED
-      url: https://form.gov.sg/63f7116ff390580012f9ef61
+      url: https://form.gov.sg/642539935e0f740012df522b
       key_highlights:
         - title: GUIDELINES
           description: "Understand tech requirements "
@@ -57,7 +57,7 @@ sections:
         experiment your tech solutions for healthcare. We will assess your
         suitability and contact with you.
       button: I AM READY
-      url: https://form.gov.sg/63f7116ff390580012f9ef61
+      url: https://form.gov.sg/642539935e0f740012df522b
       image: /images/Icons and Logos/ICON_CONTACT US.png
       alt: Image alt text
   - resources:
