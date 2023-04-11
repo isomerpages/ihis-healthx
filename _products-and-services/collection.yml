@@ -2,4 +2,5 @@ collections:
   products-and-services:
     output: true
     order:
+      - Coming Soon.md
       - Products.md
