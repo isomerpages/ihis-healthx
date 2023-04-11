@@ -1,4 +1,5 @@
 collections:
   products:
     output: true
-    order: []
+    order:
+      - Products.md
