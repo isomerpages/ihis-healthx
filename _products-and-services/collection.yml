@@ -2,6 +2,6 @@ collections:
   products-and-services:
     output: true
     order:
-      - API Portal.md
       - Products.md
+      - API Portal.md
       - Coming Soon.md
