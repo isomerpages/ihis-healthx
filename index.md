@@ -14,13 +14,6 @@ sections:
         your innovation projects.
       button: I AM READY TO APPLY!
       url: https://form.gov.sg/642539935e0f740012df522b
-      key_highlights:
-        - title: GUIDELINES
-          description: Requirements & processes
-          url: /healthx/guidelines/
-        - title: API PORTAL
-          description: IHiS managed APIs
-          url: /products/
       background: /images/Test
         Images/abstract-navy-blue-digital-grid-technology-background.jpeg
   - resources:
