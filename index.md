@@ -12,7 +12,7 @@ sections:
       subtitle: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and value demonstrations for
         your innovation projects.
-      button: I'M READY TO APPLY!
+      button: I AM READY TO APPLY!
       url: https://form.gov.sg/642539935e0f740012df522b
       key_highlights:
         - title: GUIDELINES
