@@ -2,7 +2,7 @@ collections:
   administrative-matters:
     output: true
     order:
-      - faq.md
+      - FAQ Page.md
       - HealthX Innovation Sandbox Terms of Use.md
       - terms-of-use.md
       - privacy.md
