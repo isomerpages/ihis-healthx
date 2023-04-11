@@ -24,7 +24,8 @@ sections:
         - title: RESOURCES
           description: "Tools and guides for you "
           url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
-      background: /images/Test Images/HEADER 5.png
+      background: /images/Test
+        Images/abstract-navy-blue-digital-grid-technology-background.jpeg
   - infopic:
       title: GUIDELINES
       description: A standardised interface design promotes interoperability between
