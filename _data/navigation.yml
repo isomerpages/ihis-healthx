@@ -2,15 +2,17 @@ logo: /images/Icons and Logos/IHIS Logo.png
 links:
   - title: Products
     url: /products/
-    sublinks: []
-  - title: Resources
-    url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
     sublinks:
       - title: API Portal
         url: /api-portal
-      - title: Guidelines
+  - title: Resources
+    url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
+    sublinks:
+      - title: Application Processes
+        url: /processes
+      - title: Tech Guidelines
         url: /healthx/guidelines/
-      - title: CAO Artifacts
+      - title: Artefacts
         url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
   - title: Contact Us
     url: /contact-us/
