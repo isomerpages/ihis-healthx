@@ -16,24 +16,13 @@ sections:
       url: https://form.gov.sg/642539935e0f740012df522b
       key_highlights:
         - title: GUIDELINES
-          description: "Understand tech requirements "
+          description: Requirements & processes
           url: /healthx/guidelines/
-        - title: PRODUCTS
-          description: CCDP & HSGW APIs
+        - title: API PORTAL
+          description: IHiS managed APIs
           url: /products/
-        - title: RESOURCES
-          description: "Tools and guides for you "
-          url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
       background: /images/Test
         Images/abstract-navy-blue-digital-grid-technology-background.jpeg
-  - infopic:
-      title: GUIDELINES
-      description: A standardised interface design promotes interoperability between
-        systems and improves developers’ experience and productivity.
-      button: LEARN MORE
-      url: /healthx/guidelines/
-      image: /images/Icons and Logos/ICON_GUIDELINES.png
-      alt: GUIDELINES
   - infopic:
       title: PRODUCTS
       subtitle: CCDP & HEALTHIER SG
@@ -44,6 +33,14 @@ sections:
       url: /products/
       image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
+  - infopic:
+      title: GUIDELINES
+      description: A standardised interface design promotes interoperability between
+        systems and improves developers’ experience and productivity.
+      button: LEARN MORE
+      url: /healthx/guidelines/
+      image: /images/Icons and Logos/ICON_GUIDELINES.png
+      alt: GUIDELINES
   - infopic:
       title: RESOURCES
       description: Learn more about all our artefacts to design with compliance.
