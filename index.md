@@ -8,11 +8,11 @@ permalink: /
 notification: "This is a staging site. "
 sections:
   - hero:
-      title: HealthX API Portal
-      subtitle: Your one-stop resource and support platform for IHiS managed
-        application programming interfaces (APIs). Learn more and apply for a
-        secured virtual space now.
-      button: I AM INTERESTED
+      title: HealthX Innovation Sandbox (HX-IS)
+      subtitle: HX-IS enables public healthcare institutes and tech partners to
+        conduct fast experimentation, assessments and value demonstrations for
+        your innovation projects.
+      button: SHARE MORE WITH ME
       url: https://form.gov.sg/642539935e0f740012df522b
       key_highlights:
         - title: GUIDELINES
