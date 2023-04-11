@@ -5,6 +5,8 @@ links:
   - title: Resources
     url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
     sublinks:
+      - title: API Portal
+        url: /api-portal
       - title: Guidelines
         url: /healthx/guidelines/
       - title: CAO Artifacts
