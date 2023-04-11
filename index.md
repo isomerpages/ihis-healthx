@@ -21,11 +21,11 @@ sections:
       button: learn more
   - infopic:
       title: PRODUCTS
-      subtitle: CCDP & HEALTHIER SG
-      description: CCDP supports Singapore Public Healthcare Institutes to digitise,
-        engage, and share healthcare information easily with patients through
-        their customised apps.
-      button: LEARN MORE
+      subtitle: API PORTAL
+      description: Learn more about IHiS managed application programming interfaces
+        (APIs) such as CCDP, HealthierSG and many more. Gain access to better
+        your budding solution(s).
+      button: tell me more
       url: /products/
       image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
@@ -34,7 +34,7 @@ sections:
       description: Learn the ins and outs of navigating IHiS HX-IS. Understand the
         processes and criteria to design and experiment your HealthTech
         solutions with compliance.
-      button: TELL ME MORE
+      button: learn more
       url: /healthx/guidelines/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
