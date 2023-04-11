@@ -4,7 +4,7 @@ links:
     url: /products/
     sublinks:
       - title: API Portal
-        url: /api-portal/
+        url: /products-and-services/api-portal/
       - title: Coming Soon
         url: /products-and-services/coming-soon/
   - title: Resources
