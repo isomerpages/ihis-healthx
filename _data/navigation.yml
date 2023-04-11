@@ -6,7 +6,7 @@ links:
       - title: API Portal
         url: /api-portal
   - title: Resources
-    url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
+    url: /RESOURCES/
     sublinks:
       - title: Application Processes
         url: /processes
