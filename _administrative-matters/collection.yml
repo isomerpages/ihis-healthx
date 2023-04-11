@@ -2,5 +2,6 @@ collections:
   administrative-matters:
     output: true
     order:
+      - HealthX Innovation Sandbox Terms of Use.md
       - terms-of-use.md
       - privacy.md
