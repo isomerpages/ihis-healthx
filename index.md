@@ -31,7 +31,7 @@ sections:
       alt: IHiS CCDP & HSGW Products
   - infopic:
       title: "RESOURCES & GUIDELINES "
-      description: Learn the ins-and-outs of navigating IHiS HX-IS. Understand the
+      description: Learn the ins and outs of navigating IHiS HX-IS. Understand the
         processes and criteria to design and experiment your HealthTech
         solutions with compliance.
       button: TELL ME MORE
