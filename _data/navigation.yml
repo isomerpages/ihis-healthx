@@ -6,10 +6,10 @@ links:
       - title: API Portal
         url: /api-portal
   - title: Resources
-    url: /RESOURCES/
+    url: /tools-and-documents/
     sublinks:
       - title: Application Processes
-        url: /processes
+        url: /files/hx-is_applicationprocessevaluation&eligibilitycriteria.pdf/
       - title: Tech Guidelines
         url: /healthx/guidelines/
       - title: Artefacts
