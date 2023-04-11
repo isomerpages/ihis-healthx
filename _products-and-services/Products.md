@@ -5,7 +5,7 @@ description: ""
 ---
 You can access the following application programming interfaces (APIs) to better your solutions – be it Proof of Concept (PoC) or Proof of Value (PoV).
 
-> Learn all about our API Portal here.
+> Learn all about our [API Portal here](/products-and-services/api-portal/).
 ---
 ### COMMON CONSUMER DIGITAL PLATFORM (CCDP)
 
