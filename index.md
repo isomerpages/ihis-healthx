@@ -23,6 +23,9 @@ sections:
           url: /products/
       background: /images/Test
         Images/abstract-navy-blue-digital-grid-technology-background.jpeg
+  - resources:
+      title: Explore & Discover
+      button: learn more
   - infopic:
       title: PRODUCTS
       subtitle: CCDP & HEALTHIER SG
@@ -58,7 +61,4 @@ sections:
       url: https://form.gov.sg/642539935e0f740012df522b
       image: /images/Icons and Logos/ICON_CONTACT US.png
       alt: Image alt text
-  - resources:
-      title: Guidelines
-      button: learn more
 ---
