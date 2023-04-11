@@ -1,18 +1,12 @@
 logo: /images/Icons and Logos/IHIS Logo.png
 links:
-  - title: Products
+  - title: Products & Services
     url: /products/
     sublinks:
       - title: API Portal
         url: /api-portal
-      - title: HCC Workload services
-        url: /HCCWorkload
-      - title: HealthTech Advisory Centre
-        url: /HTAC
-      - title: Workload Monitoring Services
-        url: /WorkloadMonitoring
-      - title: Account Management & Billing
-        url: /AccountManagement&Billing
+      - title: Coming Soon
+        url: /coming-soon
   - title: Resources
     url: /tools-and-documents/
     sublinks:
