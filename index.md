@@ -31,8 +31,9 @@ sections:
       alt: IHiS CCDP & HSGW Products
   - infopic:
       title: GUIDELINES
-      description: A standardised interface design promotes interoperability between
-        systems and improves developers’ experience and productivity.
+      description: The ins-and-outs of navigating IHiS HX-IS. Learn about the
+        processes and criteria to successfully experiment your HealthTech
+        solutions.
       button: LEARN MORE
       url: /healthx/guidelines/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
