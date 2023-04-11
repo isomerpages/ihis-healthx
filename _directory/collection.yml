@@ -1,5 +1,5 @@
 collections:
-  administrative-matters:
+  directory:
     output: true
     order:
       - FAQ Page.md
