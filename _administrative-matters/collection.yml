@@ -2,4 +2,5 @@ collections:
   administrative-matters:
     output: true
     order:
+      - terms-of-use.md
       - privacy.md
