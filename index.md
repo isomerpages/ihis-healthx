@@ -30,21 +30,14 @@ sections:
       image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
   - infopic:
-      title: GUIDELINES
-      description: The ins-and-outs of navigating IHiS HX-IS. Learn about the
-        processes and criteria to successfully experiment your HealthTech
-        solutions.
-      button: LEARN MORE
+      title: "RESOURCES & GUIDELINES "
+      description: Learn the ins-and-outs of navigating IHiS HX-IS. Understand the
+        processes and criteria to design and experiment your HealthTech
+        solutions with compliance.
+      button: TELL ME MORE
       url: /healthx/guidelines/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
-  - infopic:
-      title: RESOURCES
-      description: Learn more about all our artefacts to design with compliance.
-      button: TELL ME MORE
-      url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
-      image: /images/Icons and Logos/ICON_RESOURCES.png
-      alt: RESOURCES
   - infopic:
       title: APPLY NOW
       subtitle: "YOUR SECURED SPACE "
