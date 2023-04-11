@@ -1,0 +1,4 @@
+collections:
+  administrative-matters:
+    output: true
+    order: []
