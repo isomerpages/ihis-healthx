@@ -1,5 +1,5 @@
 collections:
-  products:
+  products-and-services:
     output: true
     order:
       - Products.md
