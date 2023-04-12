@@ -8,12 +8,10 @@ links:
       - title: Other Service Offerings
         url: /products/other-service-offerings/
   - title: Resources
-    url: /tools-and-documents/
+    url: /resources/guidelines/
     sublinks:
       - title: Guidelines
-        url: /healthx/guidelines/
-      - title: Artefacts
-        url: https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx
+        url: /resources/guidelines/
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
