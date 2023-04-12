@@ -13,15 +13,11 @@ sections:
         conduct fast experimentation, assessments and value demonstrations for
         your innovation projects.
       button: I AM READY TO APPLY!
-      url: https://form.gov.sg/642539935e0f740012df522b
+      url: https://for.sg/healthx-ideas
       background: /images/Test
         Images/abstract-navy-blue-digital-grid-technology-background.jpeg
-  - resources:
-      title: Explore & Discover
-      button: learn more
   - infopic:
-      title: PRODUCTS
-      subtitle: API PORTAL
+      title: API PORTAL
       description: Learn more about IHiS managed application programming interfaces
         (APIs) such as CCDP, HealthierSG and many more. Gain access to better
         your budding solution(s).
@@ -45,7 +41,10 @@ sections:
         experiment your tech solutions for healthcare. We will assess your
         suitability and contact with you.
       button: I AM READY
-      url: https://form.gov.sg/642539935e0f740012df522b
+      url: https://for.sg/healthx-ideas
       image: /images/Icons and Logos/ICON_CONTACT US.png
       alt: Image alt text
+  - resources:
+      title: Explore & Discover
+      button: learn more
 ---
