@@ -25,6 +25,9 @@ sections:
       url: /products/api-portal/
       image: /images/Icons and Logos/icon_api portal.png
       alt: IHiS CCDP & HSGW Products
+  - resources:
+      title: Explore & Discover
+      button: learn more
   - infopic:
       title: "RESOURCES: GUIDELINES"
       description: Learn the ins and outs of navigating IHiS HX-IS. Understand the
@@ -44,7 +47,4 @@ sections:
       url: https://for.sg/healthx-ideas
       image: /images/Icons and Logos/ICON_CONTACT US.png
       alt: Image alt text
-  - resources:
-      title: Explore & Discover
-      button: learn more
 ---
