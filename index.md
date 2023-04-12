@@ -23,7 +23,7 @@ sections:
         your budding solution(s).
       button: tell me more
       url: /products/api-portal/
-      image: /images/Icons and Logos/ICON_PRODUCT.png
+      image: /images/Icons and Logos/icon_api portal.png
       alt: IHiS CCDP & HSGW Products
   - infopic:
       title: "RESOURCES: GUIDELINES"
