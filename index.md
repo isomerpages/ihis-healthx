@@ -26,7 +26,7 @@ sections:
       image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
   - infopic:
-      title: "RESOURCES: GUIDELINES & ARTEFACTS"
+      title: "RESOURCES: GUIDELINES"
       description: Learn the ins and outs of navigating IHiS HX-IS. Understand the
         processes and criteria to design and experiment your HealthTech
         solutions with compliance.
