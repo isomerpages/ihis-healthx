@@ -12,15 +12,12 @@ description: ""
 4. The accessibility and operation of the Sandbox or the Service Offerings may rely on technologies outside our control.  We do not guarantee continuous accessibility or uninterrupted operation of the Sandbox or the Service Offerings.
 
 5. If you are using the Sandbox or the Service Offerings, or any part thereof, on behalf of an Organisation, you hereby represent and warrant that you have been validly authorised to: 
-
 5.1 access or use the Sandbox or the Service Offerings on behalf of your Organisation; and
 
 5.2 agree to and bind your Organisation to these Terms. In such circumstances, any reference to “you” in these Terms will include your Organisation (the “Entity”).
 
 6. We shall not be responsible or liable to you for any losses, costs, expenses or damage suffered or incurred by you or any third party arising from any imitation, spoof, phishing or similarly fraudulent or unauthorized digital services downloaded or accessed by you from illegitimate sources, or which are not published or operated by us.
-
 7. If you do not agree to these Terms, please do not access or participate in the Sandbox and use the Service Offerings.
-
 8. By agreeing to these Terms of Use, IHiS allows you to access and use the Sandbox and the Service Offerings.  IHiS reserves the right at all times (but will not have an obligation) to terminate your access to the Sandbox for any reason (such as violation of these Terms of Use).
 
 Usage Terms:
