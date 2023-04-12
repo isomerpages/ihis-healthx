@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Products.md
-      - API Portal.md
       - Coming Soon.md
