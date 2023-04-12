@@ -31,7 +31,7 @@ sections:
         processes and criteria to design and experiment your HealthTech
         solutions with compliance.
       button: learn more
-      url: /healthx/guidelines/
+      url: /resources/guidelines/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
   - infopic:
