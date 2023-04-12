@@ -1,12 +1,12 @@
 logo: /images/Icons and Logos/IHIS Logo.png
 links:
   - title: Products & Services
-    url: /products/
+    url: /products/api-portal/
     sublinks:
       - title: API Portal
-        url: /products-and-services/api-portal/
-      - title: Coming Soon
-        url: /products-and-services/coming-soon/
+        url: /products/api-portal/
+      - title: Other Service Offerings
+        url: /products/other-service-offerings/
   - title: Resources
     url: /tools-and-documents/
     sublinks:
