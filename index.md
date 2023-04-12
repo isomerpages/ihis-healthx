@@ -22,7 +22,7 @@ sections:
         (APIs) such as CCDP, HealthierSG and many more. Gain access to better
         your budding solution(s).
       button: tell me more
-      url: /products/
+      url: /products/api-portal/
       image: /images/Icons and Logos/ICON_PRODUCT.png
       alt: IHiS CCDP & HSGW Products
   - infopic:
