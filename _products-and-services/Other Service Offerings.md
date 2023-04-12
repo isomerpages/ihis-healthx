@@ -3,8 +3,6 @@ title: Other Service Offerings
 permalink: /products/other-service-offerings/
 description: ""
 ---
-### We will be releasing more service offerings soon. The following are the works...
-
 #### Sandbox Enablers
 * HCC Workload services
 
@@ -13,7 +11,7 @@ description: ""
 * Workload Monitoring services
 * Account management and billing
 
-... and more!
+... and more coming soon!
 
 
 ![coming soon](/images/Test%20Images/samuel-regan-asante-rk8fhggeyr8-unsplash.jpeg)
