@@ -5,7 +5,7 @@ description: ""
 ---
 Learn the ins-and-outs of the HX-IS right here:
 
-[Application Process | Evaluation and Eligibility Criteria](/files/hx-is_applicationprocessevaluation&eligibilitycriteria.pdf)
+[Application Process, Evaluation and Eligibility Criteria](/files/hx-is_applicationprocessevaluation&eligibilitycriteria.pdf)
 
 
 --- 
