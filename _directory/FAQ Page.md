@@ -45,11 +45,11 @@ A:
 
 Q:     How much does Health Commerical Cloud (HCC) cost?
 
-A:  The “[HCC Pricing and Cost Model – Cost Components](https://sites.intranet.ihis/HCC%20Information%20Portal/Documents/HCC%20Playbook/900%20HCC%20Billing/0900%20HCC%20Billing.pdf)" is accessible by IHiS personnel only. Kindly email us to request for access.
+A:  The HCC Pricing and Cost Model is accessible by IHiS personnel only. Kindly email us to request for access.
 
 Q:    Where can I find the details of the fees charge for workloads ?
 
-A: The “[HCC Billing](https://sites.intranet.ihis/HCC%20Information%20Portal/Documents/HCC%20Playbook/900%20HCC%20Billing/0900%20HCC%20Billing.pdf)” document is accessible by IHiS personnel only. Kindly email us to request for access.
+A: The HCC Billing document is accessible by IHiS personnel only. Kindly email us to request for access.
 
 Q:    Is the onboarding a one-time charge?
 
