@@ -5,8 +5,7 @@ description: ""
 ---
 Learn the ins-and-outs of the HX-IS right here:
 
-[Application Process, Evaluation and Eligibility Criteria](/files/hx-is_applicationprocessevaluation&eligibilitycriteria.pdf)
-
+[HealthX Innovation Sandbox Application Process & Guidelines](/files/healthx%20innovation%20sandbox%20guidelines%20may%202023.pdf)
 
 --- 
 
