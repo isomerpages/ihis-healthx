@@ -18,9 +18,9 @@ sections:
         Images/abstract-navy-blue-digital-grid-technology-background.jpeg
   - infopic:
       title: API PORTAL
-      description: Learn more about IHiS managed application programming interfaces
-        (APIs) such as CCDP, HealthierSG and many more. Gain access to better
-        your budding solution(s).
+      description: Your one-stop resource and support platform for IHiS managed
+        application programming interfaces (APIs). Learn more and apply for a
+        virtual space now.
       button: tell me more
       url: /products/api-portal/
       image: /images/Icons and Logos/icon_api portal.png
