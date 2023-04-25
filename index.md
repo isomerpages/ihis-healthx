@@ -8,7 +8,7 @@ permalink: /
 notification: "This is a staging site. "
 sections:
   - hero:
-      title: HealthX<br>Innovation Sandbox<br>(HX-IS)
+      title: HealthX<br>Innovation Sandbox (HX-IS)
       subtitle: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and value demonstrations for
         your innovation projects.
