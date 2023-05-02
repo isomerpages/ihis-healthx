@@ -5,7 +5,7 @@ description: IHIS HealthX Innovation Sandbox | Copyright ©2022 Integrated Healt
   Information Systems (IHIS) Pte Ltd. All Rights Reserved. Co Reg No.200814464H
 image: /images/isomer-logo.svg
 permalink: /
-notification: "This is a staging site. "
+notification: ""
 sections:
   - hero:
       title: HealthX<br>Innovation Sandbox<br>(HX-IS)
