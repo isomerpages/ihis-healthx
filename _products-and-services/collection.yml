@@ -1,0 +1,6 @@
+collections:
+  products-and-services:
+    output: true
+    order:
+      - API Portal.md
+      - Other Service Offerings.md
