@@ -5,7 +5,7 @@ description: ""
 ---
 Learn the ins-and-outs of the HX-IS right here:
 
-[HealthX Innovation Sandbox Application Process & Guidelines](/files/healthx%20innovation%20sandbox%20overall%20process%20&%20guidelines%20may%202023%20v1-1.pdf)
+[HealthX Innovation Sandbox Application Process & Guidelines](/files/healthx%20innovation%20sandbox%20overall%20process%20&%20guidelines.pdf)
 
 --- 
 
