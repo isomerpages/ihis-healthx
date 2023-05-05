@@ -1,9 +1,8 @@
 ---
 title: HealthX Innovation Sandbox Overall Process and Guidelines
-date: 2023-04-26
+date: 2023-05-02
 layout: file
 description: ""
 image: ""
-file_url: /files/healthx innovation sandbox overall process & guidelines may
-  2023 v1-1.pdf
+file_url: /files/healthx innovation sandbox overall process & guidelines.pdf
 ---
