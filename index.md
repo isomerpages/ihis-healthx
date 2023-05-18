@@ -17,12 +17,12 @@ sections:
       background: /images/Test
         Images/abstract-navy-blue-digital-grid-technology-background.jpeg
   - infopic:
-      title: API PORTAL
+      title: Our APIs
       description: Your one-stop resource and support platform for IHiS managed
         application programming interfaces (APIs). Learn more and apply for a
         virtual space now.
       button: tell me more
-      url: /products/api-portal/
+      url: /products/our-apis/
       image: /images/Icons and Logos/icon_api portal.png
       alt: IHiS CCDP & HSGW Products
   - resources:
