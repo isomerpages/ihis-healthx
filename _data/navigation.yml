@@ -1,7 +1,7 @@
 logo: /images/Icons and Logos/IHIS Logo.png
 links:
   - title: Products & Services
-    url: /products/api-portal/
+    url: /products/our-apis/
     sublinks:
       - title: API Portal
         url: /products/api-portal/
