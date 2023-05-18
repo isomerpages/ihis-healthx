@@ -2,5 +2,6 @@ collections:
   products-and-services:
     output: true
     order:
+      - Tryout.md
       - Our APIs.md
       - Other Service Offerings.md
