@@ -7,6 +7,9 @@ Learn the ins-and-outs of the HX-IS right here:
 
 [HealthX Innovation Sandbox Overall Process & Guidelines](/files/healthx%20innovation%20sandbox%20overall%20process%20&%20guidelines.pdf)
 
+##### [Tech Guide] Open Health Stack
+
+##### [Tech Guide] Software Development Tools and SDK
 --- 
 
 #### MORE GUIDELINES ARE COMING SOON!
