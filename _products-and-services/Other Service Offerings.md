@@ -3,6 +3,9 @@ title: Other Service Offerings
 permalink: /products/other-service-offerings/
 description: ""
 ---
+#### Infrastructure and hosting
+* IaC templates for Cloud deployment
+
 #### Sandbox Enablers
 * HCC Workload services
 
