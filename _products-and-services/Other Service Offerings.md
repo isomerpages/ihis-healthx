@@ -3,7 +3,7 @@ title: Other Service Offerings
 permalink: /products/other-service-offerings/
 description: ""
 ---
-#### Infrastructure and hosting
+#### Infrastructure and Hosting
 * IaC templates for Cloud deployment
 
 #### Sandbox Enablers
