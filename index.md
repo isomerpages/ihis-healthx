@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: IHIS - HealthX Innovation Sandbox
-description: IHIS HealthX Innovation Sandbox | Copyright ©2022 Integrated Health
-  Information Systems (IHIS) Pte Ltd. All Rights Reserved. Co Reg No.200814464H
+title: Synapxe - HealthX Innovation Sandbox
+description: Synapxe HealthX Innovation Sandbox | Copyright ©2023 Synapxe Pte
+  Ltd. All Rights Reserved. Co Reg No.200814464H
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
