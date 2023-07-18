@@ -39,12 +39,12 @@ sections:
       alt: GUIDELINES
   - infopic:
       title: APPLY NOW
-      subtitle: "YOUR SECURED SPACE "
+      subtitle: YOUR SECURED SPACE
       description: Complete our request form to apply for a virtual space to
         experiment your tech solutions for healthcare. We will assess your
         suitability and contact with you.
       button: I AM READY
-      url: https://for.sg/healthx-ideas
+      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       image: /images/Icons and Logos/ICON_CONTACT US.png
       alt: Image alt text
 ---
