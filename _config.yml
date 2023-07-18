@@ -1,4 +1,4 @@
-title: IHIS - HealthX Innovation Sandbox
+title: Synapxe - HealthX Innovation Sandbox
 url: https://ihis.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,8 +15,8 @@ colors:
       color: "#942093"
     - title: media-color-five
       color: "#9b9b9b"
-description: IHIS HealthX Innovation Sandbox | Copyright ©2022 Integrated Health
-  Information Systems (IHIS) Pte Ltd. All Rights Reserved. Co Reg No.200814464H
+description: Synapxe HealthX Innovation Sandbox | Copyright ©2023 Synapxe Pte
+  Ltd. All Rights Reserved. Co Reg No.200814464H
 permalink: none
 baseurl: ""
 exclude:
@@ -58,3 +58,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
