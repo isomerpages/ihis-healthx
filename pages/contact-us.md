@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Integrated Health Information Systems Pte Ltd (IHiS)
+agency_name: Synapxe Pte Ltd
 locations:
   - address:
       - ​​​​​​6 Serangoon North Ave 5
@@ -22,4 +22,5 @@ contacts:
       - email: ihis.co-lab@ihis.com.sg
       - other: ""
     title: HealthX Innovation Sandbox
+feedback: https://www.ihis.com.sg/Contact_Us
 ---
