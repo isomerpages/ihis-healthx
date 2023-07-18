@@ -47,24 +47,13 @@ Q:     How much does Health Commerical Cloud (HCC) cost?
 
 A:  The HCC Pricing and Cost Model is accessible by IHiS personnel only. Kindly email us to request for access.
 
-Q:    Where can I find the details of the fees charge for workloads ?
-
-A: The HCC Billing document is accessible by IHiS personnel only. Kindly email us to request for access.
-
-Q:    Is the onboarding a one-time charge?
-
-A: Yes.
-
-Q:    How much is the estimated cost of the AWS services based on the specific usage parameters?
+Q:    Where can I find the details of the estimated cost of the AWS services ?
 
 A: AWS Pricing Calculation is available through a web-based console at [AWS Calculator](https://calculator.aws/#/).
 <br>Click "create estimate" at the top of the page -&gt; select "Asia Pacific (Singapore)" for Region -&gt; enter the Service to subscribe in "Find Service" (e.g. type "EC2" and Amazon EC2 will be shown on the page) -&gt; click "Configure" to choose the usage parameters and payment options -&gt; click "Save and view summary".
 <br>You can share your estimates by clicking on the "Share" button at the top of the site. Then copy and save the link of your records. Use the link to retrieve your estimate. Public share links expire after 3 years.
 <br> Alternatively, export your estimates in CSV or PDF format by clicking on the "Export" button at the top of the site to share with your stakeholders locally.
 
-Q:    Is spinning up a non-prod environment consider a workload?
-
-A: Yes. 
 
 --- 
    
