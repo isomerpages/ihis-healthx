@@ -14,8 +14,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6594 1800
-      - email: contactus@ihis.com.sg
-      - other: For media enquiries, jeanlouise.lee@ihis.com.sg
+      - email: ""
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
