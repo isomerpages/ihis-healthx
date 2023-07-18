@@ -13,7 +13,7 @@ A:
 Q:    How to qualify?
 
 A:
-* Healthcare Institution or any interested firm can apply via IHiS [HealthX](https://form.gov.sg/634fb5a3334dbd0012970fd2) [Ideas Submission](https://form.gov.sg/634fb5a3334dbd0012970fd2) portal to participate in the HealthTech Innovation Sandbox to experiment with innovative technology for the healthcare services in the production-like environment; operate within HCC, fulfil the baseline security management requirement (such as no production data and system to be hosted in the Sandbox environment) and short-term duration (&lt; 9 months from setup to deployment in sandbox environment).
+* Healthcare Institution or any interested firm can apply via Synapxe [HealthX](https://form.gov.sg/634fb5a3334dbd0012970fd2) [Ideas Submission](https://form.gov.sg/634fb5a3334dbd0012970fd2) portal to participate in the HealthTech Innovation Sandbox to experiment with innovative technology for the healthcare services in the production-like environment; operate within HCC, fulfil the baseline security management requirement (such as no production data and system to be hosted in the Sandbox environment) and short-term duration (&lt; 9 months from setup to deployment in sandbox environment).
 
 * Requestor to undergo onboarding, evaluation and approval process.
 
@@ -25,9 +25,9 @@ Q:    What do project team need to do?
 A:
 * At the “Application Stage”, the requestor should ensure that the objective and general eligibility of the sandbox &nbsp;specified are satisfied.&nbsp; The preliminary indication serves to help the requestor with its business and resource planning.
 
-* At the “Entry Evaluation Stage”, the requestor must submit a project proposal with the project team composition and project information (including list of CSP requirements or services required, solution architecture diagram, and entry &amp; exit requirement for the project).&nbsp; Due to the exploratory nature of the sandbox approach, the requestor is allowed to make adjustments to the application for resubmission (for example, refining the boundary conditions) after discussing with IHiS.&nbsp;The requestor will be informed in writing whether to proceed with the sandbox.&nbsp; Reason for rejection could include failure to meet any of the entry evaluation criteria.&nbsp; The requestor may re-apply for the sandbox when it is ready to meet the entry evaluation criteria of the sandbox.
+* At the “Entry Evaluation Stage”, the requestor must submit a project proposal with the project team composition and project information (including list of CSP requirements or services required, solution architecture diagram, and entry &amp; exit requirement for the project).&nbsp; Due to the exploratory nature of the sandbox approach, the requestor is allowed to make adjustments to the application for resubmission (for example, refining the boundary conditions) after discussing with Synapxe.&nbsp;The requestor will be informed in writing whether to proceed with the sandbox.&nbsp; Reason for rejection could include failure to meet any of the entry evaluation criteria.&nbsp; The requestor may re-apply for the sandbox when it is ready to meet the entry evaluation criteria of the sandbox.
 
-* Upon approval of the application, the sandbox is launched into the “Experimentation Stage”. The requestor becomes the “sandbox entity / project team” responsible for deploying and operating the sandbox; including engage managed services for account setup, service access, configurations and deployment.&nbsp; The project team must also ensure proper maintenance of records during the experimentation period to facilitate reviews of sandbox testing and expected outcomes with IHiS HealthX Innovation Sandbox administrator.
+* Upon approval of the application, the sandbox is launched into the “Experimentation Stage”. The requestor becomes the “sandbox entity / project team” responsible for deploying and operating the sandbox; including engage managed services for account setup, service access, configurations and deployment.&nbsp; The project team must also ensure proper maintenance of records during the experimentation period to facilitate reviews of sandbox testing and expected outcomes with Synapxe HealthX Innovation Sandbox administrator.
 
 * At the “Exit Evaluation Stage”, the project team must provide a report to support the experimentation conclusion and exit outcome; whether to extend or proceed to scale the newly validated ideas and technology under experimentation in production to ‘graduate’ from the Sandbox or stop the project.
 
@@ -37,7 +37,7 @@ Q:    What is the turnaround time?
 
 A:
 
-*  At the “Application Stage” (i.e., after the application requests are submitted to the “[Ideas Bank](https://form.gov.sg/634fb5a3334dbd0012970fd2)”), IHiS HealthX Innovation workgroup shall review the application and endeavour to notify the requestor of its potential suitability for a sandbox within 8 weeks after IHiS receives a complete set of information necessary for the assessment.
+*  At the “Application Stage” (i.e., after the application requests are submitted to the “[Ideas Bank](https://form.gov.sg/634fb5a3334dbd0012970fd2)”), Synapxe HealthX Innovation workgroup shall review the application and endeavour to notify the requestor of its potential suitability for a sandbox within 8 weeks after Synapxe receives a complete set of information necessary for the assessment.
 
 * At the “Entry Evaluation Stage”, the time required to fully assess the application is dependent on its completeness&nbsp; (and complexity, and the specify policy and regulatory requirements involved.
 
