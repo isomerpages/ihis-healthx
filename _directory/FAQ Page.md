@@ -49,10 +49,11 @@ A:  The HCC Pricing and Cost Model is accessible by IHiS personnel only. Kindly 
 
 Q:    Where can I find the details of the estimated cost of the AWS services ?
 
-A: AWS Pricing Calculation is available through a web-based console at [AWS Calculator](https://calculator.aws/#/).
-<br>Click "create estimate" at the top of the page -&gt; select "Asia Pacific (Singapore)" for Region -&gt; enter the Service to subscribe in "Find Service" (e.g. type "EC2" and Amazon EC2 will be shown on the page) -&gt; click "Configure" to choose the usage parameters and payment options -&gt; click "Save and view summary".
-<br>You can share your estimates by clicking on the "Share" button at the top of the site. Then copy and save the link of your records. Use the link to retrieve your estimate. Public share links expire after 3 years.
-<br> Alternatively, export your estimates in CSV or PDF format by clicking on the "Export" button at the top of the site to share with your stakeholders locally.
+A: 
+*  AWS Pricing Calculation is available through a web-based console at [AWS Calculator](https://calculator.aws/#/).
+*  Click "create estimate" at the top of the page -&gt; select "Asia Pacific (Singapore)" for Region -&gt; enter the Service to subscribe in "Find Service" (e.g. type "EC2" and Amazon EC2 will be shown on the page) -&gt; click "Configure" to choose the usage parameters and payment options -&gt; click "Save and view summary".
+*  You can share your estimates by clicking on the "Share" button at the top of the site. Then copy and save the link of your records. Use the link to retrieve your estimate. Public share links expire after 3 years.
+*  Alternatively, export your estimates in CSV or PDF format by clicking on the "Export" button at the top of the site to share with your stakeholders locally.
 
 
 --- 
@@ -69,12 +70,12 @@ A: AWS Pricing Calculation is available through a web-based console at [AWS Calc
 
 **HealthTech** means Healthcare Technology.
 
-**“IHiS”** refers to Integrated Health Information Systems Pte. Ltd.
+**“Synapxe”** refers to Synapxe Pte. Ltd.
 
-**“Innovation Sandbox”** or **“Sandbox”** or **“HX-IS”** refers to IHiS HealthTech Innovation Sandbox, that aims to support PHIs, industry partners and IHiS internal to ideate and conduct fast experimentation, assessing and demonstrate the visibility of their innovation projects in a safe, self-contained and simulated production cloud environment before launching their products or services in the market.
+**“Innovation Sandbox”** or **“Sandbox”** or **“HX-IS”** refers to Synapxe HealthTech Innovation Sandbox, that aims to support PHIs, industry partners and Synapxe internal to ideate and conduct fast experimentation, assessing and demonstrate the visibility of their innovation projects in a safe, self-contained and simulated production cloud environment before launching their products or services in the market.
 
 &nbsp;**“Account”** means your unique login identification credentials which you will use for the purposes of accessing or using the service offerings in the Sandbox
 
-**“HCC”** refers to Healthcare Commercial Cloud platform managed by IHiS with customized infrastructure to support healthcare staff and organisations.
+**“HCC”** refers to Healthcare Commercial Cloud platform managed by Synapxe with customized infrastructure to support healthcare staff and organisations.
 
-**“API”** means Application Programming Interfaces managed by IHiS that provide stubs responses to simulate actual existing / new APIs.
+**“API”** means Application Programming Interfaces managed by Synapxe that provide stubs responses to simulate actual existing / new APIs.
