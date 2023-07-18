@@ -17,7 +17,7 @@ A:
 
 * Requestor to undergo onboarding, evaluation and approval process.
 
-* Upon approval, the requestor becomes the entity responsible for deploying and operating the sandbox (the “Project Team”) in Sandbox Enabling Environment like HCC with customized infrastructure to support healthcare staff and organisations.&nbsp; HCC platform is constructed upon the leading Cloud Service Providers (“CSPs”), i.e., Microsoft Azure and AWS for start.&nbsp; It enables the applications to consume securely a broad range of cloud infrastructure and services offered by the CSPs.
+* Upon approval, the requestor becomes the entity responsible for deploying and operating the sandbox (the “Project Team”) in Sandbox Enabling Environment like HCC with customized infrastructure to support healthcare staff and organisations.&nbsp; HCC platform is constructed upon the leading Cloud Service Providers (“CSPs”), i.e., AWS for start.&nbsp; It enables the applications to consume securely a broad range of cloud infrastructure and services offered by AWS.
 
 
 Q:    What do project team need to do? 
