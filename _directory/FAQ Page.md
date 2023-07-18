@@ -45,7 +45,7 @@ A:
 
 Q:     How much does Health Commerical Cloud (HCC) cost?
 
-A:  The HCC Pricing and Cost Model is accessible by IHiS personnel only. Kindly email us to request for access.
+A:  The HCC Pricing and Cost Model is accessible by Synapxe personnel only. Kindly email us to request for access.
 
 Q:    Where can I find the details of the estimated cost of the AWS services ?
 
