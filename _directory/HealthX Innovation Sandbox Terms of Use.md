@@ -23,7 +23,7 @@ description: ""
 
 8. By agreeing to these Terms of Use, Synapxe allows you to access and use the Sandbox and the Service Offerings.&nbsp; Synapxe reserves the right at all times (but will not have an obligation) to terminate your access to the Sandbox for any reason (such as violation of these Terms of Use).
 
-<br> **Usage Terms:**
+<br> 9 **Usage Terms:**
 
 <br> 9.1 You agree that:
 
@@ -45,6 +45,21 @@ description: ""
 <br> Network security measures are as listed:
 * Access to innovation project in the sandbox environment via public network shall through Virtual Private Network (VPN) with 2-Factor Authentication (2FA), and
 * Segmenting the network to isolate the cloud sandbox from other systems and environments, i.e., innovation project to be tested in the sandbox shall NOT access Entity's non-sandbox networks and non-sandbox resources. 
+
+<br> (iv) ***Design for scalability***
+<br> Project teams are encouraged to seek input from Synapxe Chief Architect's Office so that the necessary design considerations can better meet subsequent Solution Review Board assessment requirements when the innovation project progresses towards production environment implementation.
+
+<br> (v) ***Patch Management***
+<br> The sandbox shall be regularly updated with the latest security patches and updates.  A well-defined patch management process shall be followed to ensure timely and efficient patching of vulnerabilities.
+
+<br> (vi) ***Monitoring and Logging***
+<br> Robust monitoring and logging practices shall be implemented to detect and respond to security incidents in a timely manner.  This includes setting up monitoring alerts and notifications, enabling logging and auditing features in the cloud sandbox environment, and regularly reviewing logs for security events or policy violations.
+
+<br> (vii) ***Compliance and Governance***
+<br> The project shall comply with all relevant laws, regulations, and industry standards.  Established governance practices and guidelines shall be followed for cloud resource provisioning, configuration management, and resource usage.
+
+<br> (viii) ***Resource Optimisation***
+
 
 
 
