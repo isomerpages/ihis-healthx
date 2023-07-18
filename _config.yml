@@ -2,15 +2,15 @@ title: Synapxe - HealthX Innovation Sandbox
 url: https://ihis.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#8779fe"
-  secondary-color: "#0aadfb"
+  primary-color: "#5b0df5"
+  secondary-color: "#2fb7f4"
   media-colors:
     - title: media-color-one
-      color: "#fe00ff"
+      color: "#ff00ff"
     - title: media-color-two
-      color: "#4472c4"
+      color: "#3f7cf5"
     - title: media-color-three
-      color: "#744ca0"
+      color: "#bf5af5"
     - title: media-color-four
       color: "#942093"
     - title: media-color-five
