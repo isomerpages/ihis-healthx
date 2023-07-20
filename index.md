@@ -14,7 +14,7 @@ sections:
         your innovation projects.
       button: I AM READY TO APPLY!
       url: https://for.sg/healthx-ideas
-      background: /images/Test Images/sandbox banner.png
+      background: /images/Test Images/sandbox banner 2.png
   - infopic:
       title: Our APIs
       description: Your one-stop resource and support platform for IHiS managed
