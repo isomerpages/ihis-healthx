@@ -10,7 +10,7 @@ sections:
   - hero:
       title: HealthX<br>Innovation Sandbox<br>(HX-IS)
       subtitle: HX-IS enables public healthcare institutes and tech partners to
-        conduct fast experimentation, assessments and value demonstrations for
+        conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       button: I AM READY TO APPLY!
       url: https://for.sg/healthx-ideas
