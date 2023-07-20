@@ -23,7 +23,7 @@ sections:
         virtual space now.
       button: tell me more
       url: /products/our-apis/
-      image: /images/Icons and Logos/innovation-sandbox-api.png
+      image: /images/Icons and Logos/icon_api portal.png
       alt: IHiS CCDP & HSGW Products
   - resources:
       title: Explore & Discover
