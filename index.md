@@ -44,6 +44,6 @@ sections:
         suitability and contact with you.
       button: I AM READY
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
-      image: /images/Icons and Logos/icon_contact us 2.png
+      image: /images/Icons and Logos/icon_apply.png
       alt: Image alt text
 ---
