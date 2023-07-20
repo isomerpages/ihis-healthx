@@ -14,8 +14,7 @@ sections:
         your innovation projects.
       button: I AM READY TO APPLY!
       url: https://for.sg/healthx-ideas
-      background: /images/Test
-        Images/abstract-navy-blue-digital-grid-technology-background.jpeg
+      background: /images/Test Images/sandbox banner.png
   - infopic:
       title: Our APIs
       description: Your one-stop resource and support platform for IHiS managed
