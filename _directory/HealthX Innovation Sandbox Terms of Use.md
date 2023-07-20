@@ -25,52 +25,41 @@ description: ""
 
 ### Usage Terms
 
-9.1\. You agree that:
+9\. You agree that:
 
-9.1.1\. innovation solution to be tested in the Sandbox must have features that allow the Entities to endeavour to meet the requirements in HealthTech Instruction Manual from Ministry of Health of Singapore;
+9.1\. innovation solution to be tested in the Sandbox must have features that allow the Entities to endeavour to meet the requirements in HealthTech Instruction Manual from Ministry of Health of Singapore;
 
-9.1.2\. Following regulatory requirements shall be contextualized accordingly.
+9.2\. Following regulatory requirements shall be contextualized accordingly.
 
-(i)\ ***Access Control***
-Only use the sandbox to carry out the specified project.  Access to IT commercial cloud sandboxes shall be granted only to authorised personnel who are involved in the project.   Access shall be granted based on the principle of least privilege, using role-based access control (RBAC) mechanisms.
+(i) ***Access Control***<br>Only use the sandbox to carry out the specified project.  Access to IT commercial cloud sandboxes shall be granted only to authorised personnel who are involved in the project.   Access shall be granted based on the principle of least privilege, using role-based access control (RBAC) mechanisms.
 
-(ii)\ ***Data Protection***
-Data stored and processed in the sandbox shall be protected in accordance to the following:
+(ii) ***Data Protection***<br>Data stored and processed in the sandbox shall be protected in accordance to the following:
 * No production data and system to be hosted in the sandbox,
 * Only upload non-production and/or synthetic dat for use in the sandbox.  Only non-production and/or synthetic data (which is referring to unclassified), i.e., will not result in any negative impact on the Entity in the event of unauthorised data access/loss of the data, will be allowed to be uploaded to the sandbox.
 * Entity users are not permitted to download data from sandbox to personal devices/account, and
 * Implementing encryption for data at rest and in transit where feasible, and regularly backing up data with tested data restoration process.
 
-(iii)\***Network Security***
-Network security measures are as listed:
+(iii) ***Network Security***<br>Network security measures are as listed:
 * Access to innovation project in the sandbox environment via public network shall through Virtual Private Network (VPN) with 2-Factor Authentication (2FA), and
 * Segmenting the network to isolate the cloud sandbox from other systems and environments, i.e., innovation project to be tested in the sandbox shall NOT access Entity's non-sandbox networks and non-sandbox resources. 
 
-(iv)\ ***Design for scalability***
-Project teams are encouraged to seek input from Synapxe Chief Architect's Office so that the necessary design considerations can better meet subsequent Solution Review Board assessment requirements when the innovation project progresses towards production environment implementation.
+(iv) ***Design for scalability***<br>Project teams are encouraged to seek input from Synapxe Chief Architect's Office so that the necessary design considerations can better meet subsequent Solution Review Board assessment requirements when the innovation project progresses towards production environment implementation.
 
-(v)\ ***Patch Management***
-The sandbox shall be regularly updated with the latest security patches and updates.  A well-defined patch management process shall be followed to ensure timely and efficient patching of vulnerabilities.
+(v) ***Patch Management***<br>The sandbox shall be regularly updated with the latest security patches and updates.  A well-defined patch management process shall be followed to ensure timely and efficient patching of vulnerabilities.
 
-(vi)\ ***Monitoring and Logging***
-Robust monitoring and logging practices shall be implemented to detect and respond to security incidents in a timely manner.  This includes setting up monitoring alerts and notifications, enabling logging and auditing features in the cloud sandbox environment, and regularly reviewing logs for security events or policy violations.
+(vi) ***Monitoring and Logging***<br>Robust monitoring and logging practices shall be implemented to detect and respond to security incidents in a timely manner.  This includes setting up monitoring alerts and notifications, enabling logging and auditing features in the cloud sandbox environment, and regularly reviewing logs for security events or policy violations.
 
-(vii)\ ***Compliance and Governance***
-The project shall comply with all relevant laws, regulations, and industry standards.  Established governance practices and guidelines shall be followed for cloud resource provisioning, configuration management, and resource usage.
+(vii) ***Compliance and Governance***<br>The project shall comply with all relevant laws, regulations, and industry standards.  Established governance practices and guidelines shall be followed for cloud resource provisioning, configuration management, and resource usage.
 
-(viii)\ ***Resource Optimisation***
-Resource usage in sandbox shall be optimised to minimise costs and improve efficiency.  This includes implementing resource usage monitoring policies and optimising resource allocation based on actual usage patterns.
+(viii) ***Resource Optimisation*** <br>Resource usage in sandbox shall be optimised to minimise costs and improve efficiency.  This includes implementing resource usage monitoring policies and optimising resource allocation based on actual usage patterns.
 
-(ix)\ ***Documentation and Change Management***
-Up-to-date documentation of sandbox environment, including configuration details, architecture diagrams, and standard operating procedures (SOPs), shall be maintained.  A formal change management process shall be followed for managing changes to the cloud sandbox environment, including documentation, testing and approval process.
+(ix) ***Documentation and Change Management***<br>Up-to-date documentation of sandbox environment, including configuration details, architecture diagrams, and standard operating procedures (SOPs), shall be maintained.  A formal change management process shall be followed for managing changes to the cloud sandbox environment, including documentation, testing and approval process.
 
-(x)\ ***Disaster Recovery and Business Continuity***
-Disaster recovery (DR) and business continuity (BC) measures shall be implemented.  Regular test DR and BC plans to ensure they are effective and can be executed in case of a disaster or outage.
+(x) ***Disaster Recovery and Business Continuity***<br>Disaster recovery (DR) and business continuity (BC) measures shall be implemented.  Regular test DR and BC plans to ensure they are effective and can be executed in case of a disaster or outage.
 
-(xi)\ Training and Awareness
-Users who have access to the sandbox should have regular training and awareness programs to educate them about security best practices, policies, and procedures to ensure they understand their responsibilities and follow the established guidelines.  
+(xi) ***Training and Awareness***<br>Users who have access to the sandbox should have regular training and awareness programs to educate them about security best practices, policies, and procedures to ensure they understand their responsibilities and follow the established guidelines.  
 
-9.2\. You shall specify the Entry and Exit requirement for the Sandbox project with the information included as part of the project proposal.
+9.3\. You shall specify the Entry and Exit requirement for the Sandbox project with the information included as part of the project proposal.
  
 10\. Updates
 10.1\. From time to time, we may issue, release or provide updates / upgrades to, or new version of the Sandbox and/or the Service Offerings (“Updates”).&nbsp; Such Updates may take place and be implemented automatically or may require action on your part.&nbsp;&nbsp;&nbsp; Please note that the Sandbox and/or the Service Offerings, or any part thereof, may not operate properly or at all if the Updates are not installed or implemented by you.&nbsp; For the avoidance of doubt, we do not guarantee that such Updates will be made available, or that such Updates will continue to be compatible with your existing Applications or its operating system.&nbsp;&nbsp;&nbsp;
