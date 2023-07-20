@@ -3,10 +3,10 @@ url: https://ihis.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#5b0df5"
-  secondary-color: "#2fb7f4"
+  secondary-color: "#ff00ff"
   media-colors:
     - title: media-color-one
-      color: "#ff00ff"
+      color: "#2fb7f4"
     - title: media-color-two
       color: "#3f7cf5"
     - title: media-color-three
