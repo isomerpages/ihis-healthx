@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-Thank you for visiting IHiS’ website ("Website"). Before you proceed further, please read the Terms of Use below.
+Thank you for visiting Synapxe’ website ("Website"). Before you proceed further, please read the Terms of Use below.
 
 ## General
 ------------------
