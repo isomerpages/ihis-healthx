@@ -13,7 +13,7 @@ Thank you for visiting Synapxe’ website ("Website"). Before you proceed furthe
 ## Proprietary Rights
 ------------------
 
-2\. All material on this Website, including graphics and images (“the Contents”), are subject to copyright, trademark and other forms of proprietary rights protected by law, and are owned by, licensed to, or controlled by IHiS.
+2\. All material on this Website, including graphics and images (“the Contents”), are subject to copyright, trademark and other forms of proprietary rights protected by law, and are owned by, licensed to, or controlled by Synapxe.
 
 ## Restrictions On Use Of Material
 -------------------------------
