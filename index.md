@@ -18,7 +18,7 @@ sections:
         Images/healthx-innovationsandbox-mainbanner-2560x1000px-21jul23.jpg
   - infopic:
       title: Our APIs
-      description: Your one-stop resource and support platform for IHiS managed
+      description: Your one-stop resource and support platform for Synapxe managed
         application programming interfaces (APIs). Learn more and apply for a
         virtual space now.
       button: tell me more
