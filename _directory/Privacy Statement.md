@@ -102,25 +102,23 @@ In addition, we collect, use and/or disclose your Personal Data for the followin
 
 Subject to the provisions of any applicable law, and where relevant for the purposes described, your Personal Data may be collected, used and/or disclosed, for the purposes listed above (where applicable), to the following entities, each subject to our first having reviewed and approved such party for disclosure, whether they are located overseas or in Singapore:
 
-1.  IHiS' related corporations, affiliates and associated companies;
-2.  our authorised agents, contractors or third party service providers who provide operational services to IHiS, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call centre, security, or other services to IHiS;
-3.  our professional advisers such as consultants, auditors and lawyers;
-4.  third parties seeking employee references in respect of former employees of any of IHiS' related corporations, affiliates or associated companies;
-5.  any credit bureau, or in the event of default or disputes, any debt collection agencies or dispute resolution centres;
-6.  any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale);
-7.  anyone to whom we transfer or may transfer our rights and duties;
-8.  relevant government ministries, regulators, statutory boards or authorities or law enforcement agencies to comply with any laws, rules, guidelines and regulations or schemes imposed by any governmental authority;
-9.  any other relevant party to whom you authorise us to disclose your Personal Data; and
-10.  any other person in connection with the purposes set forth above.  
+* Synapxe' related corporations, affiliates and associated companies;
+* our authorised agents, contractors or third party service providers who provide operational services to Synapxe, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call centre, security, or other services to Synapxe;
+* our professional advisers such as consultants, auditors and lawyers;
+* third parties seeking employee references in respect of former employees of any of Synapxe' related corporations, affiliates or associated companies;
+* any credit bureau, or in the event of default or disputes, any debt collection agencies or dispute resolution centres;
+* any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale);
+* anyone to whom we transfer or may transfer our rights and duties;
+* relevant government ministries, regulators, statutory boards or authorities or law enforcement agencies to comply with any laws, rules, guidelines and regulations or schemes imposed by any governmental authority;
+* any other relevant party to whom you authorise us to disclose your Personal Data; and
+* any other person in connection with the purposes set forth above.  
     
-
-  
 
 6\. Accuracy of Personal Data  
 
 --------------------------------
 
-We will take appropriate and reasonable steps to ensure the accuracy and correctness of the Personal Data that we collect, use and/or disclose. To enable us to ensure the quality and accuracy of Personal Data, you have an obligation to provide accurate and up-to-date information to IHiS.
+We will take appropriate and reasonable steps to ensure the accuracy and correctness of the Personal Data that we collect, use and/or disclose. To enable us to ensure the quality and accuracy of Personal Data, you have an obligation to provide accurate and up-to-date information to Synapxe.
 
   
 
@@ -140,7 +138,7 @@ We retain Personal Data as may be required for business, legal, regulatory or co
 
   
 
-9.&nbsp;Transfer of Personal Data Outside Singapore
+9\.Transfer of Personal Data Outside Singapore
 
 ----------------------------------------------
 
@@ -148,17 +146,17 @@ Generally, we do not transfer Personal Data out of Singapore, except to our appr
 
   
 
-10.&nbsp;Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback
+10\. Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback
 
 ----------------------------------------------------------------------------------------------------------------
 
 We respect your rights to your Personal Data and will respond to the following requests:  
 
-1.  Withdrawal of consent; and
-2.  Access, update or correction of your Personal Data.  
+* Withdrawal of consent; and
+* Access, update or correction of your Personal Data.  
     
 
-In each instance, we will use reasonable efforts to respond and/or attend to your request within&nbsp;21 business days&nbsp;upon receiving your request unless more time is needed, in which case, we will notify you of this within the 21 day period.  
+In each instance, we will use reasonable efforts to respond and/or attend to your request within 21 business days upon receiving your request unless more time is needed, in which case, we will notify you of this within the 21 days period.  
 
 For current employee and registered account holders, please log in to your respective dedicated portals. If you have any queries relating to the portals below, please contact the portals' administrators directly at:  
 
@@ -168,7 +166,7 @@ If you have any questions or feedback relating to your Personal Data or our Priv
 
 To process your request, we will seek to verify your identity and other details so as to retrieve the relevant data. If we are unable to complete your request, we will inform you of the reasons. In responding to your access request, we may collect a reasonable fee if necessary and will inform you beforehand. If we require any further justifications or grounds before processing your request, we will inform you of the same.  
 
-You are entitled to withdraw your consent for the collection, use and disclosure of your Personal Data at any time. However, depending on the nature of the withdrawal, it may impact our ability to proceed with your transactions, agreements or interactions with us, and in particular it may not be possible, without undue risk, cost or liability to IHiS to proceed with a particular transaction, agreement or interaction with you, and we may be left with no choice but to cease or refrain from the same.  
+You are entitled to withdraw your consent for the collection, use and disclosure of your Personal Data at any time. However, depending on the nature of the withdrawal, it may impact our ability to proceed with your transactions, agreements or interactions with us, and in particular it may not be possible, without undue risk, cost or liability to Synapxe to proceed with a particular transaction, agreement or interaction with you, and we may be left with no choice but to cease or refrain from the same.  
 
 We will take the approach that best safeguards us, you and others from risks, and we may well have no choice but to decline to proceed with the transaction, agreement or interaction in question to avoid causing harm or exposing us, you or others to risk.  
 
@@ -212,7 +210,7 @@ We will update this Privacy Policy from time to time to ensure that this Privacy
 
 Any changes we may make to this Privacy Policy in the future will be posted onto our website at&nbsp;[www.ihis.com.sg](https://www.ihis.com.sg/).  
 
-### **Last updated:&nbsp; 1st August 2022**  
+#### **Last updated:&nbsp; 27 July 2023**  
 
 ![](https://www.ihis.com.sg/Latest_News/Media_Releases/PublishingImages/shadow_line.png)  
 
@@ -220,10 +218,10 @@ Any changes we may make to this Privacy Policy in the future will be posted onto
 
   
 
-IHiS is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.&nbsp;
+Synapxe is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.&nbsp;
 
-Generally, IHiS also acts as a data intermediary for public healthcare organisations, and where so, our processing of Personal Data is subject to stringent contractual controls and oversight including appropriate legal, regulatory, operational and technical requirements and safeguards.&nbsp;  
+Generally, Synapxe also acts as a data intermediary for public healthcare organisations, and where so, our processing of Personal Data is subject to stringent contractual controls and oversight including appropriate legal, regulatory, operational and technical requirements and safeguards.&nbsp;  
 
-As data intermediaries we will perform data processing activities, the details of which are confidential. Queries concerning your Personal Data in relation to any public healthcare organisation for which IHiS acts as data intermediary, should be directed to that public healthcare organisation’s data protection officer/office.
+As data intermediaries we will perform data processing activities, the details of which are confidential. Queries concerning your Personal Data in relation to any public healthcare organisation for which Synapxe acts as data intermediary, should be directed to that public healthcare organisation’s data protection officer/office.
 
 Information about the policies and practices of such organisations are made available by the public healthcare organisation itself (e.g. your clinic, your hospital, etc) and you should refer to their privacy policy and direct any queries concerning the same to the appropriate contact stated therein.
