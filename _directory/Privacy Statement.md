@@ -5,7 +5,7 @@ description: ""
 ---
 ### Privacy Policy
 
-Integrated Health Information Systems Pte. Ltd. (collectively "IHiS", "us", "we" or "our") are committed to protecting the rights and privacy of individuals in accordance with the Singapore Personal Data Protection Act 2012 (the "PDPA").  
+Synapxe Pte. Ltd. (collectively "Synapxe", "us", "we" or "our") are committed to protecting the rights and privacy of individuals in accordance with the Singapore Personal Data Protection Act 2012 (the "PDPA").  
 
 This policy ("Privacy Policy") describes how we may collect, use, disclose, process and manage your Personal Data in the course of our business, including our websites, services and products such as mobile applications, technical platforms, and other online or offline offerings otherwise indicated. This policy applies to any individual's Personal Data which is in our possession or under our control.  
 
@@ -39,13 +39,13 @@ The exact type of Personal Data that may apply in your case will vary depending 
 Generally, we may collect your Personal Data in the following ways:
 
 
-1. when you use our electronic services, app downloads, or interact with us (including social media platforms) via any of our online and/or digital services;
-2.  when you interact with us via any offline transactions such as counter customer service, face-to-face meetings, career roadshows and product tradeshows;
-3.  when you enter into any agreement or provide other documentation or information in respect of your interactions with us, or when you use our services;
-4.  when you submit forms, applications, requests or feedback to us;
-5.  when we receive your Personal Data from referral parties, your employer and/or other authorised third parties;
-6.  when your images are captured by us when you attend corporate events (including our recreation activities) hosted by us; and
-7.  when you submit your Personal Data to us for any other reason.
+* when you use our electronic services, app downloads, or interact with us (including social media platforms) via any of our online and/or digital services;
+* when you interact with us via any offline transactions such as counter customer service, face-to-face meetings, career roadshows and product tradeshows;
+* when you enter into any agreement or provide other documentation or information in respect of your interactions with us, or when you use our services;
+* when you submit forms, applications, requests or feedback to us;
+* when we receive your Personal Data from referral parties, your employer and/or other authorised third parties;
+* when your images are captured by us when you attend corporate events (including our recreation activities) hosted by us; and
+* when you submit your Personal Data to us for any other reason.
 
 If you provide us with any Personal Data relating to a third party (e.g. information on your spouse, children, parents, and/or employees), by submitting such information to us, you represent to us that you have obtained his/her/their consent to provide us with their Personal Data for the respective purposes.  
 
@@ -61,43 +61,40 @@ If consents are not procured or if you fail to provide us with complete and accu
 
 Generally, we may collect, use and/or disclose your Personal Data for the following purposes:
 
-1.  assessing and processing applications, instructions or requests from you;
-2.  verifying your identity before providing our services or responding to your queries, feedback, complaints and/or requests;
-3.  managing our day-to-day business operations and complying with internal policies and procedures;
-4.  communicating with you, including providing you with job opportunities and updates on changes to products and services;
-5.  carrying out research, survey and/or business analysis to improve our products and services and to enhance business strategies;
-6.  facilitating and maintaining risk and security management including any enterprise-wide risk management exercise such as close-circuit television (CCTV), protection against unauthorised leakage, access or usage of our physical or IT platforms, investigating any fraudulent activities and conducting checks and audits;
-7.  preventing, detecting and investigating crime and analysing and managing commercial risks including conducting investigations relating to disputes, billing or fraud;
-8.  in connection with any claims, actions or proceedings (including but not limited to seeking consultancy or professional services, obtaining legal advice and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
-9.  managing Requests for Proposal(s), Requests for Quotation(s), project tenders and quotations, processing orders or managing the supply of goods and services;
-10.  processing and payment of vendor invoices and bills;
-11.  facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales); and/or
-12.  complying with any applicable rules, laws, regulations, directives, orders, codes of practice or instructions issued by any legal or regulatory bodies and law enforcement authorities.
+* assessing and processing applications, instructions or requests from you;
+* verifying your identity before providing our services or responding to your queries, feedback, complaints and/or requests;
+* managing our day-to-day business operations and complying with internal policies and procedures;
+* communicating with you, including providing you with job opportunities and updates on changes to products and services;
+* carrying out research, survey and/or business analysis to improve our products and services and to enhance business strategies;
+* facilitating and maintaining risk and security management including any enterprise-wide risk management exercise such as close-circuit television (CCTV), protection against unauthorised leakage, access or usage of our physical or IT platforms, investigating any fraudulent activities and conducting checks and audits;
+* preventing, detecting and investigating crime and analysing and managing commercial risks including conducting investigations relating to disputes, billing or fraud;
+* in connection with any claims, actions or proceedings (including but not limited to seeking consultancy or professional services, obtaining legal advice and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
+* managing Requests for Proposal(s), Requests for Quotation(s), project tenders and quotations, processing orders or managing the supply of goods and services;
+* processing and payment of vendor invoices and bills;
+* facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales); and/or
+* complying with any applicable rules, laws, regulations, directives, orders, codes of practice or instructions issued by any legal or regulatory bodies and law enforcement authorities.
 
 In addition to the above purposes, we may also use Personal Data for purposes set out in the terms and conditions and in any contracts that govern our relationship with you.  
 
   
-
 4\. For Employment Purposes  
 
 ------------------------------
 
 In addition, we collect, use and/or disclose your Personal Data for the following purposes:  
 
-1.  If you apply to IHiS for any professional career roles or choose to respond to any employment opportunities offered by IHiS:  
+* If you apply to Synapxe for any professional career roles or choose to respond to any employment opportunities offered by Synapxe:  
+
+(a) conducting interviews;
+(b) assessing, processing and evaluating your application to establish your suitability for the position applied for (including but not limited to pre-recruitment checks involving your qualifications and background screening and facilitating interviews);
+(c) obtaining employee references and for background screening, obtaining employee references or other references where relevant for background screening / vetting – and in this regard, by applying for employment and submitting references and referees, you warrant that consent has been obtained by you for us to contact any third parties named as referees or relevant as references;
+(d) collecting information and reviewing that information to establish your suitability for the position applied for; and/or
+(e) any other purpose reasonably related to the aforesaid.
+
+* If you are an existing employee of Synapxe, your relationship with us is governed primarily by an employment contract, and your agreement to Synapxe policies and procedures, as well as Employee Handbook (as may be revised from time to time), which may expressly or impliedly inform you of how your Personal Data will be used. Generally, Synapxe is required to process your Personal Data in order to comply with its contractual, statutory and management obligations and responsibilities.&nbsp;
+
+* If you are an employee, officer or owner of an external service provider or vendor who provides services (including outsourcing, secondment or other engagement by Synapxe for services).  
     
-
-*   conducting interviews;
-*   assessing, processing and evaluating your application to establish your suitability for the position applied for (including but not limited to pre-recruitment checks involving your qualifications and background screening and facilitating interviews);
-*   obtaining employee references and for background screening, obtaining employee references or other references where relevant for background screening / vetting – and in this regard, by applying for employment and submitting references and referees, you warrant that consent has been obtained by you for us to contact any third parties named as referees or relevant as references;
-*   collecting information and reviewing that information to establish your suitability for the position applied for; and/or
-*   any other purpose reasonably related to the aforesaid.
-
-3.  If you are an existing employee of IHiS, your relationship with us is governed primarily by an employment contract, and your agreement to IHiS policies and procedures, as well as Employee Handbook (as may be revised from time to time), which may expressly or impliedly inform you of how your Personal Data will be used. Generally, IHiS is required to process your Personal Data in order to comply with its contractual, statutory and management obligations and responsibilities.&nbsp;
-4.  If you are an employee, officer or owner of an external service provider or vendor who provides services (including outsourcing, secondment or other engagement by IHiS for services).  
-    
-
-  
 
 5\. Who Will We Disclose Your Personal Data To  
 
