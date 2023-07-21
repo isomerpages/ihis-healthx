@@ -12,7 +12,7 @@ sections:
       subtitle: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
-      button: I AM READY TO APPLY!
+      button: Express your interest
       url: https://for.sg/healthx-ideas
       background: /images/Test Images/sandbox banner 2.png
   - infopic:
