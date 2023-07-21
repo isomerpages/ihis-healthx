@@ -35,7 +35,7 @@ description: ""
 
 (ii) ***Data Protection***<br>Data stored and processed in the sandbox shall be protected in accordance to the following:
 * No production data and system to be hosted in the sandbox,
-* Only upload non-production and/or synthetic dat for use in the sandbox.  Only non-production and/or synthetic data (which is referring to unclassified), i.e., will not result in any negative impact on the Entity in the event of unauthorised data access/loss of the data, will be allowed to be uploaded to the sandbox.
+* Only upload non-production and/or synthetic data for use in the sandbox.  Only non-production and/or synthetic data (which is referring to unclassified), i.e., will not result in any negative impact on the Entity in the event of unauthorised data access/loss of the data, will be allowed to be uploaded to the sandbox.
 * Entity users are not permitted to download data from sandbox to personal devices/account, and
 * Implementing encryption for data at rest and in transit where feasible, and regularly backing up data with tested data restoration process.
 
