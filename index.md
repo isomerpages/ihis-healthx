@@ -14,7 +14,8 @@ sections:
         your innovation projects.
       button: Express your interest
       url: https://for.sg/healthx-ideas
-      background: /images/Test Images/sandbox banner 2.png
+      background: /images/IHiS HealthX
+        Images/healthx-innovationsandbox-mainbanner-2560x1000px-21jul23.jpg
   - infopic:
       title: Our APIs
       description: Your one-stop resource and support platform for IHiS managed
