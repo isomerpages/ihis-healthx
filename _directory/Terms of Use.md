@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-Thank you for visiting Synapxe’ website ("Website"). Before you proceed further, please read the Terms of Use below.
+Thank you for visiting Synapxe website ("Website"). Before you proceed further, please read the Terms of Use below.
 
 ## General
 ------------------
@@ -23,7 +23,7 @@ Thank you for visiting Synapxe’ website ("Website"). Before you proceed furthe
 ## Privacy Policy
 --------------
 
-4\. Click [here](https://www.ihis.com.sg/Privacy_Policy/Pages/Privacy_Statement.aspx) to view the Website’s Privacy Policy statement.
+4\. Click [here](https://www.synapxe.sg/privacy-policy) to view the Website’s Privacy Policy statement.
 
 ## Disclaimer Of Warranties And Liabilities
 ----------------------------------------
