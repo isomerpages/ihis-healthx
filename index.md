@@ -3,7 +3,7 @@ layout: homepage
 title: Synapxe - HealthX Innovation Sandbox
 description: Synapxe HealthX Innovation Sandbox | Copyright ©2023 Synapxe Pte
   Ltd. All Rights Reserved. Co Reg No.200814464H
-image: /images/isomer-logo.svg
+image: /images/Icons and Logos/icon_hxis api.png
 permalink: /
 notification: ""
 sections:
