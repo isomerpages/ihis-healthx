@@ -14,7 +14,7 @@ sections:
         your innovation projects.
       button: Express your interest
       url: https://for.sg/healthx-ideas
-      background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 10.png
+      background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 30.png
   - infopic:
       title: Our APIs
       description: Your one-stop resource and support platform for Synapxe managed
