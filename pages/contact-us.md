@@ -19,8 +19,8 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: ihis.co-lab@ihis.com.sg
+      - email: ihis.co-lab@synapxe.sg
       - other: ""
     title: HealthX Innovation Sandbox
-feedback: https://www.ihis.com.sg/Contact_Us
+feedback: https://www.synapxe.sg/Contact_Us
 ---
