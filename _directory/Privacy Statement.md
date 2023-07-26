@@ -5,7 +5,7 @@ description: ""
 ---
 ### Privacy Policy
 
-Synapxe Pte. Ltd. (collectively "Synapxe", "us", "we" or "our") are committed to protecting the rights and privacy of individuals in accordance with the Singapore Personal Data Protection Act 2012 (the "PDPA").  
+Integrated Health Information Systems Pte. Ltd. (collectively "IHiS", "us", "we" or "our") are committed to protecting the rights and privacy of individuals in accordance with the Singapore Personal Data Protection Act 2012 (the "PDPA").  
 
 This policy ("Privacy Policy") describes how we may collect, use, disclose, process and manage your Personal Data in the course of our business, including our websites, services and products such as mobile applications, technical platforms, and other online or offline offerings otherwise indicated. This policy applies to any individual's Personal Data which is in our possession or under our control.  
 
@@ -39,13 +39,13 @@ The exact type of Personal Data that may apply in your case will vary depending 
 Generally, we may collect your Personal Data in the following ways:
 
 
-* when you use our electronic services, app downloads, or interact with us (including social media platforms) via any of our online and/or digital services;
-* when you interact with us via any offline transactions such as counter customer service, face-to-face meetings, career roadshows and product tradeshows;
-* when you enter into any agreement or provide other documentation or information in respect of your interactions with us, or when you use our services;
-* when you submit forms, applications, requests or feedback to us;
-* when we receive your Personal Data from referral parties, your employer and/or other authorised third parties;
-* when your images are captured by us when you attend corporate events (including our recreation activities) hosted by us; and
-* when you submit your Personal Data to us for any other reason.
+1. when you use our electronic services, app downloads, or interact with us (including social media platforms) via any of our online and/or digital services;
+2.  when you interact with us via any offline transactions such as counter customer service, face-to-face meetings, career roadshows and product tradeshows;
+3.  when you enter into any agreement or provide other documentation or information in respect of your interactions with us, or when you use our services;
+4.  when you submit forms, applications, requests or feedback to us;
+5.  when we receive your Personal Data from referral parties, your employer and/or other authorised third parties;
+6.  when your images are captured by us when you attend corporate events (including our recreation activities) hosted by us; and
+7.  when you submit your Personal Data to us for any other reason.
 
 If you provide us with any Personal Data relating to a third party (e.g. information on your spouse, children, parents, and/or employees), by submitting such information to us, you represent to us that you have obtained his/her/their consent to provide us with their Personal Data for the respective purposes.  
 
@@ -61,40 +61,43 @@ If consents are not procured or if you fail to provide us with complete and accu
 
 Generally, we may collect, use and/or disclose your Personal Data for the following purposes:
 
-* assessing and processing applications, instructions or requests from you;
-* verifying your identity before providing our services or responding to your queries, feedback, complaints and/or requests;
-* managing our day-to-day business operations and complying with internal policies and procedures;
-* communicating with you, including providing you with job opportunities and updates on changes to products and services;
-* carrying out research, survey and/or business analysis to improve our products and services and to enhance business strategies;
-* facilitating and maintaining risk and security management including any enterprise-wide risk management exercise such as close-circuit television (CCTV), protection against unauthorised leakage, access or usage of our physical or IT platforms, investigating any fraudulent activities and conducting checks and audits;
-* preventing, detecting and investigating crime and analysing and managing commercial risks including conducting investigations relating to disputes, billing or fraud;
-* in connection with any claims, actions or proceedings (including but not limited to seeking consultancy or professional services, obtaining legal advice and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
-* managing Requests for Proposal(s), Requests for Quotation(s), project tenders and quotations, processing orders or managing the supply of goods and services;
-* processing and payment of vendor invoices and bills;
-* facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales); and/or
-* complying with any applicable rules, laws, regulations, directives, orders, codes of practice or instructions issued by any legal or regulatory bodies and law enforcement authorities.
+1.  assessing and processing applications, instructions or requests from you;
+2.  verifying your identity before providing our services or responding to your queries, feedback, complaints and/or requests;
+3.  managing our day-to-day business operations and complying with internal policies and procedures;
+4.  communicating with you, including providing you with job opportunities and updates on changes to products and services;
+5.  carrying out research, survey and/or business analysis to improve our products and services and to enhance business strategies;
+6.  facilitating and maintaining risk and security management including any enterprise-wide risk management exercise such as close-circuit television (CCTV), protection against unauthorised leakage, access or usage of our physical or IT platforms, investigating any fraudulent activities and conducting checks and audits;
+7.  preventing, detecting and investigating crime and analysing and managing commercial risks including conducting investigations relating to disputes, billing or fraud;
+8.  in connection with any claims, actions or proceedings (including but not limited to seeking consultancy or professional services, obtaining legal advice and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
+9.  managing Requests for Proposal(s), Requests for Quotation(s), project tenders and quotations, processing orders or managing the supply of goods and services;
+10.  processing and payment of vendor invoices and bills;
+11.  facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales); and/or
+12.  complying with any applicable rules, laws, regulations, directives, orders, codes of practice or instructions issued by any legal or regulatory bodies and law enforcement authorities.
 
 In addition to the above purposes, we may also use Personal Data for purposes set out in the terms and conditions and in any contracts that govern our relationship with you.  
 
   
+
 4\. For Employment Purposes  
 
 ------------------------------
 
 In addition, we collect, use and/or disclose your Personal Data for the following purposes:  
 
-* If you apply to Synapxe for any professional career roles or choose to respond to any employment opportunities offered by Synapxe:  
-
-(a) conducting interviews;
-(b) assessing, processing and evaluating your application to establish your suitability for the position applied for (including but not limited to pre-recruitment checks involving your qualifications and background screening and facilitating interviews);
-(c) obtaining employee references and for background screening, obtaining employee references or other references where relevant for background screening / vetting – and in this regard, by applying for employment and submitting references and referees, you warrant that consent has been obtained by you for us to contact any third parties named as referees or relevant as references;
-(d) collecting information and reviewing that information to establish your suitability for the position applied for; and/or
-(e) any other purpose reasonably related to the aforesaid.
-
-* If you are an existing employee of Synapxe, your relationship with us is governed primarily by an employment contract, and your agreement to Synapxe policies and procedures, as well as Employee Handbook (as may be revised from time to time), which may expressly or impliedly inform you of how your Personal Data will be used. Generally, Synapxe is required to process your Personal Data in order to comply with its contractual, statutory and management obligations and responsibilities.&nbsp;
-
-* If you are an employee, officer or owner of an external service provider or vendor who provides services (including outsourcing, secondment or other engagement by Synapxe for services).  
+1.  If you apply to IHiS for any professional career roles or choose to respond to any employment opportunities offered by IHiS:  
     
+
+*   conducting interviews;
+*   assessing, processing and evaluating your application to establish your suitability for the position applied for (including but not limited to pre-recruitment checks involving your qualifications and background screening and facilitating interviews);
+*   obtaining employee references and for background screening, obtaining employee references or other references where relevant for background screening / vetting – and in this regard, by applying for employment and submitting references and referees, you warrant that consent has been obtained by you for us to contact any third parties named as referees or relevant as references;
+*   collecting information and reviewing that information to establish your suitability for the position applied for; and/or
+*   any other purpose reasonably related to the aforesaid.
+
+3.  If you are an existing employee of IHiS, your relationship with us is governed primarily by an employment contract, and your agreement to IHiS policies and procedures, as well as Employee Handbook (as may be revised from time to time), which may expressly or impliedly inform you of how your Personal Data will be used. Generally, IHiS is required to process your Personal Data in order to comply with its contractual, statutory and management obligations and responsibilities.&nbsp;
+4.  If you are an employee, officer or owner of an external service provider or vendor who provides services (including outsourcing, secondment or other engagement by IHiS for services).  
+    
+
+  
 
 5\. Who Will We Disclose Your Personal Data To  
 
@@ -102,23 +105,25 @@ In addition, we collect, use and/or disclose your Personal Data for the followin
 
 Subject to the provisions of any applicable law, and where relevant for the purposes described, your Personal Data may be collected, used and/or disclosed, for the purposes listed above (where applicable), to the following entities, each subject to our first having reviewed and approved such party for disclosure, whether they are located overseas or in Singapore:
 
-* Synapxe' related corporations, affiliates and associated companies;
-* our authorised agents, contractors or third party service providers who provide operational services to Synapxe, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call centre, security, or other services to Synapxe;
-* our professional advisers such as consultants, auditors and lawyers;
-* third parties seeking employee references in respect of former employees of any of Synapxe' related corporations, affiliates or associated companies;
-* any credit bureau, or in the event of default or disputes, any debt collection agencies or dispute resolution centres;
-* any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale);
-* anyone to whom we transfer or may transfer our rights and duties;
-* relevant government ministries, regulators, statutory boards or authorities or law enforcement agencies to comply with any laws, rules, guidelines and regulations or schemes imposed by any governmental authority;
-* any other relevant party to whom you authorise us to disclose your Personal Data; and
-* any other person in connection with the purposes set forth above.  
+1.  IHiS' related corporations, affiliates and associated companies;
+2.  our authorised agents, contractors or third party service providers who provide operational services to IHiS, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call centre, security, or other services to IHiS;
+3.  our professional advisers such as consultants, auditors and lawyers;
+4.  third parties seeking employee references in respect of former employees of any of IHiS' related corporations, affiliates or associated companies;
+5.  any credit bureau, or in the event of default or disputes, any debt collection agencies or dispute resolution centres;
+6.  any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale);
+7.  anyone to whom we transfer or may transfer our rights and duties;
+8.  relevant government ministries, regulators, statutory boards or authorities or law enforcement agencies to comply with any laws, rules, guidelines and regulations or schemes imposed by any governmental authority;
+9.  any other relevant party to whom you authorise us to disclose your Personal Data; and
+10.  any other person in connection with the purposes set forth above.  
     
+
+  
 
 6\. Accuracy of Personal Data  
 
 --------------------------------
 
-We will take appropriate and reasonable steps to ensure the accuracy and correctness of the Personal Data that we collect, use and/or disclose. To enable us to ensure the quality and accuracy of Personal Data, you have an obligation to provide accurate and up-to-date information to Synapxe.
+We will take appropriate and reasonable steps to ensure the accuracy and correctness of the Personal Data that we collect, use and/or disclose. To enable us to ensure the quality and accuracy of Personal Data, you have an obligation to provide accurate and up-to-date information to IHiS.
 
   
 
@@ -138,7 +143,7 @@ We retain Personal Data as may be required for business, legal, regulatory or co
 
   
 
-9\.Transfer of Personal Data Outside Singapore
+9.&nbsp;Transfer of Personal Data Outside Singapore
 
 ----------------------------------------------
 
@@ -146,27 +151,27 @@ Generally, we do not transfer Personal Data out of Singapore, except to our appr
 
   
 
-10\. Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback
+10.&nbsp;Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback
 
 ----------------------------------------------------------------------------------------------------------------
 
 We respect your rights to your Personal Data and will respond to the following requests:  
 
-* Withdrawal of consent; and
-* Access, update or correction of your Personal Data.  
+1.  Withdrawal of consent; and
+2.  Access, update or correction of your Personal Data.  
     
 
-In each instance, we will use reasonable efforts to respond and/or attend to your request within 21 business days upon receiving your request unless more time is needed, in which case, we will notify you of this within the 21 days period.  
+In each instance, we will use reasonable efforts to respond and/or attend to your request within&nbsp;21 business days&nbsp;upon receiving your request unless more time is needed, in which case, we will notify you of this within the 21 day period.  
 
 For current employee and registered account holders, please log in to your respective dedicated portals. If you have any queries relating to the portals below, please contact the portals' administrators directly at:  
 
-<table cellspacing="0" width="100%" class="ms-rteTable-default" style="box-sizing: inherit; border: 1px solid rgb(198, 198, 198); border-collapse: collapse; border-spacing: 0px; margin-bottom: 0px; color: rgb(31, 31, 31); font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr class="ms-rteTableEvenRow-default" style="box-sizing: inherit; border: 0px !important;"><td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 409.5px;"><b style="box-sizing: inherit; font-weight: bold;">&nbsp;&nbsp;Portals</b></td><td class="ms-rteTableOddCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 409.5px;"><b style="box-sizing: inherit; font-weight: bold;">&nbsp; Assigned administrators</b></td></tr><tr class="ms-rteTableOddRow-default" style="box-sizing: inherit; border: 0px !important;"><td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp; Job application</td><td class="ms-rteTableOddCol-default" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp;&nbsp;<a href="mailto:careers@synapxe.sg" style="box-sizing: inherit; color: rgb(37, 126, 225); text-decoration: none; background-color: transparent; transition-timing-function: linear; transition-property: color, background-color; transition-duration: 200ms; backface-visibility: hidden; display: inline-block; position: relative;">careers@synapxe.sg</a></td></tr><tr class="ms-rteTableEvenRow-default" style="box-sizing: inherit; border: 0px !important;"><td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp; Others</td><td class="ms-rteTableOddCol-default" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp;&nbsp;<a href="mailto:contactus@synapxe.sg" style="box-sizing: inherit; color: rgb(37, 126, 225); text-decoration: none; background-color: transparent; transition-timing-function: linear; transition-property: color, background-color; transition-duration: 200ms; backface-visibility: hidden; display: inline-block; position: relative;">contactus@synapxe.sg</a></td></tr></tbody></table>
+<table cellspacing="0" width="100%" class="ms-rteTable-default" style="box-sizing: inherit; border: 1px solid rgb(198, 198, 198); border-collapse: collapse; border-spacing: 0px; margin-bottom: 0px; color: rgb(31, 31, 31); font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr class="ms-rteTableEvenRow-default" style="box-sizing: inherit; border: 0px !important;"><td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 409.5px;"><b style="box-sizing: inherit; font-weight: bold;">&nbsp;&nbsp;Portals</b></td><td class="ms-rteTableOddCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 409.5px;"><b style="box-sizing: inherit; font-weight: bold;">&nbsp; Assigned administrators</b></td></tr><tr class="ms-rteTableOddRow-default" style="box-sizing: inherit; border: 0px !important;"><td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp; Job application</td><td class="ms-rteTableOddCol-default" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp;&nbsp;<a href="mailto:careers@ihis.com.sg" style="box-sizing: inherit; color: rgb(37, 126, 225); text-decoration: none; background-color: transparent; transition-timing-function: linear; transition-property: color, background-color; transition-duration: 200ms; backface-visibility: hidden; display: inline-block; position: relative;">careers@ihis.com.sg</a></td></tr><tr class="ms-rteTableEvenRow-default" style="box-sizing: inherit; border: 0px !important;"><td class="ms-rteTableEvenCol-default" rowspan="1" colspan="1" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp; Others</td><td class="ms-rteTableOddCol-default" style="box-sizing: inherit; padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">&nbsp;&nbsp;<a href="mailto:contactus@ihis.com.sg" style="box-sizing: inherit; color: rgb(37, 126, 225); text-decoration: none; background-color: transparent; transition-timing-function: linear; transition-property: color, background-color; transition-duration: 200ms; backface-visibility: hidden; display: inline-block; position: relative;">contactus@ihis.com.sg</a></td></tr></tbody></table>
 
-If you have any questions or feedback relating to your Personal Data or our Privacy Policy, you can contact our Data Protection Officer by emailing us at:&nbsp;[contactus@synapxe.sg](mailto:contactus@ihis.com.sg).  
+If you have any questions or feedback relating to your Personal Data or our Privacy Policy, you can contact our Data Protection Officer by emailing us at:&nbsp;[contactus@ihis.com.sg](mailto:contactus@ihis.com.sg).  
 
 To process your request, we will seek to verify your identity and other details so as to retrieve the relevant data. If we are unable to complete your request, we will inform you of the reasons. In responding to your access request, we may collect a reasonable fee if necessary and will inform you beforehand. If we require any further justifications or grounds before processing your request, we will inform you of the same.  
 
-You are entitled to withdraw your consent for the collection, use and disclosure of your Personal Data at any time. However, depending on the nature of the withdrawal, it may impact our ability to proceed with your transactions, agreements or interactions with us, and in particular it may not be possible, without undue risk, cost or liability to Synapxe to proceed with a particular transaction, agreement or interaction with you, and we may be left with no choice but to cease or refrain from the same.  
+You are entitled to withdraw your consent for the collection, use and disclosure of your Personal Data at any time. However, depending on the nature of the withdrawal, it may impact our ability to proceed with your transactions, agreements or interactions with us, and in particular it may not be possible, without undue risk, cost or liability to IHiS to proceed with a particular transaction, agreement or interaction with you, and we may be left with no choice but to cease or refrain from the same.  
 
 We will take the approach that best safeguards us, you and others from risks, and we may well have no choice but to decline to proceed with the transaction, agreement or interaction in question to avoid causing harm or exposing us, you or others to risk.  
 
@@ -208,9 +213,9 @@ This Privacy Policy applies in conjunction with any other relevant notices, poli
 
 We will update this Privacy Policy from time to time to ensure that this Privacy Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements.  
 
-Any changes we may make to this Privacy Policy in the future will be posted onto our website at&nbsp;[www.synapxe.sg](https://www.synapxe.sg/).  
+Any changes we may make to this Privacy Policy in the future will be posted onto our website at&nbsp;[www.ihis.com.sg](https://www.ihis.com.sg/).  
 
-#### **Last updated:&nbsp; 27 July 2023**  
+### **Last updated:&nbsp; 1st August 2022**  
 
 ![](https://www.ihis.com.sg/Latest_News/Media_Releases/PublishingImages/shadow_line.png)  
 
@@ -218,10 +223,10 @@ Any changes we may make to this Privacy Policy in the future will be posted onto
 
   
 
-Synapxe is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.&nbsp;
+IHiS is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.&nbsp;
 
-Generally, Synapxe also acts as a data intermediary for public healthcare organisations, and where so, our processing of Personal Data is subject to stringent contractual controls and oversight including appropriate legal, regulatory, operational and technical requirements and safeguards.&nbsp;  
+Generally, IHiS also acts as a data intermediary for public healthcare organisations, and where so, our processing of Personal Data is subject to stringent contractual controls and oversight including appropriate legal, regulatory, operational and technical requirements and safeguards.&nbsp;  
 
-As data intermediaries we will perform data processing activities, the details of which are confidential. Queries concerning your Personal Data in relation to any public healthcare organisation for which Synapxe acts as data intermediary, should be directed to that public healthcare organisation’s data protection officer/office.
+As data intermediaries we will perform data processing activities, the details of which are confidential. Queries concerning your Personal Data in relation to any public healthcare organisation for which IHiS acts as data intermediary, should be directed to that public healthcare organisation’s data protection officer/office.
 
 Information about the policies and practices of such organisations are made available by the public healthcare organisation itself (e.g. your clinic, your hospital, etc) and you should refer to their privacy policy and direct any queries concerning the same to the appropriate contact stated therein.
