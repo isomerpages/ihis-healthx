@@ -212,7 +212,6 @@ Any changes we may make to this Privacy Policy in the future will be posted onto
 
 #### **Last updated:&nbsp; 27 July 2023**  
 
-![](https://www.ihis.com.sg/Latest_News/Media_Releases/PublishingImages/shadow_line.png)  
 
 **NOTE:**
 
