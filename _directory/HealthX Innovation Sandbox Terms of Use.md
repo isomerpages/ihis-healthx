@@ -5,7 +5,7 @@ description: ""
 ---
 1\.  Thank you for participating in the HealthX Innovation Sandbox (the “Sandbox”) and the service offerings accessible in the Sandbox, including but not limited to Healthcare Commercial Cloud (“HCC”) workload services, API portal (the “Service Offerings”).&nbsp; These Terms of Use (“TOU”) govern your access to and use of the Sandbox and the Service Offerings.&nbsp; Please read these Terms carefully.
 
-2\. If you have any questions about these Terms, the Sandbox or the Service Offerings, you may contact us @ [ihis.co-lab@synapxe.sg](mailto:ihis.co-lab@ihis.com.sg).&nbsp; In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
+2\. If you have any questions about these Terms, the Sandbox or the Service Offerings, you may contact us @ [synapxe.co-lab@synapxe.sg](mailto:synapxe.co-lab@ihis.com.sg).&nbsp; In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
 3\. By accessing and using any part of the Sandbox or the Service Offering, as the case may be, you acknowledge that you have read and understood these Terms and unconditionally agree and accept to be legally bound by and to comply with these Terms and any amendments thereto from time to time.&nbsp; Any non-compliance with these Terms, whether intentionally or otherwise, may result in action being taken against you, including but not limited to a claim for compensation and civil and/or criminal liability.
 
