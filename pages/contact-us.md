@@ -19,7 +19,7 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: synapxe.co-lab@synapxe.sg
+      - email: healthx@synapxe.sg
       - other: ""
     title: HealthX Innovation Sandbox
 feedback: https://www.synapxe.sg/Contact_Us

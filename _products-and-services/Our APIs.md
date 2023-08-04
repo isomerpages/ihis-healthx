@@ -25,6 +25,9 @@ CCDP offers APIs for:
 - **Payments**
 <br> Provide consumers options to make online payment for their outstanding bills.
 
+* **Consent and Relationship**
+<br> Allow consumers to check whether permission is granted to view and manage health records on behalf of the care dependant.
+
 ---
 ## Send your interest
 Hesitate no more. Apply for your project a secured and compliant virtual space to access the relevant APIs. 
