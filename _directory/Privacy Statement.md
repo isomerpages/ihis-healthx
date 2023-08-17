@@ -178,23 +178,23 @@ At the same time, it should be noted that your withdrawal of consent will not pr
 
 --------------
 
-**a)**&nbsp;**Use of Cookies**  
+**a) Use of Cookies**  
 A cookie is a small piece of information that is placed on your computer when you visit certain websites. The cookies placed by the servers hosting our websites are readable only by us, and cookies cannot access, read or modify any other data on an electric device, nor does it capture any data which allows us to identify you individually. All web-browsers offer the option to refuse any cookie, and if you refuse our cookie then we will not gather any information on you.
 
 Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to enter certain part(s) of our website.
 &nbsp;  
 
-**b)**&nbsp;**Third Party Sites**  
+**b) Third Party Sites**  
 This site may contain links to other websites operated by third parties, whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to check the privacy notices of these other websites to determine how they will handle any information they collect from you.
 
 
 
-**c)**&nbsp;**Web Analytics**
+**c) Web Analytics**
 
 Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and mobile or web-based applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or mobile or web-based application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by the Content Management Systems, Google Analytics and/or other selected parties (as we may inform you from time to time) ("Web Analytics Providers"). When you visit&nbsp;**our website(s)**, Personal Data may (unless you have refused the processing of your Personal Data via such cookies and technologies) be sent to the Web Analytics Providers for analysis for and on behalf of us for the purposes described in this Privacy Policy. Please note that if you have created an online profile at our website or mobile or web-based application and if you are logged in using&nbsp;this profile, a unique number identifying this profile may also be sent to the Web Analytics Providers in order to be able to match the web analytics data to this profile. If you do not wish information about your behaviour at our website or any mobile or web-based applications to be collected and assessed by Google Analytics, you can install the Google Analytics opt-out browser add-on. Please refer to Google Analytics Opt-out Browser Add-on page for more information on downloading the add-on and opting out.
 
  
-**d)****Governing Law**
+**d) Governing Law**
 
 This Privacy Policy shall be governed in all respects by the laws of Singapore.  
 
