@@ -182,7 +182,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * issuance of a warning to you;
 * legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
 * further legal action against you;
-* disclosure of such information to the public, other users, our partners, service providers, regulatory bodies and/or law enforcement authorities as&nbsp;we&nbsp;reasonably feel is necessary or as required by law.
+* disclosure of such information to the public, other users, our partners, service providers, regulatory bodies and/or law enforcement authorities as we reasonably feel is necessary or as required by law.
 
 9.3\. We exclude our liability for all actions we may take in response to breaches of this policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.
 
@@ -201,10 +201,11 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * that no advice or information, whether orally or written, obtained from us or through the Sandbox, will create any warranty not expressly made herein; and
 * that you are solely responsible for all of your communications and interactions made via the Sandbox.
 
+10.2\. You acknowledge and agree that:
+* to the maximum extent permitted by law,&nbsp;we&nbsp;will not be liable whatsoever for any and all of the risks or liability arising out of your access to and use of the Sandbox and/or the Service Offerings; and,
+* to the maximum extent permitted by law, that&nbsp;we&nbsp;will not be liable for any incidental, special, exemplary, or consequential damages. The foregoing includes any loss of profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substituting products or services, or for any damages for personal or bodily injury, or emotional distress arising out of or in connection with these Terms, from the use of or inability to use the Sandbox, and/or from any communications or interactions via the Sandbox, whether based on warranty, contract, tort (including negligence), product liability, or any other grounds of action, and whether or not&nbsp;we&nbsp;have been informed of the possibility of such damage.
 
-10.2\.
-
-10.3\.
+10.3\. You agree to indemnify and hold us and our directors, officers, employees, affiliates, agents, contractors and licensors harmless in respect of any claims arising out of: (i) your breach of these Terms, (ii) your use of the Sandbox, the Service Offerings and/or any&nbsp;API Content, (iii) any UGC or (iv) any action taken by us as part of our investigation of a suspected breach of these Terms or as a result of a finding or decision that a breach of these Terms has occurred.
 
 
 ### 11. Intellectual Property
