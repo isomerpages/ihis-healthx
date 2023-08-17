@@ -38,6 +38,11 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 3.4\. We may at any time change, suspend, or discontinue the Sandbox and/or the Service Offerings, any of its content, and/or access to part or all of it, without notice and for any reason.
 
 
+### 4. Changes to Terms; Sandbox
+------------------
+
+
+
 ### Specific Usage Terms and Notices
 ------------------
 
