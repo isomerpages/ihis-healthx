@@ -202,14 +202,13 @@ This Privacy Policy applies in conjunction with any other relevant notices, poli
 
 We will update this Privacy Policy from time to time to ensure that this Privacy Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements.  
 
-Any changes we may make to this Privacy Policy in the future will be posted onto our website at&nbsp;[www.synapxe.sg](https://www.synapxe.sg/).  
+Any changes we may make to this Privacy Policy in the future will be posted onto our website at [www.synapxe.sg](https://www.synapxe.sg/).  
 
 #### **Last updated:&nbsp; 27 July 2023**  
 
 --------------------------------------
 **NOTE:**
 
-  
 
 Synapxe is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.
 
