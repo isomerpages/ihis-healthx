@@ -138,7 +138,7 @@ We retain Personal Data as may be required for business, legal, regulatory or co
 
   
 
-9\.Transfer of Personal Data Outside Singapore
+9\. Transfer of Personal Data Outside Singapore
 
 ----------------------------------------------
 
