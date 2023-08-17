@@ -75,15 +75,32 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 6. Your use of the APIs for Service Offerings
 ------------------
 
-6.1\.
+6.1\.  Your use of any of the APIs relating to the Service Offerings and its relevant documentation (collectively,&nbsp;“**API Content**”) is subject to our ongoing approval in our sole discretion. To request for access to any&nbsp;API Content, you must:&nbsp;
+* provide any and all relevant information (which you warrant is true and accurate) requested by us;&nbsp;
+* allow us to conduct tests including for the&nbsp;purpose&nbsp;of ensuring performance, availability; and&nbsp;
+* provide us with access to your application at any time upon request. 
+<br> (“**Approval Process**”)
+<br> We may at any time and at our sole discretion amend any (or all) of the requirements under our Approval Process, including but not limited to requiring you to provide us with additional information relating to your request for access.
 
-6.2\.
+6.2\. When accessing and/or using the&nbsp;API Content, you agree not to:
+* use the&nbsp;API Content&nbsp;other than for the Purpose;
+* reproduce, adapt or create a derivative work from the&nbsp;API Content;&nbsp;
+* reverse engineer, decompile, decrypt, reverse assemble the&nbsp;API Content; and
+* distribute, disclose, publish, market, sell, rent, lease, sublicense or assign to any third party the&nbsp;API Contentto which you have access.
 
-6.3\.
+6.3\. You acknowledge and agree that the&nbsp;API Content&nbsp;is non-public information disclosed to you that is our confidential and proprietary information which may not be disclosed to any third party (including but not limited to, your affiliates) without our prior written consent, and agree to:
+* use commercially reasonable means to maintain the confidentiality of such confidential information in your possession or contained in your application, but in no circumstances means that are less stringent than those required by law or that you use to safeguard your own confidential or proprietary information (whichever means is more stringent); and,
+* destroy all copies of such confidential information in your and/or your contractors’ or third party agents’ possession, or control and, upon request, certify such destruction to us.
 
-6.4\.
+6.4\. You must not otherwise exercise any of the rights comprised in the copyright in the whole or any part of the&nbsp;contents&nbsp;and materials in the&nbsp;API Content&nbsp;for any other&nbsp;purpose&nbsp;except as expressly permitted by any applicable law or with our prior written consent. Any rights relating to the&nbsp;contents&nbsp;and materials in the&nbsp;API Content&nbsp;that is not expressly granted are reserved, and no licence or right is granted to you by implication, estoppel or otherwise.
 
-6.5\.
+6.5\. We may provide you with access to third party content and/or third party API Content through the Sandbox. We may also provide hyperlinks, URLs or web addresses to other websites as part of the Sandbox. You acknowledge and agree that:
+* we shall not be responsible or liable for your access or use of any such third party content or third party API Content on the Sandbox;
+* you shall be solely&nbsp;responsible for&nbsp;your access or use of any such third party content or third party API Content, and your compliance with any of their relevant terms and conditions;
+* we do not control such third party websites and are not responsible for their contents;&nbsp;
+* we will not be party to any transactions or contracts with a third party that you may enter into via such websites;&nbsp;
+* we shall not be liable to you in respect of any loss or damage which you may suffer by accessing and/or using those websites; and
+* you agree that you will not involve us in any dispute between you and any third parties.
 
 
 ### 7. User-Generated Content
