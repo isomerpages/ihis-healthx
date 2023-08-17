@@ -4,7 +4,7 @@ permalink: /hx-is-tou/
 description: ""
 ---
 Thank you for participating in the HealthX Innovation Sandbox.  
-Please read these Terms below carefully before using the HealthX Innovation Sandbox.
+Please read the Terms below carefully before using the HealthX Innovation Sandbox.
 
 
 ### 1. HealthX Innovation Sandbox
