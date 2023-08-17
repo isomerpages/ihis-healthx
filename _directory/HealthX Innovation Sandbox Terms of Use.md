@@ -195,9 +195,9 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * the Sandbox is provided on an “as is” basis;
 * to the extent permitted by law, we disclaim all warranties:
 <br> (i) of any kind, whether express or implied, unless provided otherwise herein;
-<br> (ii) relating to merchantability, fitness for a particular&nbsp;purpose, quiet enjoyment, non-infringement, and any warranties arising out of the course of dealing or usage of trade;
-<br> (iii) of any kind that the Sandbox, Service Offerings and any&nbsp;API Content&nbsp;on the Sandbox will meet your requirements or be available on an uninterrupted, secure, or error-free basis;&nbsp;
-<br> (iv) regarding the quality of Sandbox, or the accuracy, timeliness, truthfulness, completeness, or reliability of any Service Offerings,&nbsp;and API Content&nbsp;obtained through the Sandbox;
+<br> (ii) relating to merchantability, fitness for a particular purpose, quiet enjoyment, non-infringement, and any warranties arising out of the course of dealing or usage of trade;
+<br> (iii) of any kind that the Sandbox, Service Offerings and any API Content on the Sandbox will meet your requirements or be available on an uninterrupted, secure, or error-free basis; 
+<br> (iv) regarding the quality of Sandbox, or the accuracy, timeliness, truthfulness, completeness, or reliability of any Service Offerings, and API Content obtained through the Sandbox;
 * that no advice or information, whether orally or written, obtained from us or through the Sandbox, will create any warranty not expressly made herein; and
 * that you are solely responsible for all of your communications and interactions made via the Sandbox.
 
