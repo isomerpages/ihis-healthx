@@ -10,11 +10,15 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 1. HealthX Innovation Sandbox
 ------------------
 
-1.1\. The Terms of Use (HealthX Innovation Sandbox) (“***Terms***”) is a legally binding document that governs your use of the HealthX Innovation Sandbox (“***Sandbox***”).  The Sandbox provides you access to and use of our service offerings accessible in the Sandbox, including but not limited to the HealthCare Commercial Cloud (“***HCC”***) workload services and our application programming interface portal and relevant documentation (together, the “***Service Offerings***”), for you to ideate and conduct fast experimentation, assessment and demonstrate the viability of your innovation projects (“***Purpose***”).  Please read these Terms carefully, so as to fully understand your rights and obligations when using the Sandbox.  If you do not agree to these Terms, you should not use the Sandbox and/or the Service Offerings.
+1.1\.  The Terms of Use (HealthX Innovation Sandbox) (“***Terms***”) is a legally binding document that governs your use of the HealthX Innovation Sandbox (“***Sandbox***”).  The Sandbox provides you access to and use of our service offerings accessible in the Sandbox, including but not limited to the HealthCare Commercial Cloud (“***HCC”***) workload services and our application programming interface portal and relevant documentation (together, the “***Service Offerings***”), for you to ideate and conduct fast experimentation, assessment and demonstrate the viability of your innovation projects (“***Purpose***”).  Please read these Terms carefully, so as to fully understand your rights and obligations when using the Sandbox.  If you do not agree to these Terms, you should not use the Sandbox and/or the Service Offerings.
+
+1.2\.  By using or accessing the Sandbox and/or the Service Offerings, you agree to be legally bound by these Terms and you agree to comply with them.
+
+1.3\.  To understand your privacy rights, please refer to our&nbsp;Privacy Policy, which may be found at https://www.synapxe.sg/privacy-policy. 
 
 2\. If you have any questions about these Terms, the Sandbox or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@ihis.com.sg).&nbsp; In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
-3\. By accessing and using any part of the Sandbox or the Service Offering, as the case may be, you acknowledge that you have read and understood these Terms and unconditionally agree and accept to be legally bound by and to comply with these Terms and any amendments thereto from time to time.&nbsp; Any non-compliance with these Terms, whether intentionally or otherwise, may result in action being taken against you, including but not limited to a claim for compensation and civil and/or criminal liability.
+
 
 4\. The accessibility and operation of the Sandbox or the Service Offerings may rely on technologies outside our control.&nbsp; We do not guarantee continuous accessibility or uninterrupted operation of the Sandbox or the Service Offerings.
 
