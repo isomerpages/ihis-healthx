@@ -72,6 +72,116 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 5.5\.
 
 
+### 6. Your use of the APIs for Service Offerings
+------------------
+
+6.1\.
+
+6.2\.
+
+6.3\.
+
+6.4\.
+
+6.5\.
+
+
+### 7. User-Generated Content
+------------------
+
+7.1\.
+
+7.2\.
+
+7.3\.
+
+7.4\.
+
+7.5\.
+
+7.6\.
+
+7.7\.
+
+7.8\.
+
+7.9\.
+
+
+### 8. Prohibited Uses
+------------------
+
+8.1\.
+
+8.2\.
+
+8.3\.
+
+
+### 9. Breach of these Terms
+------------------
+
+9.1\.
+
+9.2\.
+
+9.3\.
+
+
+### 10. Our Disclaimers
+------------------
+
+10.1\.
+
+10.2\.
+
+10.3\.
+
+
+### 11. Intellectual Property
+------------------
+
+11.1\.
+
+11.2\.
+
+11.3\.
+
+
+### 12. Fees and/or Waivers
+------------------
+
+12.1\.
+
+12.2\.
+
+
+### 13. Governing law and&nbsp;Jurisdiction
+------------------
+
+13.1\.
+
+13.2\.
+
+
+### 14. General
+------------------
+
+14.1\.
+
+14.2\.
+
+14.3\.
+
+14.4\.
+
+14.5\.
+
+14.6\.
+
+14.7\.
+
+
 ### Specific Usage Terms and Notices
 ------------------
 
