@@ -58,6 +58,18 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you. 
 
+### 5. Your Sandbox account
+------------------
+
+5.1\.
+
+5.2\.
+
+5.3\.
+
+5.4\.
+
+5.5\.
 
 
 ### Specific Usage Terms and Notices
