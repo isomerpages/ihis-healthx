@@ -29,6 +29,13 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 3. Changes to Terms; Sandbox
 ------------------
 
+3.1\. We may at any time, from time to time, make changes to the whole or any part of these Terms, the Sandbox and/or the Service Offerings as it deems appropriate. Every time you wish to use the Sandbox and/or the Service Offerings, please check these Terms to ensure you understand the&nbsp;terms&nbsp;that apply at that time. If you continue to use the Sandbox and/or the Service Offerings following any changes to these Terms, such continued use of the Sandbox and/or the Service Offerings shall constitute your express acceptance of the amended Terms. If you do not agree to the Terms, as may be amended from time to time, you must immediately discontinue the use of Sandbox and/or the Service Offerings.
+
+3.2\. The accessibility and operation of the Sandbox and/or the Service Offerings rely on systems, databases and technologies that may not be entirely within our control. We do not guarantee continuous accessibility or uninterrupted operation of the Sandbox and/or the Service Offerings. We will not be liable to you if, for any reason, access to the Sandbox and/or the Service Offerings is interrupted, delayed or unavailable for any period of time.
+
+3.3\. From time to time, we may issue, release or provide updates / upgrades to, or new version(s) of the Sandbox and/or the Service Offerings (“**Updates**”).&nbsp;&nbsp;Such Updates may take place and be implemented automatically or may require action on your part.&nbsp;&nbsp;&nbsp;&nbsp;Please note that the Sandbox and/or the Service Offerings, or any part thereof, may not operate properly or at all if the Updates are not installed or implemented by you.&nbsp;&nbsp;For the avoidance of doubt, we do not guarantee that such Updates will be made available, or that such Updates will continue to be compatible with your existing UGC (defined below) or your operating systems.
+
+3.4\. We may at any time change, suspend, or discontinue the Sandbox and/or the Service Offerings, any of its&nbsp;content, and/or access to part or all of it, without&nbsp;notice&nbsp;and for any reason.
 
 
 ### Specific Usage Terms and Notices
