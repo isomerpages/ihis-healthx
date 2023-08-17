@@ -204,7 +204,7 @@ We will update this Privacy Policy from time to time to ensure that this Privacy
 
 Any changes we may make to this Privacy Policy in the future will be posted onto our website at [www.synapxe.sg](https://www.synapxe.sg/).  
 
-#### **Last updated:&nbsp; 27 July 2023**  
+#### **Last updated: 27 July 2023**  
 
 --------------------------------------
 **NOTE:**
