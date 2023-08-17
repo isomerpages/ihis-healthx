@@ -17,7 +17,7 @@ This Privacy Policy was last updated on the date shown at the end of this Privac
 
 ------------------------------------
 
-"Personal Data" refers to any data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which the organisation has or is likely to have access. For example, "Mr ABC, 40 years old, talent acquisition manager, lives at 12 Ang Mo Kio Central 3" could constitute data that falls under (b). In relation to Personal Data, "processing" refers to carrying out any operations or set of operations on the Personal Data and including any recording, holding, adaptation or alteration, retrieval, combination, transmission, erasure or destruction of Personal Data. &nbsp;  
+"Personal Data" refers to any data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which the organisation has or is likely to have access. For example, "Mr ABC, 40 years old, talent acquisition manager, lives at 12 Ang Mo Kio Central 3" could constitute data that falls under (b). In relation to Personal Data, "processing" refers to carrying out any operations or set of operations on the Personal Data and including any recording, holding, adaptation or alteration, retrieval, combination, transmission, erasure or destruction of Personal Data.   
 
 The definition does not extend to (a) business contact information; (b) Personal Data about an individual that is contained in a record that has been in existence for at least 100 years; (c) Personal Data about a deceased individual who has been dead for more than 10 years; or (d) anonymised data. Anonymisation is the process of removing identifying information such that the remaining data does not identify any particular individual.  
 
@@ -148,7 +148,7 @@ Generally, we do not transfer Personal Data out of Singapore, except to our appr
 
 10\. Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback
 
-----------------------------------------------------------------------------------------------------------------
+----------------------------------------------
 
 We respect your rights to your Personal Data and will respond to the following requests:  
 
