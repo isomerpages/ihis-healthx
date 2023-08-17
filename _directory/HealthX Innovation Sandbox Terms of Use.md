@@ -43,28 +43,18 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 4.1\. You are required to meet the eligibility criteria for entry to the Sandbox. While using the Sandbox and/or the Service Offerings, you are required to meet a number of objectives that must be met for all users of the Sandbox (the “**Sandbox Objectives**”).
 
-4.2\. These eligibility criteria and Sandbox Objectives are set out on our HealthX website, which may be updated from time to time. The eligibility criteria and your Sandbox Objectives for the Sandbox can be found at [https://www.healthx.sg/files/healthx innovation sandbox overall process &amp; guidelines.pdf](https://www.healthx.sg/files/healthx innovation sandbox overall process &amp; guidelines.pdf)
+4.2\. These eligibility criteria and Sandbox Objectives are set out on our HealthX website, which may be updated from time to time. The eligibility criteria and your Sandbox Objectives for the Sandbox can be found at [https://www.healthx.sg/files/healthx innovation sandbox overall process &amp; guidelines.pdf](/files/healthx%20innovation%20sandbox%20overall%20process%20&amp;%20guidelines.pdf)
 
 4.3\ In addition to the eligibility criteria and Sandbox Objectives on our HealthX website, while you are using the Sandbox (“**Sandbox Period**”), you are required to meet the following project obligations, which may be updated from time to time:
-
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oversee and coordinate your relevant project(s) during the Sandbox Period;
-
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take over the relevant HCC-Amazon Web Services (“**_AWS_**") User Account(s) for workload setup and operation;
-
-(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
-
-(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;verify and acknowledge any AWS billings;
-
-(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pay and settle any relevant HCC fees or charges (including AWS charges, HCC platform fees and HCC compliance fees) that are not claimable from Synapxe;&nbsp;
-
-(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;decommission the workloads, de-activate the HCC-AWS User Account(s) and exit from the Sandbox at the end of the Sandbox Period;
-
-(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
-
-(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator,
-
+* oversee and coordinate your relevant project(s) during the Sandbox Period; 
+* take over the relevant HCC-Amazon Web Services (“**AWS**") User Account(s) for workload setup and operation;
+* deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
+* verify and acknowledge any AWS billings;
+* pay and settle any relevant HCC fees or charges (including AWS charges, HCC platform fees and HCC compliance fees) that are not claimable from Synapxe;
+* decommission the workloads, de-activate the HCC-AWS User Account(s) and exit from the Sandbox at the end of the Sandbox Period;
+* ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
+* provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator <br>
 (the “**Project Obligations**”).
-
 
 4.4\
 
