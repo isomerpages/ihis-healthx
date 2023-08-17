@@ -221,9 +221,9 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 12. Fees and/or Waivers
 ------------------
 
-12.1\.
+12.1\. There may be fees payable by you for using the Service Offerings. We are not responsible for any fees charged by any other third party website or app that is not owned or operated by us, or part of the Sandbox, and&nbsp;we&nbsp;shall not be liable towards you for any fees incurred as a result of using or accessing or making purchases from any such third party website or app.
 
-12.2\.
+12.2\. We will notify you in writing, if you are eligible to receive any support or waivers for any project specific costs with respect to the Sandbox. In such a case, your eligibility to receive and your receipt of such support or waivers, are subject to and governed by the Terms, and any other applicable terms that we may provide to you when these support or waivers are provided.
 
 
 ### 13. Governing law and;Jurisdiction
