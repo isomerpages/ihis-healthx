@@ -56,7 +56,9 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator <br>
 (the “**Project Obligations**”).
 
-4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the&nbsp;eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of&nbsp;the&nbsp;eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may&nbsp;suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you. 
+4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you. 
+
+
 
 ### Specific Usage Terms and Notices
 ------------------
