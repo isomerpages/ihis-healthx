@@ -147,21 +147,44 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 8. Prohibited Uses
 ------------------
 
-8.1\.
+8.1\. You agree that you will not use or attempt to use any method, device, system, bot, ransomware, software, or routine to harm others or interfere with the functioning of any of the services provided on the Sandbox, or use and/or monitor any information in or related to the Sandbox for any unauthorised&nbsp;purpose.
 
-8.2\.
+8.2\. In addition to the general restrictions above, the following restrictions and conditions apply specifically to your use of the Sandbox. Any determination regarding breach of any of the following is final. Please review the following list of prohibited uses carefully before using the Sandbox. Specifically, you agree not to use the Sandbox to:
+* deploy programs, software, or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial of service attack or similar conduct;
+* deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorised manner, services, networks, servers, or other infrastructure;
+* exceed your authorised access to any portion of the Sandbox;
+* remove, delete, alter, circumvent, avoid, or bypass any digital rights management technology, encryption or security tools used anywhere on the Sandbox;
+* access, collect or store personal data about any person without the appropriate authorisation or consent;
+* alter or modify without permission any part of the Sandbox or any&nbsp;of its contents;
+* obtain or attempt to access or otherwise obtain any&nbsp;content&nbsp;or information through any means not intentionally made available or provided for through the Sandbox;
+* exploit errors in design, features which are not documented, and/or bugs to gain access to any part of the Sandbox that would otherwise not be available to you.
 
-8.3\.
+8.3\. Additionally, you agree not to:
+* use the Sandbox in any manner that could disable, overburden, damage, or impair the site or interfere with any other person’s use of the Sandbox, including their ability to engage in real time activities through the Sandbox;
+* use any robot, spider, or other automatic device, process, or means to access the Sandbox for any&nbsp;purpose, including monitoring or copying any of the material on the Sandbox without our prior written consent;
+* use any manual process to monitor or copy any of the material on the Sandbox or for any other unauthorised&nbsp;purpose&nbsp;without our prior written consent;
+* use any device, bots, scripts, software, or routine that interferes with the proper working of the Sandbox or that shortcut or alter the functions on the Sandbox to run or appear in ways that are not intended by the design of the Sandbox;
+* introduce or upload any viruses,&nbsp;Trojan&nbsp;horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program, or material which is malicious or technologically harmful or that that may damage the operation of another’s property or of the Sandbox;
+* attempt to gain unauthorised access to, interfere with, damage, or disrupt any parts of the Sandbox, the server on which the Sandbox is stored, or any server, computer, or database connected to the Sandbox;
+* remove any copyright, trade marks or other proprietary&nbsp;notices&nbsp;from the Sandbox or any of the materials contained therein;
+* attack the Sandbox via a denial-of-service attack or a distributed denial-of-service attack;
+* Otherwise attempt to interfere with the proper working of the Sandbox.
 
 
 ### 9. Breach of these Terms
 ------------------
 
-9.1\.
+9.1\. When&nbsp;we&nbsp;consider that a breach of these Terms has occurred,&nbsp;we&nbsp;may take such action as&nbsp;we&nbsp;deem appropriate.
 
-9.2\.
+9.2\. Failure to comply with any of these Terms constitutes a material breach of these Terms and may result in our taking all or any of the following actions:
+* immediate, temporary or permanent suspension or termination of your User Account and any right to use the Sandbox and/or the Service Offerings;
+* immediate, temporary or permanent removal of any UGC;
+* issuance of a warning to you;
+* legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+* further legal action against you;
+* disclosure of such information to the public, other users, our partners, service providers, regulatory bodies and/or law enforcement authorities as&nbsp;we&nbsp;reasonably feel is necessary or as required by law.
 
-9.3\.
+9.3\. We exclude our liability for all actions&nbsp;we&nbsp;may take in response to breaches of this policy. The actions&nbsp;we&nbsp;may take are not limited to those described above, and&nbsp;we&nbsp;may take any other action&nbsp;we&nbsp;reasonably deem appropriate.
 
 
 ### 10. Our Disclaimers
@@ -192,7 +215,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 12.2\.
 
 
-### 13. Governing law and&nbsp;Jurisdiction
+### 13. Governing law and;Jurisdiction
 ------------------
 
 13.1\.
