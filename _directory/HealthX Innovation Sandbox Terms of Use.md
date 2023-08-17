@@ -3,7 +3,14 @@ title: HealthX Innovation Sandbox Terms of Use
 permalink: /hx-is-tou/
 description: ""
 ---
-1\.  Thank you for participating in the HealthX Innovation Sandbox (the “Sandbox”) and the service offerings accessible in the Sandbox, including but not limited to Healthcare Commercial Cloud (“HCC”) workload services, API portal (the “Service Offerings”).&nbsp; These Terms of Use (“TOU”) govern your access to and use of the Sandbox and the Service Offerings.&nbsp; Please read these Terms carefully.
+Thank you for participating in the HealthX Innovation Sandbox.  These Terms of Use (“TOU”) govern your access to and use of the Sandbox.  Please read these Terms carefully before using the HealthX Innovation Sandbox.
+
+Thank you for visiting Synapxe website ("Website"). Before you proceed further, please read the Terms of Use below.
+
+### HealthX Innovation Sandbox
+------------------
+
+1\. These Terms of Use may be changed from time to time, and the version appearing here at each instance of access shall apply.
 
 2\. If you have any questions about these Terms, the Sandbox or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@ihis.com.sg).&nbsp; In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
