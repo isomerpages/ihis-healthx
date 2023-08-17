@@ -18,7 +18,12 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 1.4\. We may from time to time issue notices (“***Notices***”) pertaining to the access to and/or use of the&nbsp;Sandbox and/or the Service Offerings. Such specific terms and conditions of use, and Notices, shall constitute a part of these Terms. In the event of any conflict between such the Notices and these Terms, these Notices shall prevail.
 
-2\. If you have any questions about these Terms, the Sandbox or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@ihis.com.sg).&nbsp; In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
+### 2. Who we are and how to contact us
+------------------
+
+2.1\. The Sandbox is operated by&nbsp;Synapxe Pte. Ltd. (“**We**”). We are registered in Singapore under UEN No 200814464H and have our registered office at 6 Serangoon North Avenue 5, #01-01/02, Singapore 554910.
+
+2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@ihis.com.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
 
 
@@ -74,4 +79,3 @@ A.2\. Following regulatory requirements shall be contextualized accordingly.
 (xi) ***Training and Awareness***<br>Users who have access to the sandbox should have regular training and awareness programs to educate them about security best practices, policies, and procedures to ensure they understand their responsibilities and follow the established guidelines.  
 
 A.3\. You shall specify the Entry and Exit requirement for the Sandbox project with the information included as part of the project proposal.
- 
