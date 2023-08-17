@@ -23,7 +23,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 2.1\. The Sandbox is operated by&nbsp;Synapxe Pte. Ltd. (“**We**”). We are registered in Singapore under UEN No 200814464H and have our registered office at 6 Serangoon North Avenue 5, #01-01/02, Singapore 554910.
 
-2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@ihis.com.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
+2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@synapxe.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
 
 ### 3. Changes to Terms; Sandbox
