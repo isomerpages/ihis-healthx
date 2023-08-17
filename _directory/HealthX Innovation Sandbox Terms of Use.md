@@ -26,20 +26,10 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@ihis.com.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
 
+### 3. Changes to Terms; Sandbox
+------------------
 
-4\. The accessibility and operation of the Sandbox or the Service Offerings may rely on technologies outside our control.&nbsp; We do not guarantee continuous accessibility or uninterrupted operation of the Sandbox or the Service Offerings.
 
-5\. If you are using the Sandbox or the Service Offerings, or any part thereof, on behalf of an Organisation, you hereby represent and warrant that you have been validly authorised to: 
-
-5.1\. access or use the Sandbox or the Service Offerings on behalf of your Organisation; and
-
-5.2\. agree to and bind your Organisation to these Terms. In such circumstances, any reference to “you” in these Terms will include your Organisation (the “Entity”).
-
-6\. We shall not be responsible or liable to you for any losses, costs, expenses or damage suffered or incurred by you or any third party arising from any imitation, spoof, phishing or similarly fraudulent or unauthorized digital services downloaded or accessed by you from illegitimate sources, or which are not published or operated by us.
-
-7\. If you do not agree to these Terms, please do not access or participate in the Sandbox and use the Service Offerings.
-
-8\. By agreeing to these Terms of Use, Synapxe allows you to access and use the Sandbox and the Service Offerings.&nbsp; Synapxe reserves the right at all times (but will not have an obligation) to terminate your access to the Sandbox for any reason (such as violation of these Terms of Use).
 
 ### Specific Usage Terms and Notices
 ------------------
