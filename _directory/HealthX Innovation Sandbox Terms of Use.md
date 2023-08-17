@@ -5,7 +5,6 @@ description: ""
 ---
 Thank you for participating in the HealthX Innovation Sandbox.  These Terms of Use (“TOU”) govern your access to and use of the Sandbox.  Please read these Terms carefully before using the HealthX Innovation Sandbox.
 
-Thank you for visiting Synapxe website ("Website"). Before you proceed further, please read the Terms of Use below.
 
 ### HealthX Innovation Sandbox
 ------------------
