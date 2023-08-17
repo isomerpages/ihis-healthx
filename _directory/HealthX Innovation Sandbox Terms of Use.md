@@ -106,7 +106,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 7. User-Generated Content
 ------------------
 
-7.1\. Where you or any person on your behalf, post or upload&nbsp;your application, content&nbsp;and/or material to the Sandbox, or make contact with any other users on the Sandbox (collectively, the “**UGC**”) you must comply with the&nbsp;Content Standards&nbsp;set out in this clause. The UGC that you post or upload must comply with the applicable laws in Singapore and in any country from which they are posted or uploaded.
+7.1\. Where you or any person on your behalf, post or upload your application, content and/or material to the Sandbox, or make contact with any other users on the Sandbox (collectively, the “**UGC**”) you must comply with the Content Standards set out in this clause. The UGC that you post or upload must comply with the applicable laws in Singapore and in any country from which they are posted or uploaded.
 
 7.2\. In particular, such UGC must not:
 * contain any material which is defamatory of any person;
@@ -120,22 +120,22 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * be likely to deceive any person or amount to fraudulent misrepresentation;
 * be made in breach of any legal duty owed to a third-party, such as a contractual duty or a duty of confidence;
 * promote any illegal activity;
-* contain any&nbsp;content&nbsp;with seditious tendency or political references;
+* contain any content with seditious tendency or political references;
 * promote ill-will and hostility amongst the users or general public of Singapore;
 * be threatening, abuse or invade another’s privacy, or cause annoyance, inconvenience or needless anxiety;
 * be likely to harass, upset, embarrass, alarm or annoy any other person;
 * be used to impersonate any person, or to misrepresent your identity or affiliation with any person;
 * give the impression that the UGC emanates from us if that is not the case; and/or
 * advocate, promote or assist any unlawful act such as, for example, copyright infringement or computer misuse.
-<br> (each, a&nbsp;“**Content Standard**”, and collectively, the&nbsp;“**Content Standards**”)
+<br> (each, a&nbsp;“**Content Standard**”, and collectively, the “**Content Standards**”)
 
-7.3\. You irrevocably and unconditionally represent and warrant that any UGC you post or upload on the Sandbox complies with the&nbsp;Content Standards&nbsp;set out above.
+7.3\. You irrevocably and unconditionally represent and warrant that any UGC you post or upload on the Sandbox complies with the Content Standards set out above.
 
 7.4\. You irrevocably and unconditionally represent and warrant that any UGC you post or upload on the Sandbox is owned by you or licenced to you for such use and in addition does not violate, misappropriate or infringe the rights of any third-party, including but not limited to privacy rights, copyright, trademark and/or any other intellectual property rights.
 
 7.5\. We have the right to disclose your identity and particulars to any third-party claiming that any UGC posted or uploaded by you on the Sandbox constitutes a violation of their intellectual property, data protection or other legal rights.
 
-7.6\. We will not be responsible or liable to any third-party for the UGC or accuracy of any UGC posted or uploaded by you or any other user on the Sandbox. We do not undertake to moderate or review any UGC, user contributions or any other material before it is posted or uploaded on the Sandbox, and cannot ensure prompt removal of objectionable material after it has been posted or uploaded. Hence,&nbsp;we&nbsp;assume no liability for any action or inaction regarding transmissions, communications, or UGC provided by any user or third-party.
+7.6\. We will not be responsible or liable to any third-party for the UGC or accuracy of any UGC posted or uploaded by you or any other user on the Sandbox. We do not undertake to moderate or review any UGC, user contributions or any other material before it is posted or uploaded on the Sandbox, and cannot ensure prompt removal of objectionable material after it has been posted or uploaded. Hence, we assume no liability for any action or inaction regarding transmissions, communications, or UGC provided by any user or third-party.
 
 7.7\. All UGC posted or uploaded on the Sandbox must comply with these Terms. By posting or uploading any UGC on the Sandbox, you grant us and our service providers, and each of our and our respective licensees, successors, and assigns, the right to use, perform, display, and otherwise disclose to third parties any such material in order to provide you access to the Sandbox and/or the Service Offerings. You represent and warrant that you own, have a licence to or otherwise control all rights in and to the UGC that you post or upload on the Sandbox, and that you have the right to grant the aforementioned rights, and that all of your contributions do and will comply with these Terms. We will not be responsible or liable to any third-party for the UGC or accuracy of any UGC posted or uploaded on the Sandbox by you or any other user.
 
