@@ -221,35 +221,35 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 12. Fees and/or Waivers
 ------------------
 
-12.1\. There may be fees payable by you for using the Service Offerings. We are not responsible for any fees charged by any other third party website or app that is not owned or operated by us, or part of the Sandbox, and&nbsp;we&nbsp;shall not be liable towards you for any fees incurred as a result of using or accessing or making purchases from any such third party website or app.
+12.1\. There may be fees payable by you for using the Service Offerings. We are not responsible for any fees charged by any other third party website or app that is not owned or operated by us, or part of the Sandbox, and we shall not be liable towards you for any fees incurred as a result of using or accessing or making purchases from any such third party website or app.
 
 12.2\. We will notify you in writing, if you are eligible to receive any support or waivers for any project specific costs with respect to the Sandbox. In such a case, your eligibility to receive and your receipt of such support or waivers, are subject to and governed by the Terms, and any other applicable terms that we may provide to you when these support or waivers are provided.
 
 
-### 13. Governing law and;Jurisdiction
+### 13. Governing law and Jurisdiction
 ------------------
 
-13.1\.
+13.1\. The use of the Sandbox, the&nbsp;Service Offerings, and these Terms, shall be governed by and interpreted in accordance with the laws of the Republic of Singapore. In the event of any dispute arising out of or in connection with these Terms, including any question regarding its existence, validity, termination, application or interpretation of these Terms or any of its provisions, both Parties shall use their best endeavours to settle the dispute informally by agreement between the Parties. Both Parties shall always act in good faith and co-operate with each other to resolve any disputes.
 
-13.2\.
+13.2\. If the dispute is not settled in accordance with Clause 13.1 above, the dispute shall be referred to and finally resolved by the courts of Singapore.
 
 
 ### 14. General
 ------------------
 
-14.1\.
+14.1\. These Terms apply to your access and use of the Sandbox, the Service Offerings and/or User Account and shall supersede all previous communications (whether written, oral or otherwise), discussions or letters relating to the same.
 
-14.2\.
+14.2\. A failure by us to exercise or enforce any rights conferred upon us by these Terms shall not be deemed to be a waiver or variation of any such rights or operate so as to bar the exercise or enforcement thereof at any subsequent time or times.
 
-14.3\.
+14.3\. If any provision of these Terms, in whole or in part, is held to be illegal, invalid or unenforceable under any enactment or rule of law or by any court in any jurisdiction: (i) such provision or part will, to that extent, be deemed not to form part of these Terms, but the legality, validity and enforceability of the remainder of these Terms is not affected; and (ii) the legality, validity and enforceability of that or any other provision or part under any other jurisdiction will not be affected.
 
-14.4\.
+14.4\. The rights to access and use your User Account and/or the Sandbox is personal to you, and you may not transfer or assign to a third party any of your rights and obligations as defined in these Terms. We may freely assign, transfer or sub-contract these Terms or its rights and obligations under these Terms, in whole or in part, without your prior consent or prior&nbsp;notice&nbsp;to you.
 
-14.5\.
+14.5\. These Terms are entered into between you and us. For the avoidance of doubt, except as expressly stated in these Terms, a person who is not a party to these Terms shall have no right under the Contracts (Rights of Third Parties) Act 2001 to enforce any of the&nbsp;terms&nbsp;of these Terms.
 
-14.6\.
+14.6\. Any Notice that&nbsp;we&nbsp;intend to give to you may be carried out by posting the relevant Notice on the Sandbox and/or by sending any such Notice to the contact that you may have provided us with. You are deemed to have received&nbsp;notice&nbsp;of the same upon the posting the relevant Notice on the Sandbox by us and/or by sending any such Notice to any contact information that you may have provided us with.
 
-14.7\.
+14.7\. We shall not be responsible for failure or delay of performance if caused by: an act of war, hostility, or sabotage; riots; act of God; pandemic (including the COVID-19 pandemic); electrical, internet, or telecommunication outage that is not caused by the us; government restrictions (including any quarantine, health, safety or stay-home measures, lock-down, travel or other movement restriction in connection with the COVID-19 pandemic); or other event outside the reasonable control of us (each, a “force majeure event”). We will use reasonable efforts to mitigate the effect of a force majeure event. If such force majeure event continues for more than ten (10) days,&nbsp;we&nbsp;may terminate these Terms (including to terminate your User Account and your access and/or use of the Sandbox and/or the Service Offerings).
 
 
 ### Specific Usage Terms and Notices
