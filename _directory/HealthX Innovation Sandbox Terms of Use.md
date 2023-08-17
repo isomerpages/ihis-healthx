@@ -61,15 +61,15 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 5. Your Sandbox account
 ------------------
 
-5.1\.
+5.1\. The Sandbox may only be used or accessed if you have a registered account with us or our Sandbox partner(s) (a “**User Account**”). If you have a User Account, you are solely responsible for safekeeping and maintaining the confidentiality of your user name and password for your User Account. You agree to take all necessary measures and all due care to protect your password against misuse by third parties.
 
-5.2\.
+5.2\. You agree that you will be liable and responsible for any transactions and activities conducted through, or purported to be conducted through, your User Account. You also agree that any access to or use of, or purported access to or use of, the Sandbox, the Service Offerings and/or any information, data, instructions or communications; whether or not authorized by you, referable to your User Account shall, as the case may be, be deemed to be access to or use of the Sandbox, the Service Offerings, and/or information, data, instructions or communications transmitted and validly issued by you.
 
-5.3\.
+5.3\. You acknowledge that we are under no obligation, nor are we able to, verify the authenticity of any transactions and activities conducted through your User Account, or the identity of the person logging into and using your User Account and you agree that we shall be entitled (but not obliged) to act upon, rely on and/or hold you responsible and liable in respect or liable, in any way whatsoever, for losses, costs, expenses or damage suffered or incurred by you or any third party if there is any unauthorized use of your User Account.
 
-5.4\.
+5.4\. If you believe that the security or confidentiality of your user name and/or password has been compromised, you have the responsibility to immediately change your password and notify us to suspend your User Account. We will use reasonable measures to suspend your account if promptly notified by you. Notwithstanding this, you will be solely liable for any unauthorised use or access of the Sandbox through your User Account. We shall not be liable for any damages resulting from any, unauthorised and/or fraudulent use or access of the Sandbox via or in connection with your User Account.
 
-5.5\.
+5.5\. We may (at our sole discretion) and without giving any reason suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings at any time with or without prior&nbsp;notice&nbsp;to you. Our right to suspend or terminate your access to and use of your User Account shall be without prejudice to any other rights or remedies which&nbsp;we&nbsp;may have under these Terms and at law.
 
 
 ### 6. Your use of the APIs for Service Offerings
