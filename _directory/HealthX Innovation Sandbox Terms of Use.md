@@ -211,11 +211,11 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 11. Intellectual Property
 ------------------
 
-11.1\.
+11.1\. The Sandbox contains intellectual property rights (including the&nbsp;API Content, source codes, pages, documents and images, graphics, trademarks, trade names, logos, audio and video) that are the exclusive property of us and where applicable, our licensors. As such,&nbsp;we&nbsp;require you to not remove, alter or obscure any copyright, trademark, service mark, or other proprietary rights&nbsp;notices&nbsp;incorporated in or accompanying the Sandbox.
 
-11.2\.
+11.2\. All trade marks, service marks, logos, trade names and any other proprietary designations of us used herein are our (or where applicable, our licensors’) trade marks or registered trademarks. Any other trade marks, service marks, logos, trade names and any other proprietary designations are the trade marks or registered trade marks of their respective parties. In the course of your use of the Sandbox, you must ensure that you do not infringe our (or where applicable, our licensors’) intellectual property rights or the intellectual property rights of any other third party.
 
-11.3\.
+11.3\. You remain the owner of any of your own background intellectual property that you bring onto the Sandbox. Any new intellectual property which you generate or develop yourself while on the Sandbox, will be owned by you.
 
 
 ### 12. Fees and/or Waivers
