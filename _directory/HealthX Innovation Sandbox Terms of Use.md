@@ -190,7 +190,20 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 ### 10. Our Disclaimers
 ------------------
 
-10.1\.
+10.1\. You acknowledge and agree that:
+you choose to use the Sandbox, any&nbsp;Service Offerings and API Content&nbsp;on the Sandbox at your own risk;
+the Sandbox is provided on an “as is” basis;
+to the extent permitted by law,&nbsp;we&nbsp;disclaim all warranties:
+(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any kind, whether express or implied, unless provided otherwise herein;
+(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;relating to merchantability, fitness for a particular&nbsp;purpose, quiet enjoyment, non-infringement, and any warranties arising out of the course of dealing or usage of trade;
+(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of any kind that the Sandbox, Service Offerings and any&nbsp;API Content&nbsp;on the Sandbox will meet your requirements or be available on an uninterrupted, secure, or error-free basis;&nbsp;
+
+(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regarding the quality of Sandbox, or the accuracy, timeliness, truthfulness, completeness, or reliability of any Service Offerings,&nbsp;and API Content&nbsp;obtained through the Sandbox;
+
+(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that no advice or information, whether orally or written, obtained from us or through the Sandbox, will create any warranty not expressly made herein; and
+
+that you are solely responsible for all of your communications and interactions made via the Sandbox.
+
 
 10.2\.
 
