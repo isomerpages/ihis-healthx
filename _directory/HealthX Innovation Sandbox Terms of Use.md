@@ -45,7 +45,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 4.2\. These eligibility criteria and Sandbox Objectives are set out on our HealthX website, which may be updated from time to time. The eligibility criteria and your Sandbox Objectives for the Sandbox can be found at [https://www.healthx.sg/files/healthx innovation sandbox overall process &amp; guidelines.pdf](/files/healthx%20innovation%20sandbox%20overall%20process%20&amp;%20guidelines.pdf)
 
-4.3\ In addition to the eligibility criteria and Sandbox Objectives on our HealthX website, while you are using the Sandbox (“**Sandbox Period**”), you are required to meet the following project obligations, which may be updated from time to time:
+4.3\. In addition to the eligibility criteria and Sandbox Objectives on our HealthX website, while you are using the Sandbox (“**Sandbox Period**”), you are required to meet the following project obligations, which may be updated from time to time:
 * oversee and coordinate your relevant project(s) during the Sandbox Period; 
 * take over the relevant HCC-Amazon Web Services (“**AWS**") User Account(s) for workload setup and operation;
 * deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
@@ -56,7 +56,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator <br>
 (the “**Project Obligations**”).
 
-4.4\
+4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the&nbsp;eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of&nbsp;the&nbsp;eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may&nbsp;suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you. 
 
 ### Specific Usage Terms and Notices
 ------------------
