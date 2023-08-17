@@ -194,7 +194,7 @@ This site may contain links to other websites operated by third parties, whose d
 Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and mobile or web-based applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or mobile or web-based application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by the Content Management Systems, Google Analytics and/or other selected parties (as we may inform you from time to time) ("Web Analytics Providers"). When you visit&nbsp;**our website(s)**, Personal Data may (unless you have refused the processing of your Personal Data via such cookies and technologies) be sent to the Web Analytics Providers for analysis for and on behalf of us for the purposes described in this Privacy Policy. Please note that if you have created an online profile at our website or mobile or web-based application and if you are logged in using&nbsp;this profile, a unique number identifying this profile may also be sent to the Web Analytics Providers in order to be able to match the web analytics data to this profile. If you do not wish information about your behaviour at our website or any mobile or web-based applications to be collected and assessed by Google Analytics, you can install the Google Analytics opt-out browser add-on. Please refer to Google Analytics Opt-out Browser Add-on page for more information on downloading the add-on and opting out.
 
  
-**d)**&nbsp;**Governing Law**
+**d)****Governing Law**
 
 This Privacy Policy shall be governed in all respects by the laws of Singapore.  
 
@@ -212,14 +212,14 @@ Any changes we may make to this Privacy Policy in the future will be posted onto
 
 #### **Last updated:&nbsp; 27 July 2023**  
 
-
+--------------------------------------
 **NOTE:**
 
   
 
-Synapxe is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.&nbsp;
+Synapxe is the IT agency for the public healthcare sector in Singapore. It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the holding company through which the Singapore government owns the corporatised institutions in the public healthcare sector.
 
-Generally, Synapxe also acts as a data intermediary for public healthcare organisations, and where so, our processing of Personal Data is subject to stringent contractual controls and oversight including appropriate legal, regulatory, operational and technical requirements and safeguards.&nbsp;  
+Generally, Synapxe also acts as a data intermediary for public healthcare organisations, and where so, our processing of Personal Data is subject to stringent contractual controls and oversight including appropriate legal, regulatory, operational and technical requirements and safeguards.  
 
 As data intermediaries we will perform data processing activities, the details of which are confidential. Queries concerning your Personal Data in relation to any public healthcare organisation for which Synapxe acts as data intermediary, should be directed to that public healthcare organisation’s data protection officer/office.
 
