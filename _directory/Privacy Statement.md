@@ -9,7 +9,7 @@ Synapxe Pte. Ltd. (collectively "Synapxe", "us", "we" or "our") are committed to
 
 This policy ("Privacy Policy") describes how we may collect, use, disclose, process and manage your Personal Data in the course of our business, including our websites, services and products such as mobile applications, technical platforms, and other online or offline offerings otherwise indicated. This policy applies to any individual's Personal Data which is in our possession or under our control.  
 
-This Privacy Policy was last updated on&nbsp;the date shown at the end of this&nbsp;Privacy Policy. If you have any queries related to this Privacy Policy, please contact the persons identified at the end of this Privacy Policy.  
+This Privacy Policy was last updated on the date shown at the end of this Privacy Policy. If you have any queries related to this Privacy Policy, please contact the persons identified at the end of this Privacy Policy.  
 
   
 
