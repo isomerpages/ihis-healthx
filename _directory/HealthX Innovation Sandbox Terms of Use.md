@@ -36,13 +36,14 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 8\. By agreeing to these Terms of Use, Synapxe allows you to access and use the Sandbox and the Service Offerings.&nbsp; Synapxe reserves the right at all times (but will not have an obligation) to terminate your access to the Sandbox for any reason (such as violation of these Terms of Use).
 
-### Usage Terms
+### Specific Usage Terms and Notices
+------------------
 
-9\. You agree that:
+A\. You agree that:
 
-9.1\. innovation solution to be tested in the Sandbox must have features that allow the Entities to endeavour to meet the requirements in HealthTech Instruction Manual from Ministry of Health of Singapore;
+A.1\. innovation solution to be tested in the Sandbox must have features that allow the Entities to endeavour to meet the requirements in HealthTech Instruction Manual from Ministry of Health of Singapore;
 
-9.2\. Following regulatory requirements shall be contextualized accordingly.
+A.2\. Following regulatory requirements shall be contextualized accordingly.
 
 (i) ***Access Control***<br>Only use the sandbox to carry out the specified project.  Access to IT commercial cloud sandboxes shall be granted only to authorised personnel who are involved in the project.   Access shall be granted based on the principle of least privilege, using role-based access control (RBAC) mechanisms.
 
