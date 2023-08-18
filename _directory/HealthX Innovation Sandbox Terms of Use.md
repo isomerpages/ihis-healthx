@@ -14,7 +14,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 1.2\.  By using or accessing the Sandbox and/or the Service Offerings, you agree to be legally bound by these Terms and you agree to comply with them.
 
-1.3\.  To understand your privacy rights, please refer to our Privacy Policy, which may be found at https://www.synapxe.sg/privacy-policy. 
+1.3\.  To understand your privacy rights, please refer to our Privacy Policy, which may be found at [https://www.synapxe.sg/privacy-policy](https://www.synapxe.sg/privacy-policy)
 
 1.4\. We may from time to time issue notices (“***Notices***”) pertaining to the access to and/or use of the&nbsp;Sandbox and/or the Service Offerings. Such specific terms and conditions of use, and Notices, shall constitute a part of these Terms. In the event of any conflict between such the Notices and these Terms, these Notices shall prevail.
 
