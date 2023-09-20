@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1hmg150cbkion.amplifyapp.com
 prod: https://master.d1hmg150cbkion.amplifyapp.com
-resources_name: news-and-documents
+resources_name: publication
 shareicon: /images/Icons and Logos/icon_hxis api.png
 is_government: false
 facebook-pixel: ""
