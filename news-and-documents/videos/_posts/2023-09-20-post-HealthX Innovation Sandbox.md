@@ -10,3 +10,4 @@ As we move towards a future driven by technology, the Synapxe HealthX Innovation
 
 By providing regulatory guidance, fostering collaboration, simulating real-world testing and enabling accelerated time-to-market, improvements in patient care and outcomes are ultimately made possible.
 
+[HealthX Innovation Sandbox](https://github.com/HealthTechSG/InnovationSandbox/blob/main/AWS%20-%20Synapxe%20HealthX%20Sandbox%20-%20Video%20with%20Subtitle.mp4)
