@@ -13,7 +13,7 @@ sections:
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       button: Express your interest
-      url: https://for.sg/healthx-ideas
+      url: https://for.sg/gibf27
       background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 30.png
   - infopic:
       title: Our APIs
