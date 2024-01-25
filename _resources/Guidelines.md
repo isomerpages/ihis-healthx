@@ -8,12 +8,11 @@ Learn the ins-and-outs of the HX-IS right here:
 
 [HealthX Innovation Sandbox Overall Process & Guidelines](/files/healthx%20innovation%20sandbox%20overall%20process%20&%20guidelines.pdf)
 
-[[Tech Guide] Healthcare Commericial Cloud - Amazon Web Services User Guides](https://github.com/HealthTechSG/InnovationSandbox/blob/main/%5BTech%20Guide%5D%20HXIS%20HCC-AWS%20User%20Guides%20v20231221.zip)
-
-
 [[Tech Guide] Open Health Stack](/files/tech%20guide%20:%20open%20health%20stack.pdf)
 
 [[Tech Guide] Software Dev Tools and SDK](/files/tech%20guide%20:%20dev%20tools%20and%20sdk.pdf)
+
+[[Tech Guide] Healthcare Commericial Cloud - Amazon Web Services User Guides](https://github.com/HealthTechSG/InnovationSandbox/blob/main/%5BTech%20Guide%5D%20HXIS%20HCC-AWS%20User%20Guides%20v20231221.zip)
 
 --- 
 
