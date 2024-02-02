@@ -2,6 +2,7 @@
 title: FAQ Page
 permalink: /faq/
 description: ""
+variant: markdown
 ---
 Q:    What does the innovation sandbox do and cover?
 
@@ -13,7 +14,7 @@ A:
 Q:    How to qualify?
 
 A:
-* Healthcare Institution or any interested firm can apply via Synapxe [HealthX](https://form.gov.sg/634fb5a3334dbd0012970fd2) [Ideas Submission](https://form.gov.sg/634fb5a3334dbd0012970fd2) portal to participate in the HealthTech Innovation Sandbox to experiment with innovative technology for the healthcare services in the production-like environment; operate within HCC, fulfil the baseline security management requirement (such as no production data and system to be hosted in the Sandbox environment) and short-term duration (&lt; 9 months from setup to deployment in sandbox environment).
+* Healthcare Institution or any interested firm can apply via Synapxe [HealthX Ideas Submission](https://for.sg/gibf27)portal to participate in the HealthTech Innovation Sandbox to experiment with innovative technology for the healthcare services in the production-like environment; operate within HCC, fulfil the baseline security management requirement (such as no production data and system to be hosted in the Sandbox environment) and short-term duration (&lt; 9 months from setup to deployment in sandbox environment).
 
 * Requestor to undergo onboarding, evaluation and approval process.
 
@@ -37,7 +38,7 @@ Q:    What is the turnaround time?
 
 A:
 
-*  At the “Application Stage” (i.e., after the application requests are submitted to the “[Ideas Bank](https://form.gov.sg/634fb5a3334dbd0012970fd2)”), Synapxe HealthX Innovation workgroup shall review the application and endeavour to notify the requestor of its potential suitability for a sandbox within 8 weeks after Synapxe receives a complete set of information necessary for the assessment.
+*  At the “Application Stage” (i.e., after the application requests are submitted to the HealthX Ideas Submission), Synapxe HealthX Innovation workgroup shall review the application and endeavour to notify the requestor of its potential suitability for a sandbox within 8 weeks after Synapxe receives a complete set of information necessary for the assessment.
 
 * At the “Entry Evaluation Stage”, the time required to fully assess the application is dependent on its completeness&nbsp; (and complexity, and the specify policy and regulatory requirements involved.
 
