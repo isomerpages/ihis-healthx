@@ -14,7 +14,7 @@ A:
 Q:    How to qualify?
 
 A:
-* Healthcare Institution or any interested firm can apply via Synapxe [HealthX Ideas Submission](https://for.sg/gibf27)portal to participate in the HealthTech Innovation Sandbox to experiment with innovative technology for the healthcare services in the production-like environment; operate within HCC, fulfil the baseline security management requirement (such as no production data and system to be hosted in the Sandbox environment) and short-term duration (&lt; 9 months from setup to deployment in sandbox environment).
+* Healthcare Institution or any interested firm can apply via Synapxe [HealthX Ideas Submission](https://for.sg/gibf27) portal to participate in the HealthTech Innovation Sandbox to experiment with innovative technology for the healthcare services in the production-like environment; operate within HCC, fulfil the baseline security management requirement (such as no production data and system to be hosted in the Sandbox environment) and short-term duration (&lt; 9 months from setup to deployment in sandbox environment).
 
 * Requestor to undergo onboarding, evaluation and approval process.
 
