@@ -73,7 +73,7 @@ A:
 
 **“Synapxe”** refers to Synapxe Pte. Ltd.
 
-**“Innovation Sandbox”** or **“Sandbox”** or **“HX-IS”** refers to Synapxe HealthTech Innovation Sandbox, that aims to support PHIs, industry partners and Synapxe internal to ideate and conduct fast experimentation, assessing and demonstrate the visibility of their innovation projects in a safe, self-contained and simulated production cloud environment before launching their products or services in the market.
+**“Innovation Sandbox”** or **“Sandbox”** or **“HXIS”** refers to Synapxe HealthX Innovation Sandbox, that aims to support PHIs, industry partners and Synapxe internal to ideate and conduct fast experimentation, assessing and demonstrate the visibility of their innovation projects in a safe, self-contained and simulated production cloud environment before launching their products or services in the market.
 
 &nbsp;**“Account”** means your unique login identification credentials which you will use for the purposes of accessing or using the service offerings in the Sandbox
 
