@@ -9,7 +9,7 @@ locations:
       - "#05-01 Elementum"
       - Singapore 139691
     operating_hours: []
-    maps_link: https://www.google.com/maps/place/Synapxe/@1.3063029,103.7900805,17z/data=!3m2!4b1!5s0x31da16586ced56c3:0xd3a9877a20a38c5c!4m6!3m5!1s0x31da16583a1a4449:0x864075175701eb76!8m2!3d1.3063029!4d103.7926554!16s%2Fg%2F11b66lm7tv?entry=ttu
+    maps_link: https://www.google.com/maps/place/Synapxe/@1.3063029,103.7926554,17z/data=!3m2!4b1!5s0x31da16586ced56c3:0xd3a9877a20a38c5c!4m6!3m5!1s0x31da16583a1a4449:0x864075175701eb76!8m2!3d1.3063029!4d103.7926554!16s%2Fg%2F11b66lm7tv?entry=ttu
     title: Main Office
 contacts:
   - content:
