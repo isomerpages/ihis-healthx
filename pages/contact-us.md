@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Synapxe Pte Ltd
 locations:
   - address:
-      - ​​​​​​6 Serangoon North Ave 5
-      - "#01-01/02"
-      - Singapore 554910
+      - 1 North Buona Vista Link
+      - "#05-01 Elementum"
+      - Singapore 139691
     operating_hours: []
     maps_link: ""
     title: Main Office
