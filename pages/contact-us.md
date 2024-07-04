@@ -13,7 +13,7 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6594 1800
+      - phone: 1800 796 2793
       - email: ""
       - other: ""
     title: General Enquiries & Feedback
