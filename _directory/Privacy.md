@@ -19,7 +19,7 @@ contact the persons identified at the end of this Privacy Policy.</p>
 <h4>&nbsp;<strong>Content:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.synapxe.sg/privacy-policy#person" rel="noopener noreferrer nofollow" target="_blank"><u>What Personal Data We Collect</u></a>
+<p><a href="#person" rel="noopener noreferrer nofollow" target="_blank"><u>What Personal Data We Collect</u></a>
 </p>
 </li>
 <li>
@@ -118,7 +118,7 @@ you have provided us.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">2. How We Collect Your Data</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">2. How We Collect Your Data</a></strong></h4>
 <p>Generally, we may collect your Personal Data in the following ways:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -163,7 +163,7 @@ we may well have no choice but to decline to proceed with the transaction,
 agreement or interaction in question to avoid causing harm or exposing
 us, you or others to risk.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">3. How We Use Your Personal Data</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">3. How We Use Your Personal Data</a></strong></h4>
 <p>Generally, we may collect, use and/or disclose your Personal Data for
 the following purposes:</p>
 <ol data-tight="true" class="tight">
@@ -226,7 +226,7 @@ and law enforcement authorities.</p>
 set out in the terms and conditions and in any contracts that govern our
 relationship with you.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">4. For Employment Purposes</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">4. For Employment Purposes</a></strong></h4>
 <p>In addition, we collect, use and/or disclose your Personal Data for the
 following purposes:</p>
 <ol data-tight="true" class="tight">
@@ -291,7 +291,7 @@ engagement by Synapxe for services).</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">5. Who Will We Disclose Your Personal Data To</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">5. Who Will We Disclose Your Personal Data To</a></strong></h4>
 <p>Subject to the provisions of any applicable law, and where relevant for
 the purposes described, your Personal Data may be collected, used and/or
 disclosed, for the purposes listed above (where applicable), to the following
@@ -346,13 +346,13 @@ Data; and</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">6. Accuracy of Personal Data</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">6. Accuracy of Personal Data</a></strong></h4>
 <p>We will take appropriate and reasonable steps to ensure the accuracy and
 correctness of the Personal Data that we collect, use and/or disclose.
 To enable us to ensure the quality and accuracy of Personal Data, you have
 an obligation to provide accurate and up-to-date information to Synapxe.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">7. How We Protect Your Personal Data</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">7. How We Protect Your Personal Data</a></strong></h4>
 <p>We will take reasonable efforts to protect the Personal Data in our possession
 or our control by making reasonable security arrangements to prevent unauthorised
 access, collection, use, disclosure, copying, modification, disposal or
@@ -361,7 +361,7 @@ any Personal Data we may have collected from or about you, e.g. that no
 harmful code (such as viruses, bugs, Trojan horses, spyware or adware)
 will enter our website.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">8. How Long Do We Retain Your Personal Data</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">8. How Long Do We Retain Your Personal Data</a></strong></h4>
 <p>We retain Personal Data as may be required for business, legal, regulatory
 or compliance purposes, and such purposes do vary according to the circumstances.
 We will take reasonable steps to dispose or anonymise Personal Data that
@@ -369,13 +369,13 @@ is no longer needed. With regard to medical data that we process, we will
 retain medical records in accordance with the duration stipulated by MOH
 and/or in adherence with contractual agreements.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">9. Transfer of Personal Data Outside Singapore</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">9. Transfer of Personal Data Outside Singapore</a></strong></h4>
 <p>Generally, we do not transfer Personal Data out of Singapore, except to
 our approved third-party services providers for applicable services. Should
 we do so, we will ensure there is compliance with the requirements under
 the PDPA.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">10. Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">10. Contacting Us – Withdrawal of Consent, Access, Update or Correct your Personal Data and Queries and Feedback</a></strong></h4>
 <p>We respect your rights to your Personal Data and will respond to the following
 requests:</p>
 <ol data-tight="true" class="tight">
@@ -384,11 +384,6 @@ requests:</p>
 </li>
 <li>
 <p>Access, update or correction of your Personal Data.</p>
-</li>
-</ol>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
 </li>
 </ol>
 <p>In each instance, we will use reasonable efforts to respond and/or attend
@@ -417,11 +412,10 @@ at:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Job application</strong>
-</p>
+<p>Job application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.synapxe.sg/privacy-policy#person" rel="noopener noreferrer nofollow" target="_blank"><u>careers@synapxe.sg</u></a></strong>
+<p><a href="https://www.synapxe.sg/privacy-policy#person" rel="noopener noreferrer nofollow" target="_blank"><u>careers@synapxe.sg</u></a>
 </p>
 </td>
 </tr>
@@ -461,7 +455,7 @@ or exposing us, you or others to risk.</p>
 not prevent us from exercising our legal rights (including any remedies,
 or undertaking any steps as we may be entitled to at law).</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">11. Others</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">11. Others</a></strong></h4>
 <p><strong><u>a) Use of Cookies</u></strong>
 </p>
 <p>A cookie is a small piece of information that is placed on your computer
@@ -512,7 +506,7 @@ on downloading the add-on and opting out.</p>
 </p>
 <p>This Privacy Policy shall be governed in all respects by the laws of Singapore.</p>
 <p>&nbsp;</p>
-<h2><strong><a rel="noopener noreferrer nofollow" target="_blank">12. Updates to this Privacy Policy</a></strong></h2>
+<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">12. Updates to this Privacy Policy</a></strong></h4>
 <p>This Privacy Policy applies in conjunction with any other relevant notices,
 policies and contractual and consent clauses entered with us.</p>
 <p>We will update this Privacy Policy from time to time to ensure that this
@@ -521,13 +515,11 @@ and/or any changes in legal or regulatory requirements.</p>
 <p>Any changes we may make to this Privacy Policy in the future will be posted
 onto our website at <a href="https://www.synapxe.sg/privacy-policy#person" rel="noopener noreferrer nofollow" target="_blank"><u>www.synapxe.sg</u></a>
 </p>
-<h2><strong>Last updated: 27 July 2023</strong></h2>
-<p>&nbsp;</p>
+<h4><strong>Last updated: 27 July 2023</strong>&nbsp;</h4>
+<hr>
 <p><strong>NOTE:</strong>
 <br>
-<br>
-</p>
-<p>Synapxe is the IT agency for the public healthcare sector in Singapore.
+<br>Synapxe is the IT agency for the public healthcare sector in Singapore.
 It is a wholly-owned subsidiary of MOHH Holdings Pte Ltd (“MOHH”), the
 holding company through which the Singapore government owns the corporatised
 institutions in the public healthcare sector.</p>
