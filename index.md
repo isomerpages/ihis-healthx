@@ -12,9 +12,15 @@ sections:
       subtitle: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
-      button: Express your interest
       url: https://for.sg/gibf27
       background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 30.png
+      variant: side
+      size: md
+      alignment: left
+      key_highlights:
+        - title: Apply now for a virtual space...
+          description: to experiment tech solutions.
+          url: ""
   - infopic:
       title: Our APIs
       description: Your one-stop resource and support platform for Synapxe managed
