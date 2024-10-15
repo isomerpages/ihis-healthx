@@ -46,4 +46,25 @@ sections:
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       image: /images/Icons and Logos/icon_apply 2.png
       alt: Image alt text
+  - textcards:
+      title: Text Cards
+      id: textcards
+      description: Text card description
+      cards:
+        - title: HCC Production Equivalent Sandbox
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Production Equivalent APIs
+          description: 2300 APIs available
+          linktext: Learn more
+          url: ""
+        - title: Sandbox Environment
+          description: Safe environment for rapid development
+          linktext: Learn more
+          url: ""
+        - title: Other Articles
+          description: Upcoming Features  Events and Conferences  Tech Stack
+          linktext: Upcoming Features
+          url: ""
 ---
