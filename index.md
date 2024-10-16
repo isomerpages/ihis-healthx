@@ -13,7 +13,7 @@ sections:
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       url: https://for.sg/gibf27
-      background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 30.png
+      background: /images/IHiS HealthX Images/14afc949_5d57_440b_931a_8fc64e92391a.svg
       variant: floating
       size: md
       alignment: left
@@ -21,6 +21,7 @@ sections:
         - title: Apply now for a virtual space...
           description: to experiment tech solutions.
           url: ""
+      backgroundColor: gray
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
@@ -61,7 +62,4 @@ sections:
           description: ""
           linktext: more
           url: ""
-  - resources:
-      title: Explore & Discover
-      button: learn more
 ---
