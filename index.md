@@ -35,8 +35,8 @@ sections:
       description: 2300 APIs available
       button: Our APIs
       url: /products/production-equivalent-apis/
-      image: /images/Icons and Logos/ICON_GUIDELINES.png
-      alt: GUIDELINES
+      image: /images/IHiS HealthX Images/7102526_1.svg
+      alt: Production Equivalent APIs
   - resources:
       title: Explore & Discover
       button: learn more
