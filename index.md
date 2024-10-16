@@ -14,7 +14,7 @@ sections:
         your innovation projects.
       url: https://for.sg/gibf27
       background: /images/IHiS HealthX Images/Hero_2.png
-      variant: floating
+      variant: image
       size: md
       alignment: left
       key_highlights:
