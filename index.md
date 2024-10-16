@@ -52,14 +52,14 @@ sections:
       cards:
         - title: Upcoming Features
           description: ""
-          linktext: more
+          linktext: Learn more
           url: ""
         - title: Events and Conferences
           description: ""
-          linktext: more
+          linktext: Learn more
           url: ""
         - title: Tech Stack
           description: ""
-          linktext: more
+          linktext: Learn more
           url: ""
 ---
