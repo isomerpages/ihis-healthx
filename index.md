@@ -28,7 +28,7 @@ sections:
         virtual space now.
       button: More about HCC Compliance
       url: /products/hcc-compliant/
-      image: /images/Icons and Logos/icon_hxis api.png
+      image: /images/IHiS HealthX Images/232806d6_74c6_4967_8ef2_3dc56cf392b9.svg
       alt: IHiS CCDP & HSGW Products
   - resources:
       title: Explore & Discover
