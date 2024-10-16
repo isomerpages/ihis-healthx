@@ -13,7 +13,7 @@ sections:
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       url: https://for.sg/gibf27
-      background: /images/IHiS HealthX Images/Hero_2.png
+      background: /images/IHiS HealthX Images/Hero_3.png
       variant: image
       size: md
       alignment: left
