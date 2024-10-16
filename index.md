@@ -41,7 +41,7 @@ sections:
       title: Sandbox Environment
       description: Safe environment for rapid development
       button: Start Using Our Sandbox
-      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
+      url: /products/sandbox/
       image: /images/Icons and Logos/icon_apply 2.png
       alt: Sandbox Environment
   - resources:
