@@ -34,7 +34,7 @@ sections:
       title: Production Equivalent APIs
       description: 2300 APIs available
       button: Our APIs
-      url: /resources/guidelines/
+      url: /products/production-equivalent-apis/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
   - resources:
