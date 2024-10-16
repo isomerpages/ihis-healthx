@@ -29,10 +29,7 @@ sections:
       button: More about HCC Compliance
       url: /products/hcc-compliant/
       image: /images/IHiS HealthX Images/232806d6_74c6_4967_8ef2_3dc56cf392b9.svg
-      alt: IHiS CCDP & HSGW Products
-  - resources:
-      title: Explore & Discover
-      button: learn more
+      alt: HCC Sandbox
   - infopic:
       title: "RESOURCES: GUIDELINES"
       description: Learn the ins and outs of navigating Synapxe HX-IS. Understand the
@@ -42,6 +39,9 @@ sections:
       url: /resources/guidelines/
       image: /images/Icons and Logos/ICON_GUIDELINES.png
       alt: GUIDELINES
+  - resources:
+      title: Explore & Discover
+      button: learn more
   - infopic:
       title: APPLY NOW
       subtitle: YOUR SECURED SPACE
