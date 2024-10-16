@@ -27,7 +27,7 @@ sections:
         application programming interfaces (APIs). Learn more and apply for a
         virtual space now.
       button: More about HCC Compliance
-      url: /products/our-apis/
+      url: /products/hcc-compliant/
       image: /images/Icons and Logos/icon_hxis api.png
       alt: IHiS CCDP & HSGW Products
   - resources:
