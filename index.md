@@ -28,7 +28,7 @@ sections:
         virtual space now.
       button: More about HCC Compliance
       url: /products/hcc-compliant/
-      image: /images/IHiS HealthX Images/232806d6_74c6_4967_8ef2_3dc56cf392b9.svg
+      image: /images/IHiS HealthX Images/232806d6_74c6_4967_8ef2_3dc56cf392b9_1.png
       alt: HCC Sandbox
   - infopic:
       title: Production Equivalent APIs
@@ -37,19 +37,16 @@ sections:
       url: /products/production-equivalent-apis/
       image: /images/IHiS HealthX Images/7102526_1.png
       alt: Production Equivalent APIs
+  - infopic:
+      title: Sandbox Environment
+      description: Safe environment for rapid development
+      button: Start Using Our Sandbox
+      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
+      image: /images/Icons and Logos/icon_apply 2.png
+      alt: Sandbox Environment
   - resources:
       title: Explore & Discover
       button: learn more
-  - infopic:
-      title: APPLY NOW
-      subtitle: YOUR SECURED SPACE
-      description: Complete our request form to apply for a virtual space to
-        experiment your tech solutions for healthcare. We will assess your
-        suitability and contact with you.
-      button: I AM READY
-      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
-      image: /images/Icons and Logos/icon_apply 2.png
-      alt: Image alt text
   - textcards:
       title: Text Cards
       id: textcards
