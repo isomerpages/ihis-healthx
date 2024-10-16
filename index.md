@@ -13,8 +13,8 @@ sections:
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       url: https://for.sg/gibf27
-      background: /images/IHiS HealthX Images/Hero_3.png
-      variant: image
+      background: /images/IHiS HealthX Images/14afc949_5d57_440b_931a_8fc64e92391a.svg
+      variant: side
       size: md
       alignment: left
       key_highlights:
@@ -38,17 +38,6 @@ sections:
           description: Safe environment for rapid development
           linktext: Learn more
           url: ""
-  - infocols:
-      title: HX-IS APIs & Sandbox
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: HCC Production Equivalent Sandbox
-          description: ""
-        - title: Production Equivalent APIs
-          description: 2300 APIs available
-        - title: Sandbox Environment
-          description: Safe environment for rapid development
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
@@ -89,4 +78,8 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
