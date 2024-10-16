@@ -2,4 +2,5 @@ collections:
   happenings:
     output: true
     order:
+      - Upcoming.md
       - Example Title.md
