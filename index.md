@@ -42,7 +42,8 @@ sections:
       description: Safe environment for rapid development
       button: Start Using Our Sandbox
       url: /products/sandbox/
-      image: /images/Icons and Logos/icon_apply 2.png
+      image: /images/IHiS HealthX
+        Images/Happy_guy_developing_project_for_startup_2.png
       alt: Sandbox Environment
   - resources:
       title: Explore & Discover
