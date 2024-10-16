@@ -45,28 +45,23 @@ sections:
       image: /images/IHiS HealthX
         Images/Happy_guy_developing_project_for_startup_3.png
       alt: Sandbox Environment
+  - textcards:
+      title: Other Articles
+      id: textcards
+      cards:
+        - title: Upcoming Features
+          description: ""
+          linktext: more
+          url: ""
+        - title: Events and Conferences
+          description: ""
+          linktext: more
+          url: ""
+        - title: Tech Stack
+          description: ""
+          linktext: more
+          url: ""
   - resources:
       title: Explore & Discover
       button: learn more
-  - textcards:
-      title: Text Cards
-      id: textcards
-      description: Text card description
-      cards:
-        - title: HCC Production Equivalent Sandbox
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Production Equivalent APIs
-          description: 2300 APIs available
-          linktext: Learn more
-          url: ""
-        - title: Sandbox Environment
-          description: Safe environment for rapid development
-          linktext: Learn more
-          url: ""
-        - title: Other Articles
-          description: Upcoming Features  Events and Conferences  Tech Stack
-          linktext: Upcoming Features
-          url: ""
 ---
