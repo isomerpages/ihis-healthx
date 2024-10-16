@@ -22,11 +22,11 @@ sections:
           description: to experiment tech solutions.
           url: ""
   - infopic:
-      title: Our APIs
+      title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
         application programming interfaces (APIs). Learn more and apply for a
         virtual space now.
-      button: tell me more
+      button: More about HCC Compliance
       url: /products/our-apis/
       image: /images/Icons and Logos/icon_hxis api.png
       alt: IHiS CCDP & HSGW Products
