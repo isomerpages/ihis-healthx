@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - Production Equivalent APIs.md
       - HCC Compliant.md
       - Our APIs.md
       - Healthcare Integrated Pipeline (HIP).md
