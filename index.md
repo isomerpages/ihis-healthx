@@ -38,6 +38,17 @@ sections:
           description: Safe environment for rapid development
           linktext: Learn more
           url: ""
+  - infocols:
+      title: HX-IS APIs & Sandbox
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: HCC Production Equivalent Sandbox
+          description: ""
+        - title: Production Equivalent APIs
+          description: 2300 APIs available
+        - title: Sandbox Environment
+          description: Safe environment for rapid development
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
