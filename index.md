@@ -14,7 +14,7 @@ sections:
         your innovation projects.
       url: https://for.sg/gibf27
       background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 30.png
-      variant: side
+      variant: floating
       size: md
       alignment: left
       key_highlights:
