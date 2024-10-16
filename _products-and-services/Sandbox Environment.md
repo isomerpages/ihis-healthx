@@ -24,4 +24,5 @@ idea/innovation being validated by users.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sandbox Enviornment/Upload_and_Run.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Upload and Run</div><div class="isomer-card-description">Upload your application and you will get to see the application once it is approved internally by Synapxe and run the innovation with users.</div><div class="isomer-card-link">Developer Portal</div></div></a>
 </div>
 <p></p>
-<p></p>
+<p>Additionally, we support creating new APIs on the fly, catering for your
+unique requirements, shortening the turn-around for your sandbox projects!</p>
