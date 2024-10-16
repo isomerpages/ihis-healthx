@@ -28,7 +28,7 @@ sections:
         virtual space now.
       button: More about HCC Compliance
       url: /products/hcc-compliant/
-      image: /images/IHiS HealthX Images/232806d6_74c6_4967_8ef2_3dc56cf392b9_1.png
+      image: /images/IHiS HealthX Images/Cloud.png
       alt: HCC Sandbox
   - infopic:
       title: Production Equivalent APIs
@@ -43,7 +43,7 @@ sections:
       button: Start Using Our Sandbox
       url: /products/sandbox/
       image: /images/IHiS HealthX
-        Images/Happy_guy_developing_project_for_startup_2.png
+        Images/Happy_guy_developing_project_for_startup_3.png
       alt: Sandbox Environment
   - resources:
       title: Explore & Discover
