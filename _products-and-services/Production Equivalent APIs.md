@@ -38,7 +38,7 @@ in HCC/HPC hosting environments.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Production Equivalent APIs/4b673f58_27e9_40ca_b939_65d01a425828.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
