@@ -44,7 +44,7 @@ sections:
         application programming interfaces (APIs). Learn more and apply for a
         virtual space now.
       button: More about HCC Compliance
-      url: /products/hcc-compliant/
+      url: /hcc-compliant/
       image: /images/IHiS HealthX Images/Cloud.png
       alt: HCC Sandbox
   - infopic:
