@@ -3,12 +3,12 @@ links:
   - title: Products & Services
     url: /products/hcc-compliant/
     sublinks:
-      - title: HCC Compliant
-        url: /products/hcc-compliant/
+      - title: HCC Compliance
+        url: /hcc-compliance/
       - title: Production Equivalent APIs
-        url: /products/production-equivalent-apis/
+        url: /production-equivalent-apis/
       - title: Sandbox Enviroment
-        url: /products/sandbox/
+        url: /sandbox/
       - title: APIs
         url: /products/apis/
   - title: Solutions
