@@ -22,9 +22,6 @@ sections:
           description: to experiment tech solutions.
           url: ""
       backgroundColor: gray
-  - textcards:
-      title: HX-IS APIs & Sandbox
-      id: textcards
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
