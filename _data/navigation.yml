@@ -1,7 +1,7 @@
 logo: /images/Icons and Logos/synapxe logo.png
 links:
   - title: Products & Services
-    url: /products/hcc-compliant/
+    url: /hcc-compliance/
     sublinks:
       - title: HCC Compliance
         url: /hcc-compliance/
