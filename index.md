@@ -51,7 +51,7 @@ sections:
       title: Production Equivalent APIs
       description: 2300 APIs available
       button: Our APIs
-      url: /products/production-equivalent-apis/
+      url: /production-equivalent-apis/
       image: /images/IHiS HealthX Images/7102526_1.png
       alt: Production Equivalent APIs
   - infopic:
