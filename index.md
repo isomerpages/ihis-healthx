@@ -22,6 +22,9 @@ sections:
           description: to experiment tech solutions.
           url: ""
       backgroundColor: gray
+  - infobar:
+      title: Our Offerings
+      id: infobar
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
