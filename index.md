@@ -25,19 +25,6 @@ sections:
   - textcards:
       title: HX-IS APIs & Sandbox
       id: textcards
-      cards:
-        - title: HCC Production Equivalent Sandbox
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Production Equivalent APIs
-          description: 2300 APIs available
-          linktext: Learn more
-          url: ""
-        - title: Sandbox Environment
-          description: Safe environment for rapid development
-          linktext: Learn more
-          url: ""
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support platform for Synapxe managed
