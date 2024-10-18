@@ -2,7 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
-      - HCC Compliant.md
+      - HCC Compliance.md
       - Production Equivalent APIs.md
       - Sandbox Environment.md
       - Our APIs.md
