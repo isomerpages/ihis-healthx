@@ -12,7 +12,6 @@ sections:
       subtitle: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
-      url: https://for.sg/gibf27
       background: /images/IHiS HealthX Images/14afc949_5d57_440b_931a_8fc64e92391a.svg
       variant: side
       size: md
@@ -20,7 +19,7 @@ sections:
       key_highlights:
         - title: Apply now for a virtual space...
           description: to experiment tech solutions.
-          url: ""
+          url: https://for.sg/gibf27
       backgroundColor: gray
   - infobar:
       title: Our Offerings
