@@ -21,7 +21,7 @@ links:
       - title: HIP
         url: /solutions/hip/
   - title: Happenings
-    url: /happenings/upcoming/
+    url: /upcoming/
     sublinks:
       - title: Upcoming
         url: /happenings/upcoming/
