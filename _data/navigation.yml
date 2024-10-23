@@ -14,12 +14,12 @@ links:
   - title: Solutions
     url: /solutions/synapxe-tech-stack/
     sublinks:
+      - title: HIP
+        url: /solutions/Healthcare Integrated Pipeline (HIP)
       - title: Synapxe Tech Stack
         url: /solutions/synapxe-tech-stack/
       - title: Open Health Stack
         url: /solutions/open-health-stack/
-      - title: HIP
-        url: /solutions/Healthcare Integrated Pipeline (HIP)
   - title: Happenings
     url: /upcoming/
     sublinks:
