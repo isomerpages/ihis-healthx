@@ -21,23 +21,6 @@ sections:
           description: to experiment tech solutions.
           url: https://for.sg/gibf27
       backgroundColor: gray
-  - textcards:
-      title: Our Offerings
-      subtitle: text cards
-      id: textcards
-      cards:
-        - title: HCC Production Equivalent Sandbox
-          description: One-stop resource & support platform for Synapxe managed APIs.
-          linktext: Learn more and apply for a virtual space now!
-          url: ""
-        - title: Production Equivalent APIs
-          description: 2300 APIs available
-          linktext: Our APIs
-          url: ""
-        - title: Sandbox Environment
-          description: Safe environment for rapid development
-          linktext: Start Using Our Sandbox
-          url: ""
   - infobar:
       title: Our Offerings
       id: infobar
@@ -50,7 +33,6 @@ sections:
       url: /hcc-compliance/
       image: /images/IHiS HealthX Images/Cloud.png
       alt: HCC Sandbox
-      subtitle: info pic
   - infopic:
       title: Production Equivalent APIs
       description: 2300 APIs available
@@ -58,7 +40,6 @@ sections:
       url: /production-equivalent-apis/
       image: /images/IHiS HealthX Images/7102526_1.png
       alt: Production Equivalent APIs
-      subtitle: info pic
   - infopic:
       title: Sandbox Environment
       description: Safe environment for rapid development
@@ -67,7 +48,6 @@ sections:
       image: /images/IHiS HealthX
         Images/Happy_guy_developing_project_for_startup_3.png
       alt: Sandbox Environment
-      subtitle: info pic
   - textcards:
       title: Other Articles
       id: textcards
