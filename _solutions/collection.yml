@@ -1,4 +1,5 @@
 collections:
   solutions:
     output: true
-    order: []
+    order:
+      - Healthcare Integrated Pipeline (HIP).md
