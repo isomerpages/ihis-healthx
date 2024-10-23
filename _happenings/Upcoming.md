@@ -15,9 +15,5 @@ for end users.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upcoming/SmartOnFHIR_video.png">
-	  
-&nbsp;&nbsp;  
-&nbsp; Your browser does not support the video tag.  
-
 </div>
 <p></p>
