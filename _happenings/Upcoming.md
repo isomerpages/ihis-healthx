@@ -13,7 +13,9 @@ run anywhere within SmartOnFHIR ecosystem.
 point of entry for aggregating and accessing multiple application functionalities
 for end users.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upcoming/SmartOnFHIR_video.png">
-</div>
+
+<video autoplay="" controls="" height="480" width="640"> <source type="video/mp4" src="https://github.com/HealthTechSG/InnovationSandbox/raw/main/SMARTonFHIR%20Final-edit02.mp4">
+</video>
+
+
 <p></p>
