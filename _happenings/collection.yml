@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Upcoming.md
-      - Example Title.md
