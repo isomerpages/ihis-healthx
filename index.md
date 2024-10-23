@@ -12,8 +12,8 @@ sections:
       subtitle: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
-      background: /images/IHiS HealthX Images/14afc949_5d57_440b_931a_8fc64e92391a.svg
-      variant: side
+      background: /images/IHiS HealthX Images/Hero_3.png
+      variant: image
       size: md
       alignment: left
       key_highlights:
