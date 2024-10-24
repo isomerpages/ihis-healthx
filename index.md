@@ -8,19 +8,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: HealthX Innovation Sandbox (HX-IS)
-      subtitle: HX-IS enables public healthcare institutes and tech partners to
-        conduct fast experimentation, assessments and demonstrate viability of
-        your innovation projects.
+      title: HealthX Innovation Sandbox
       background: /images/IHiS HealthX Images/Hero.svg
-      variant: image
+      variant: center
       size: md
       alignment: left
-      key_highlights:
-        - title: Apply now for a virtual space...
-          description: to experiment tech solutions.
-          url: https://for.sg/gibf27
       backgroundColor: gray
+      button: Apply sandbox access
+      url: "https:"
   - infobar:
       title: Our Offerings
       id: infobar
