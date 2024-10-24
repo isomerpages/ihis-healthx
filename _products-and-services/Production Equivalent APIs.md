@@ -42,8 +42,8 @@ in HCC/HPC hosting environments.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">...and more</div>
-<div class="isomer-card-link">httpa</div>
+<div class="isomer-card-title">Watch this space</div>
+<div class="isomer-card-link">About future APIs</div>
 </div>
 </a>
 </div>
