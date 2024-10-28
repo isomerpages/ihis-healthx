@@ -2,5 +2,6 @@ collections:
   solutions:
     output: true
     order:
+      - Open Health Stack.md
       - Synapxe Tech Stack.md
       - Healthcare Integrated Pipeline (HIP).md
