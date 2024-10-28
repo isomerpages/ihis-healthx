@@ -15,7 +15,7 @@ sections:
       alignment: left
       backgroundColor: gray
       button: Apply sandbox access
-      url: "https:"
+      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
   - infobar:
       title: Our Offerings
       id: infobar
