@@ -9,8 +9,6 @@ links:
         url: /production-equivalent-apis/
       - title: Sandbox Enviroment
         url: /sandbox-environment/
-      - title: APIs
-        url: /products/apis/
   - title: Solutions
     url: /solutions/synapxe-tech-stack/
     sublinks:
