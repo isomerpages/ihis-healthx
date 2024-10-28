@@ -23,6 +23,8 @@ links:
     sublinks:
       - title: Upcoming
         url: /upcoming/
+      - title: Events
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
