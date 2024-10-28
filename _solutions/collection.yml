@@ -2,4 +2,5 @@ collections:
   solutions:
     output: true
     order:
+      - Synapxe Tech Stack.md
       - Healthcare Integrated Pipeline (HIP).md
