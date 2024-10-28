@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: Production Equivalent APIs
       description: 2300 industrial-standard APIs available for HL7 FHIR releases and
-        Synapxe's CCDP, MIC@Home and Healthier-SG.
+        Synapxe's CCDP, Remote Care Monitoring (RCM) and Healthier-SG.
       button: Our APIs
       url: /production-equivalent-apis/
       image: /images/IHiS HealthX Images/7102526_1.png
