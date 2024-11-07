@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Develop & Test.md
       - Guidelines.md
+      - Develop & Test.md
