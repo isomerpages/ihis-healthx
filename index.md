@@ -50,15 +50,15 @@ sections:
         - title: Upcoming Features
           description: ""
           linktext: Learn more
-          url: ""
+          url: /coming-soon/
         - title: Events and Conferences
           description: ""
           linktext: Learn more
-          url: ""
+          url: /coming-soon/
         - title: Tech Stack
           description: ""
           linktext: Learn more
-          url: ""
+          url: /coming-soon/
   - resources:
       title: Resources
       id: resources
