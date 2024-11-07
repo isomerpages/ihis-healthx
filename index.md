@@ -70,12 +70,4 @@ sections:
       button: Button Text
       image: /images/IHiS HealthX Images/startup_14732136.gif
       alt: Image alt text
-  - infopic:
-      title: Test video
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      url: https://youtu.be/CyqevLzBgJA?si=R1nNdbPzlcao6O2Y
-      alt: Image alt text
 ---
