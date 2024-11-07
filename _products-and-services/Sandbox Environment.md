@@ -10,7 +10,7 @@ each innovation team focus primarily on rapid development and get your
 idea/innovation being validated by users.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://apidocs.healthx.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sandbox Enviornment/Explore_and_Apply.svg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Explore &amp; Apply</div><div class="isomer-card-description">Explore available APIs – CRUD for all the HL7 FHIR resources defined by HL7 FHIR and FHIR APIs Synapxe has implemented for our national/central systems eg Common Consumer Digital Platform and Healthier SG.&nbsp;</div><div class="isomer-card-link">APIs</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/develop-test/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sandbox Enviornment/Develop_and_Test.svg">
