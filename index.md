@@ -8,8 +8,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: HealthX Innovation Sandbox
-      background: /images/IHiS HealthX Images/Hero_animated_02.svg
+      title: (test animation) HealthX Innovation Sandbox
+      background: /images/IHiS HealthX Images/startup_14732136.gif
       variant: center
       size: md
       alignment: left
