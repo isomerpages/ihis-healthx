@@ -1,4 +1,5 @@
 collections:
   coming-soon:
     output: true
-    order: []
+    order:
+      - Coming Soon!.md
