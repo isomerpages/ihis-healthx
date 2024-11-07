@@ -62,4 +62,12 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - infopic:
+      title: Test gif animation
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/IHiS HealthX Images/startup_14732136.gif
+      alt: Image alt text
 ---
