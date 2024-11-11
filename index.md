@@ -58,7 +58,7 @@ sections:
         - title: Tech Stack
           description: ""
           linktext: Learn more
-          url: /coming-soon/
+          url: /solutions/synapxe-tech-stack/
   - resources:
       title: Resources
       id: resources
