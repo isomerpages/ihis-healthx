@@ -10,15 +10,12 @@ sections:
   - hero:
       title: HealthX Innovation Sandbox
       background: /images/IHiS HealthX Images/Hero6_graphic_title01.gif
-      variant: image
+      variant: center
       size: md
       alignment: left
       backgroundColor: gray
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
-      key_highlights:
-        - title: APPLY SANDBOX ACCESS
-          description: ""
-          url: https://form.gov.sg/6451bef4d0f2470011ddf40a
+      button: APPLY SANDBOX ACCESS
   - infobar:
       title: Our Offerings
       id: infobar
