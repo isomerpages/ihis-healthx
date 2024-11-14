@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: HealthX Innovation Sandbox
-      background: /images/IHiS HealthX Images/Hero6_graphic_title01.gif
+      background: /images/IHiS HealthX Images/Hero6_graphic.gif
       variant: center
       size: md
       alignment: left
