@@ -25,7 +25,7 @@ sections:
         compliant for seamless migration to production.
       button: More about HCC Compliance
       url: /hcc-compliance/
-      image: /images/IHiS HealthX Images/Cloud.png
+      image: /images/IHiS HealthX Images/Cloud_transparent.png
       alt: HCC Sandbox
   - infopic:
       title: Production Equivalent APIs
@@ -33,7 +33,7 @@ sections:
         Synapxe's CCDP, Remote Care Monitoring (RCM) and Healthier-SG.
       button: Our APIs
       url: /production-equivalent-apis/
-      image: /images/IHiS HealthX Images/7102526_1.png
+      image: /images/IHiS HealthX Images/API_transparent.png
       alt: Production Equivalent APIs
   - infopic:
       title: Sandbox Environment
