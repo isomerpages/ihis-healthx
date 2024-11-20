@@ -22,7 +22,8 @@ sections:
   - infopic:
       title: HCC Production Equivalent Sandbox
       description: Your one-stop resource and support infrastructure that is HCC
-        compliant for seamless migration to production.
+        compliant for seamless setup and deployment to the project’s own HCC
+        application environment.
       button: More about HCC Compliance
       url: /hcc-compliance/
       image: /images/IHiS HealthX Images/Cloud_transparent.png
