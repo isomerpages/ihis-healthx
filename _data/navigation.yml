@@ -15,9 +15,9 @@ links:
       - title: HIP
         url: /solutions/hip/
       - title: Open Health Stack
-        url: /solutions/synapxe-tech-stack/
-      - title: Tech Radar
         url: /solutions/open-health-stack/
+      - title: Tech Radar
+        url: /solutions/tech-radar/
   - title: Happenings
     url: /upcoming/
     sublinks:
