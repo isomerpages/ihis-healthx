@@ -4,7 +4,11 @@ permalink: /solutions/open-health-stack/
 variant: tiptap
 description: ""
 ---
-<h1></h1>
+<p>Tech Radar provides Synapxe software engineering and development (SEED)
+sub group’s &nbsp;tech assessment and planned adoption for modern application
+development comprising the four software engineering areas - Engineering
+Platform, Programming Languages, Tools and Techniques.</p>
+<p>Stay tuned in this space for the upcoming SEED Tech Radar publication.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guidelines/tech_guide___open_health_stack.png">
 </div>
