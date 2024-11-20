@@ -30,15 +30,18 @@ sections:
       alt: HCC Sandbox
   - infopic:
       title: Production Equivalent APIs
-      description: 2300 industrial-standard APIs available for HL7 FHIR releases and
-        Synapxe's CCDP, Remote Care Monitoring (RCM) and Healthier-SG.
+      description: 2300 HL7 FHIR APIs & Synapxe’s implementation of national/central
+        systems. Develop seamless working applications with actual
+        national/central systems.
       button: Our APIs
       url: /production-equivalent-apis/
       image: /images/IHiS HealthX Images/API_transparent.png
       alt: Production Equivalent APIs
   - infopic:
       title: Sandbox Environment
-      description: Safe environment for rapid development
+      description: Sandbox environment for rapid development and deployment, so that
+        you can demo and validate your ideas with end-users without any infra
+        setup.
       button: Start Using Our Sandbox
       url: /sandbox-environment/
       image: /images/IHiS HealthX Images/Sandbox_transparent_2.png
