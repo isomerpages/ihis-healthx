@@ -1,5 +1,0 @@
-collections:
-  watch-this-space:
-    output: true
-    order:
-      - About future APIs.md
