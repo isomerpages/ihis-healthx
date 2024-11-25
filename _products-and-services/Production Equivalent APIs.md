@@ -5,8 +5,8 @@ variant: tiptap
 description: System equivalent APIs
 image: /images/IHiS HealthX Images/7102526_1.png
 ---
-<p>Our sandbox provides Synapxe production system equivalent APIs so that
-industry I.T. vendors can use these APIs to integrate with their systems
+<p>Our sandbox provides Synapxe <strong>production system equivalent APIs</strong> so
+that industry I.T. vendors can use these APIs to integrate with their systems
 and it is guaranteed to work when the vendor solution id deployed in HCC/HPC
 hosting environments.</p>
 <p></p>
