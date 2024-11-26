@@ -61,7 +61,7 @@ sections:
         - title: Tech Stack
           description: ""
           linktext: Learn more
-          url: /solutions/synapxe-tech-stack/
+          url: /solutions/open-health-stack/
   - resources:
       title: Resources
       id: resources
