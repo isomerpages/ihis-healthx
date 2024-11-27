@@ -16,6 +16,16 @@ sections:
       backgroundColor: gray
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       button: APPLY SANDBOX ACCESS
+  - infocols:
+      title: About...
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: HealthX Portal
+          description: Short writeup about this portal and its objectives.
+        - title: FHIR
+          description: Fast Healthcare Interoperability Resources is a standard for
+            exchanging healthcare information electronically.
   - infobar:
       title: Our Offerings
       id: infobar
