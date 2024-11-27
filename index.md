@@ -44,7 +44,7 @@ sections:
         setup.
       button: Start Using Our Sandbox
       url: /sandbox-environment/
-      image: /images/IHiS HealthX Images/Sandbox_transparent_2.png
+      image: /images/IHiS HealthX Images/Sandbox_transparent.png
       alt: Sandbox Environment
   - textcards:
       title: Other Articles
