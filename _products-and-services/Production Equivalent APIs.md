@@ -35,7 +35,7 @@ hosting environments.</p>
 <div class="isomer-card-link">View</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://apidocs.healthx.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="RCM" src="/images/Icons and Logos/RCM.svg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">RCM</div><div class="isomer-card-description">3 APIs</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://apidocs.healthx.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/coming-soon/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="more" src="/images/Icons and Logos/more.svg">
