@@ -10,10 +10,10 @@ vendor managed sandbox and SaaS so that team is focused on putting together
 an end-to-end innovative solution instead of spending time on the underlying
 infra hosting.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HCC Compliant/Microsoft_Azure__2_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/HCC Compliant/Microsoft_Azure__6_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HCC Compliant" src="/images/HCC Compliant/HCC_Compliant.png">
 </div>
