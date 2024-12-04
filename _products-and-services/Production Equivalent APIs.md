@@ -5,6 +5,11 @@ variant: tiptap
 description: System equivalent APIs
 image: /images/IHiS HealthX Images/7102526_1.png
 ---
+<p></p>
+<p><strong>HL7 FHIR</strong> (Fast Healthcare Interoperability Resource) is
+an <strong>industrial standard for healthcare data exchange</strong>. FHIR
+is increasingly adopted worldwide as healthcare moves toward more integrated,
+patient-centered care models.</p>
 <p>Our sandbox provides Synapxe <strong>production system equivalent APIs</strong> so
 that industry I.T. vendors can use these APIs to integrate with their systems
 and it is guaranteed to work when the vendor solution id deployed in HCC/HPC
