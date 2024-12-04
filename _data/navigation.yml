@@ -21,6 +21,8 @@ links:
   - title: Happenings
     url: /upcoming/
     sublinks:
+      - title: Upcoming Features
+        url: /upcoming-features/
       - title: Upcoming
         url: /upcoming/
   - title: Contact Us
