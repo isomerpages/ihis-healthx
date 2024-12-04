@@ -25,6 +25,7 @@ sections:
       button: Find out more
       url: http://
       alt: Image alt text
+      image: /images/Icons and Logos/HealthX_logo.png
   - infopic:
       title: What is FHIR (Fast Healthcare Interoperability Resource)?
       id: infopic
