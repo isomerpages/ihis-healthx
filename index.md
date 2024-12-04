@@ -77,7 +77,7 @@ sections:
         - title: Events and Conferences
           description: ""
           linktext: Learn more
-          url: /coming-soon/
+          url: /events-and-conferences/
         - title: Tech Stack
           description: ""
           linktext: Learn more
