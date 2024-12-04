@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Events and Conferences.md
-      - Upcoming.md
+      - SmartOnFHIR.md
