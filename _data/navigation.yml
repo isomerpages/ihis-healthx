@@ -19,10 +19,10 @@ links:
       - title: Tech Radar
         url: /solutions/tech-radar/
   - title: Happenings
-    url: /upcoming-features/
+    url: /events-and-conferences/
     sublinks:
-      - title: Upcoming Features
-        url: /upcoming-features/
+      - title: Events and Conferences
+        url: /events-and-conferences/
       - title: SmartOnFHIR
         url: /smartonfhir/
   - title: Contact Us
