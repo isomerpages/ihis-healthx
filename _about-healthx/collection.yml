@@ -1,4 +1,5 @@
 collections:
   about-healthx:
     output: true
-    order: []
+    order:
+      - About HealthX.md
