@@ -19,7 +19,7 @@ links:
       - title: Tech Radar
         url: /solutions/tech-radar/
   - title: Happenings
-    url: /upcoming/
+    url: /upcoming-features/
     sublinks:
       - title: Upcoming Features
         url: /upcoming-features/
