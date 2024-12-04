@@ -10,6 +10,8 @@ image: /images/IHiS HealthX Images/7102526_1.png
 an <strong>industrial standard for healthcare data exchange</strong>. FHIR
 is increasingly adopted worldwide as healthcare moves toward more integrated,
 patient-centered care models.</p>
+<p><a href="https://www.hl7.org/fhir/overview.html" rel="noopener nofollow" target="_blank">Find out more about FHIR</a>
+</p>
 <p>Our sandbox provides Synapxe <strong>production system equivalent APIs</strong> so
 that industry I.T. vendors can use these APIs to integrate with their systems
 and it is guaranteed to work when the vendor solution id deployed in HCC/HPC
