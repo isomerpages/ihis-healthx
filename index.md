@@ -16,18 +16,15 @@ sections:
       backgroundColor: gray
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       button: APPLY SANDBOX ACCESS
-  - textcards:
-      title: About...
-      id: textcards
-      cards:
-        - title: HealthX Portal
-          description: Short writeup about this portal and its objectives.
-          linktext: Learn more
-          url: ""
-        - title: FHIR (Fast Healthcare Interoperability Resources)
-          description: Standard for exchanging healthcare information electronically.
-          linktext: Learn more
-          url: ""
+  - infopic:
+      title: About HealthX
+      id: infopic
+      description: HX-IS enables public healthcare institutes and tech partners to
+        conduct fast experimentation, assessments and demonstrate viability of
+        your innovation projects.
+      button: Find out more
+      url: http://
+      alt: Image alt text
   - infobar:
       title: Our Offerings
       id: infobar
@@ -78,12 +75,12 @@ sections:
       title: Resources
       id: resources
   - infopic:
-      title: About HealthX
+      title: About FHIR (Fast Healthcare Interoperability Resource)
       id: infopic
-      description: HX-IS enables public healthcare institutes and tech partners to
-        conduct fast experimentation, assessments and demonstrate viability of
-        your innovation projects.
-      button: Find out more
-      url: http://
+      description: HL7 FHIR is an industrial standard for healthcare data exchange.
+        FHIR is increasingly adopted worldwide for more integrated,
+        patient-centered care models.
+      button: More about FHIR
+      url: https://www.hl7.org/fhir/overview.html
       alt: Image alt text
 ---
