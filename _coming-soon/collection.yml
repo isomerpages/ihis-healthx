@@ -2,4 +2,5 @@ collections:
   coming-soon:
     output: true
     order:
+      - Upcoming APIs.md
       - Upcoming features.md
