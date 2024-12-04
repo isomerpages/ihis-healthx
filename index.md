@@ -77,4 +77,13 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - infopic:
+      title: About HealthX
+      id: infopic
+      description: HX-IS enables public healthcare institutes and tech partners to
+        conduct fast experimentation, assessments and demonstrate viability of
+        your innovation projects.
+      button: Find out more
+      url: http://
+      alt: Image alt text
 ---
