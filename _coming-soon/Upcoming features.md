@@ -4,10 +4,8 @@ permalink: /upcoming-features/
 variant: tiptap
 description: ""
 ---
-<p>The next generation of healthcare APIs is set to revolutionize how data
-is accessed, shared, and utilized in the healthcare ecosystem. Here’s a
-quick overview of the features on the horizon:</p>
-<ol>
+<h4>The next generation of healthcare APIs is set to revolutionize how data is accessed, shared, and utilized in the healthcare ecosystem. Here’s a quick overview of the features on the horizon:</h4>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Interoperability Enhancements</strong>
 <br>APIs are being designed with greater compatibility across platforms and
@@ -46,5 +44,5 @@ management will streamline remote care delivery, making healthcare more
 accessible and convenient.</p>
 </li>
 </ol>
-<p>These advancements promise to foster innovation, enhance collaboration,
-and ultimately improve healthcare delivery for patients and providers alike.</p>
+<h4>These advancements promise to foster innovation, enhance collaboration, and ultimately improve healthcare delivery for patients and providers alike.</h4>
+<p></p>
