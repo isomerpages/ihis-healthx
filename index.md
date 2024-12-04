@@ -73,7 +73,7 @@ sections:
         - title: Upcoming Features
           description: ""
           linktext: Learn more
-          url: /coming-soon/
+          url: /upcoming-features/
         - title: Events and Conferences
           description: ""
           linktext: Learn more
