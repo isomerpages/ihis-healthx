@@ -26,16 +26,6 @@ sections:
       url: https://www.synapxe.sg/partner-us/healthx/co-innovation-lab
       alt: Image alt text
       image: /images/Icons and Logos/Logo_HealthX_4C.png
-  - infopic:
-      title: What is FHIR (Fast Healthcare Interoperability Resource)?
-      id: infopic
-      description: HL7 FHIR is an industrial standard for healthcare data exchange.
-        FHIR is increasingly adopted worldwide for more integrated,
-        patient-centered care models.
-      button: More about FHIR
-      url: https://www.hl7.org/fhir/overview.html
-      alt: Image alt text
-      image: /images/Icons and Logos/fhir_logo_www.png
   - infobar:
       title: Our Offerings
       id: infobar
