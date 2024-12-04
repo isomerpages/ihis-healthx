@@ -34,6 +34,7 @@ sections:
       button: More about FHIR
       url: https://www.hl7.org/fhir/overview.html
       alt: Image alt text
+      image: /images/Icons and Logos/fhir_logo_www.png
   - infobar:
       title: Our Offerings
       id: infobar
