@@ -25,7 +25,7 @@ sections:
       button: Find out more
       url: https://www.synapxe.sg/partner-us/healthx/co-innovation-lab
       alt: Image alt text
-      image: /images/Icons and Logos/HealthX_logo.png
+      image: /images/Icons and Logos/Logo_HealthX_4C.png
   - infopic:
       title: What is FHIR (Fast Healthcare Interoperability Resource)?
       id: infopic
