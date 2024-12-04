@@ -23,8 +23,8 @@ links:
     sublinks:
       - title: Upcoming Features
         url: /upcoming-features/
-      - title: Upcoming
-        url: /upcoming/
+      - title: SmartOnFHIR
+        url: /smartonfhir/
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
