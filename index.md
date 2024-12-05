@@ -62,7 +62,7 @@ sections:
       cards:
         - title: Upcoming Features
           description: ""
-          linktext: Next generation of healthcare APIs
+          linktext: Coming soon
           url: /upcoming-features/
         - title: Events and Conferences
           description: ""
