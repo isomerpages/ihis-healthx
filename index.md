@@ -62,7 +62,7 @@ sections:
       cards:
         - title: Upcoming Features
           description: ""
-          linktext: Coming soon
+          linktext: Learn more
           url: /upcoming-features/
         - title: Events and Conferences
           description: ""
