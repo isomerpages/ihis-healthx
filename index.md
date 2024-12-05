@@ -25,7 +25,7 @@ sections:
       button: Find out more
       url: /about/
       alt: Image alt text
-      image: /images/Icons and Logos/Logo_HealthX_4C.png
+      image: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 10.png
   - infobar:
       title: Our Offerings
       id: infobar
