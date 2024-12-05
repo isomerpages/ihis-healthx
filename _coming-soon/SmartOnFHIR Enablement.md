@@ -4,7 +4,7 @@ permalink: /smartonfhir-enable/
 variant: markdown
 description: ""
 ---
-<h4>SmartOnFHIR Enablement</h4>
+
 <p>SmartOnFHIR (Substitutable Medical Applications, Reusable Technologies)
 is set of standards for creating substitutable apps that can launch and
 run anywhere within SmartOnFHIR ecosystem.
