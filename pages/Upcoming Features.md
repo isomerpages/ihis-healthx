@@ -18,3 +18,7 @@ run anywhere within SmartOnFHIR ecosystem.
 
 
 <p></p>
+<p>Gen AI and RAG – With the FHIR data structure enabling a web of inter-linked information, it unlocks tremendous potential of the data, unlocks an array of possibilities for the healthcare industry with GenAI. Within Synapxe, we are also exploring AWS LLM services to ingest FHIR data into LLM to try out RAG.
+<br>
+<br>Below are a few industry reference for details.</p>
+<p></p>
