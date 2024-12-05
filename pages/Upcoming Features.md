@@ -18,11 +18,23 @@ run anywhere within SmartOnFHIR ecosystem.
 
 
 <p></p>
+
+<br>
+<br>
+<br>
 <p>Gen AI and RAG – With the FHIR data structure enabling a web of inter-linked information, it unlocks tremendous potential of the data, unlocks an array of possibilities for the healthcare industry with GenAI. Within Synapxe, we are also exploring AWS LLM services to ingest FHIR data into LLM to try out RAG.
 <br>
-<br>Below are a few industry reference for details.</p>
-<p><a href="https://www.healthcareitnews.com/news/google-cloud-debuts-new-genai-advancements-healthcare-himss24" rel="noopener nofollow" target="_blank">Google Cloud debuts new genAI advancements for healthcare at HIMSS24 | Healthcare IT News</a>
+<br>Below are a few industry reference for details.
+<br>
+<a href="https://www.healthcareitnews.com/news/google-cloud-debuts-new-genai-advancements-healthcare-himss24" rel="noopener nofollow" target="_blank">Google Cloud debuts new genAI advancements for healthcare at HIMSS24 | Healthcare IT News</a>
 <br>
 <a href="https://www.health-samurai.io/aidbox/resources/ai" rel="noopener nofollow" target="_blank">Artificial intelligence in healthcare | Aidbox: GenAI on FHIR (health-samurai.io)</a>
+<br>
+<a href="https://community.intersystems.com/post/experiment-generative-ai-and-fhir" rel="noopener nofollow" target="_blank">An experiment on generative AI and FHIR | InterSystems Developer Community</a>
+<br>
+<a href="https://www.youtube.com/watch?v=15WsB8FZz8U" rel="noopener nofollow" target="_blank">RAG on FHIR: Using FHIR with Generative AI to Make Healthcare Less Opaque</a>
+<br>
+<a href="https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/" rel="noopener nofollow" target="_blank">Google's Vertex AI Search: Game-Changer for Healthcare &amp; Life Sciences (forbes.com)</a>
+<br>
 </p>
 <p></p>
