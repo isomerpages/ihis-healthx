@@ -23,7 +23,7 @@ sections:
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       button: Find out more
-      url: https://www.synapxe.sg/partner-us/healthx/co-innovation-lab
+      url: /about/
       alt: Image alt text
       image: /images/Icons and Logos/Logo_HealthX_4C.png
   - infobar:
