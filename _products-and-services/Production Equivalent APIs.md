@@ -50,7 +50,7 @@ hosting environments.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Watch this space</div>
-<div class="isomer-card-link">Coming soon</div>
+<div class="isomer-card-link">Upcoming Features</div>
 </div>
 </a>
 </div>
