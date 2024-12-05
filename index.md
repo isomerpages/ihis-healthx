@@ -23,7 +23,7 @@ sections:
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
       button: Find out more
-      url: /about/
+      url: /about-healthx/
       alt: Image alt text
       image: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 10.png
   - infobar:
