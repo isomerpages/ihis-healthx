@@ -8,9 +8,9 @@ description: ""
 is set of standards for creating substitutable apps that can launch and
 run anywhere within SmartOnFHIR ecosystem.
 <br>
-<br>By implementing SmartOnFHIR and custom add-on, we will achieve single
-point of entry for aggregating and accessing multiple application functionalities
-for end users.</p>
+<br>Move Interoperability from API to Application Level – This is a framework for users to switch to the most appropriate application without functional impact. &nbsp;
+<br>
+<br>Allows users to access third-party built application but accessing the data from my application, and vice versa. It brings together a suite of business functionalities contributed from different applications developed by different IT players.</p>
 <p></p>
 
 <video autoplay="" controls="" height="480" width="640"> <source type="video/mp4" src="https://github.com/HealthTechSG/InnovationSandbox/raw/main/SMARTonFHIR%20Final-edit02.mp4">
