@@ -12,6 +12,7 @@ between public healthcare institutions and industry partners. Public healthcare
 institutions can leverage this platform to rethink problems, design and
 build prototypes or experiment with innovation solutions by tapping into
 resources from HealthX Co-Innovation Lab.</p>
-<p></p>
-<p><a href="https://developer.healthx.sg" rel="noopener nofollow" target="_blank">Developer Portal</a>
+<p><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Apply for access</a>
+</p>
+<p><a href="https://developer.healthx.sg" rel="noopener nofollow" target="_blank">Sign in to Developer Portal</a>
 </p>
