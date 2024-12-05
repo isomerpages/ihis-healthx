@@ -2,6 +2,6 @@ collections:
   coming-soon:
     output: true
     order:
-      - Upcoming features.md
+      - Upcoming Features.md
       - Upcoming APIs.md
       - SmartOnFHIR enablement.md
