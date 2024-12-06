@@ -21,12 +21,19 @@ data from my application, and vice versa. It brings together a suite of
 business functionalities contributed from different applications developed
 by different IT players.</p>
 <p></p>
+
+<video autoplay="" controls="" height="480" width="640"> <source type="video/mp4" src="https://github.com/HealthTechSG/InnovationSandbox/raw/main/SMARTonFHIR%20Final-edit02.mp4">
+</video>
+
+
+<p></p>
+<p></p>
+<br>
+<br>
 <hr>
 <p></p>
-<p>
+
 <br>
-<br>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Icons and Logos/GenAI.svg">
