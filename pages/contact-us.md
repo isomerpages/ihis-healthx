@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Synapxe
+agency_name: Synapxe Pte Ltd
 locations:
   - address:
       - 1 North Buona Vista Link
