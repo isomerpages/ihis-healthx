@@ -1,0 +1,6 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - Events and Conferences.md
+      - SmartOnFHIR (coming soon).md

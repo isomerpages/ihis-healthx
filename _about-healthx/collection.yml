@@ -1,0 +1,4 @@
+collections:
+  about-healthx:
+    output: true
+    order: []

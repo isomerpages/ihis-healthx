@@ -2,6 +2,6 @@ collections:
   products-and-services:
     output: true
     order:
-      - Our APIs.md
-      - Healthcare Integrated Pipeline (HIP).md
-      - Other Service Offerings.md
+      - Healthcare Commercial Cloud (HCC) Compliance.md
+      - Production Equivalent APIs.md
+      - Sandbox Environment.md

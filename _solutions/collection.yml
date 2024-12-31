@@ -1,0 +1,7 @@
+collections:
+  solutions:
+    output: true
+    order:
+      - Healthcare Integrated Pipeline (HIP).md
+      - Open Health Stack.md
+      - Tech Radar.md

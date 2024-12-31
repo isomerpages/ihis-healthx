@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Other Service Offerings.md
+      - Our APIs.md

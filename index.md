@@ -8,42 +8,71 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: HealthX<br>Innovation Sandbox<br>(HX-IS)
-      subtitle: HX-IS enables public healthcare institutes and tech partners to
+      title: HealthX Innovation Sandbox
+      background: /images/IHiS HealthX Images/Hero6_graphic.gif
+      variant: center
+      size: md
+      alignment: left
+      backgroundColor: gray
+      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
+      button: APPLY SANDBOX ACCESS
+  - infopic:
+      title: About HealthX
+      id: infopic
+      description: HX-IS enables public healthcare institutes and tech partners to
         conduct fast experimentation, assessments and demonstrate viability of
         your innovation projects.
-      button: Express your interest
-      url: https://for.sg/gibf27
-      background: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 30.png
-  - infopic:
-      title: Our APIs
-      description: Your one-stop resource and support platform for Synapxe managed
-        application programming interfaces (APIs). Learn more and apply for a
-        virtual space now.
-      button: tell me more
-      url: /products/our-apis/
-      image: /images/Icons and Logos/icon_hxis api.png
-      alt: IHiS CCDP & HSGW Products
-  - resources:
-      title: Explore & Discover
-      button: learn more
-  - infopic:
-      title: "RESOURCES: GUIDELINES"
-      description: Learn the ins and outs of navigating Synapxe HX-IS. Understand the
-        processes and criteria to design and experiment your HealthTech
-        solutions with compliance.
-      button: learn more
-      url: /resources/guidelines/
-      image: /images/Icons and Logos/ICON_GUIDELINES.png
-      alt: GUIDELINES
-  - infopic:
-      title: APPLY NOW
-      subtitle: YOUR SECURED SPACE
-      description: Complete our request form to apply for a virtual space to
-        experiment your tech solutions for healthcare. We will assess your
-        suitability and contact with you.
-      button: I AM READY
-      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
-      image: /images/Icons and Logos/icon_apply 2.png
+      button: Find out more
+      url: /about-healthx/
       alt: Image alt text
+      image: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 10.png
+  - infobar:
+      title: Our Offerings
+      id: infobar
+  - infopic:
+      title: HCC Production Equivalent Sandbox
+      description: Your one-stop resource and support infrastructure that is HCC
+        compliant for seamless setup and deployment to the project’s own HCC
+        application environment.
+      button: More about HCC Compliance
+      url: /hcc-compliance/
+      image: /images/IHiS HealthX Images/Cloud_transparent.png
+      alt: HCC Sandbox
+  - infopic:
+      title: Production Equivalent APIs
+      description: 2300 HL7 FHIR APIs & Synapxe’s implementation of national/central
+        systems. Develop seamless working applications with actual
+        national/central systems.
+      button: Our APIs
+      url: /production-equivalent-apis/
+      image: /images/IHiS HealthX Images/API_transparent.png
+      alt: Production Equivalent APIs
+  - infopic:
+      title: Sandbox Environment
+      description: Sandbox environment for rapid development and deployment, so that
+        you can demo and validate your ideas with end-users without any infra
+        setup.
+      button: Start Using Our Sandbox
+      url: /sandbox-environment/
+      image: /images/IHiS HealthX Images/Sandbox_transparent.png
+      alt: Sandbox Environment
+  - textcards:
+      title: Other Articles
+      id: textcards
+      cards:
+        - title: Upcoming Features
+          description: ""
+          linktext: Learn more
+          url: /upcoming-features/
+        - title: Events and Conferences
+          description: ""
+          linktext: See what's coming up
+          url: /events-and-conferences/
+        - title: Tech Stack
+          description: ""
+          linktext: Learn more
+          url: /solutions/open-health-stack/
+  - resources:
+      title: Resources
+      id: resources
 ---
