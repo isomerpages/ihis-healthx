@@ -17,11 +17,11 @@ sections:
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       button: APPLY SANDBOX ACCESS
   - infopic:
-      title: About HealthX
+      title: About HealthX Innovation Sandbox (HX-IS)
       id: infopic
       description: HX-IS enables public healthcare institutes and tech partners to
-        conduct fast experimentation, assessments and demonstrate viability of
-        your innovation projects.
+        conduct rapid experimentation and assessments to validate the viability
+        of innovation projects.
       button: Find out more
       url: /about-healthx/
       alt: Image alt text
