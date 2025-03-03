@@ -17,7 +17,7 @@ sections:
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       button: APPLY SANDBOX ACCESS
   - infopic:
-      title: About HealthX Innovation Sandbox (HX-IS)
+      title: About HX-IS
       id: infopic
       description: HX-IS enables public healthcare institutes and tech partners to
         conduct rapid experimentation and assessments to validate the viability
@@ -27,10 +27,10 @@ sections:
       alt: Image alt text
       image: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 10.png
   - infobar:
-      title: Our Offerings
+      title: Key features
       id: infobar
   - infopic:
-      title: HCC Production Equivalent Sandbox
+      title: AWS & Azure Cloud Environment
       description: Your one-stop resource and support infrastructure that is HCC
         compliant for seamless setup and deployment to the project’s own HCC
         application environment.
@@ -39,7 +39,7 @@ sections:
       image: /images/IHiS HealthX Images/Cloud_transparent.png
       alt: HCC Sandbox
   - infopic:
-      title: Production Equivalent APIs
+      title: Healthcare APIs
       description: 2300 HL7 FHIR APIs & Synapxe’s implementation of national/central
         systems. Develop seamless working applications with actual
         national/central systems.
@@ -48,7 +48,7 @@ sections:
       image: /images/IHiS HealthX Images/API_transparent.png
       alt: Production Equivalent APIs
   - infopic:
-      title: Sandbox Environment
+      title: Developer Suite
       description: Sandbox environment for rapid development and deployment, so that
         you can demo and validate your ideas with end-users without any infra
         setup.
@@ -72,7 +72,4 @@ sections:
           description: ""
           linktext: Learn more
           url: /solutions/open-health-stack/
-  - resources:
-      title: Resources
-      id: resources
 ---
