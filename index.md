@@ -56,6 +56,14 @@ sections:
       url: /sandbox-environment/
       image: /images/IHiS HealthX Images/Sandbox_transparent.png
       alt: Sandbox Environment
+  - infobar:
+      title: HealthTech Advisory Center
+      subtitle: Need guidance?
+      id: infobar
+      description: Connect with us to explore more about HealthX and become part of
+        the community of health-tech innovators.
+      button: Enquire Now
+      url: https://form.gov.sg/6486d787e5498800118ce816
   - textcards:
       title: Other Articles
       id: textcards
