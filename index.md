@@ -65,6 +65,13 @@ sections:
       url: https://syndata.healthx.sg
       alt: Image alt text
   - infobar:
+      title: Compliance Check
+      id: infobar
+      description: Only 5 min to health check your current solution with our
+        Cybersecurity Self-Attestation Portal
+      button: Explore CSAP
+      url: https://csap.healthx.sg
+  - infobar:
       title: HealthTech Advisory Center
       subtitle: Need guidance?
       id: infobar
@@ -72,4 +79,16 @@ sections:
         the community of health-tech innovators.
       button: Enquire Now
       url: https://form.gov.sg/6486d787e5498800118ce816
+  - infocols:
+      title: Success Stories
+      id: infocols
+      linktext: Learn more
+      url: https://www.synapxe.sg/success-stories-innovation-sandbox
+      infoboxes:
+        - title: US2.AI
+          description: Us2.ai's AI ECG tool, enables early heart failure diagnosis and was
+            showcased at HealthX Startup Day 2023.
+        - title: FathomX
+          description: FathomX's FXMammo enhances mammography screening with AI and was
+            showcased at HealthX Startup Day 2023.
 ---
