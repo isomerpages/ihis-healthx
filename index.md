@@ -82,7 +82,7 @@ sections:
   - infocols:
       title: Success Stories
       id: infocols
-      linktext: Learn more
+      linktext: Read more
       url: https://www.synapxe.sg/success-stories-innovation-sandbox
       infoboxes:
         - title: US2.AI
