@@ -56,6 +56,14 @@ sections:
       url: /sandbox-environment/
       image: /images/IHiS HealthX Images/Sandbox_transparent.png
       alt: Sandbox Environment
+  - infopic:
+      title: Synthetic Data Services
+      id: infopic
+      description: Empower healthcare innovation with privacy-first synthetic datasets
+        tailored for POCs.
+      button: Learn more
+      url: https://syndata.healthx.sg
+      alt: Image alt text
   - infobar:
       title: HealthTech Advisory Center
       subtitle: Need guidance?
