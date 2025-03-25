@@ -2,6 +2,7 @@ collections:
   features:
     output: true
     order:
+      - Developer Suite/Developer Suite.md
       - Developer Suite/.keep
       - Healthcare Commercial Cloud (HCC) Sandbox.md
       - Sandbox APIs.md
