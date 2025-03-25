@@ -53,7 +53,7 @@ sections:
         you can demo and validate your ideas with end-users without any infra
         setup.
       button: Start Using Our Sandbox
-      url: /sandbox-environment/
+      url: /developer-suite/
       image: /images/IHiS HealthX Images/Sandbox_transparent.png
       alt: Sandbox Environment
   - infopic:
