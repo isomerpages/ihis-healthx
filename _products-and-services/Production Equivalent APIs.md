@@ -5,17 +5,16 @@ variant: tiptap
 description: System equivalent APIs
 image: /images/IHiS HealthX Images/7102526_1.png
 ---
-<p></p>
-<p><strong>HL7 FHIR</strong> (Fast Healthcare Interoperability Resource) is
-an <strong>industrial standard for healthcare data exchange</strong>. FHIR
-is increasingly adopted worldwide as healthcare moves toward more integrated,
-patient-centered care models.</p>
-<p><a href="https://www.hl7.org/fhir/overview.html" rel="noopener nofollow" target="_blank">Find out more about FHIR</a>
-</p>
-<p>Our sandbox provides Synapxe <strong>production system equivalent APIs</strong> so
-that industry I.T. vendors can use these APIs to integrate with their systems
-and it is guaranteed to work when the vendor solution id deployed in HCC/HPC
-hosting environments.</p>
+<p>The HealthX Innovation Sandbox is designed to accelerate healthcare innovation
+by providing secure, production-equivalent APIs for seamless integration
+and interoperability. This sandbox environment enables industry I.T. vendors,
+startups, and healthcare organizations to test, validate, and integrate
+their solutions with minimal friction, ensuring a smooth transition to
+live deployment.
+<br>
+<br>Our sandbox includes APIs that cater to a wide range of healthcare use
+cases, from patient engagement and health monitoring to AI-driven insights
+and digital health workflows.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://apidocs.healthx.sg/r4b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FHIR Release R4B" src="/images/Icons and Logos/FHIR.svg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FHIR Release R4B</div><div class="isomer-card-description">2041 APIs</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://apidocs.healthx.sg/r5" class="isomer-card">
