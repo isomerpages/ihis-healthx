@@ -1,5 +1,5 @@
 collections:
-  products-and-services:
+  features:
     output: true
     order:
       - Healthcare Commercial Cloud (HCC) Sandbox.md
