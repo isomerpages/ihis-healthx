@@ -2,5 +2,4 @@ collections:
   solutions:
     output: true
     order:
-      - Open Health Stack.md
       - Tech Radar.md
