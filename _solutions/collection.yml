@@ -1,5 +1,4 @@
 collections:
   solutions:
     output: true
-    order:
-      - Tech Radar.md
+    order: []
