@@ -2,6 +2,7 @@ collections:
   features:
     output: true
     order:
+      - Developer Suite/Healthcare Integrated Pipeline (HIP).md
       - Developer Suite/Rapid Developement.md
       - Developer Suite/.keep
       - Healthcare Commercial Cloud (HCC) Sandbox.md
