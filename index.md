@@ -39,14 +39,14 @@ sections:
       image: /images/IHiS HealthX Images/Cloud_transparent.png
       alt: HCC Sandbox
   - infopic:
-      title: Healthcare APIs
-      description: 2300 HL7 FHIR APIs & Synapxe’s implementation of national/central
-        systems. Develop seamless working applications with actual
-        national/central systems.
-      button: Our APIs
-      url: /production-equivalent-apis/
+      title: Sandbox APIs
+      description: Accelerate healthcare innovation with secure, production-equivalent
+        APIs. Test, validate, and integrate solutions seamlessly for smooth live
+        deployment.
+      button: Explore Our APIs
+      url: /apis/
       image: /images/IHiS HealthX Images/API_transparent.png
-      alt: Production Equivalent APIs
+      alt: Sandbox APIs
   - infopic:
       title: Developer Suite
       description: Sandbox environment for rapid development and deployment, so that
