@@ -30,12 +30,12 @@ sections:
       title: Key features
       id: infobar
   - infopic:
-      title: AWS & Azure Cloud Environment
-      description: Your one-stop resource and support infrastructure that is HCC
-        compliant for seamless setup and deployment to the project’s own HCC
-        application environment.
-      button: More about HCC Compliance
-      url: /hcc-compliance/
+      title: Healthcare Commercial Cloud Sandbox (AWS & Azure)
+      description: Your secure and customized cloud platform for healthcare, ensuring
+        stringent security and compliance with standardized infrastructure
+        across AWS and Azure.
+      button: More about HCC Sandbox
+      url: /hcc-sandbox/
       image: /images/IHiS HealthX Images/Cloud_transparent.png
       alt: HCC Sandbox
   - infopic:
