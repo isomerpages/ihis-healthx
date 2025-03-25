@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Healthcare Commercial Cloud (HCC) Sandbox.md
-      - Production Equivalent APIs.md
+      - Sandbox APIs.md
       - Sandbox Environment.md
