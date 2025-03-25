@@ -72,20 +72,4 @@ sections:
         the community of health-tech innovators.
       button: Enquire Now
       url: https://form.gov.sg/6486d787e5498800118ce816
-  - textcards:
-      title: Other Articles
-      id: textcards
-      cards:
-        - title: Upcoming Features
-          description: ""
-          linktext: Learn more
-          url: /upcoming-features/
-        - title: Events and Conferences
-          description: ""
-          linktext: See what's coming up
-          url: /events-and-conferences/
-        - title: Tech Stack
-          description: ""
-          linktext: Learn more
-          url: /solutions/open-health-stack/
 ---
