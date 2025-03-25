@@ -1,7 +1,7 @@
 logo: /images/Icons and Logos/synapxe logo.png
 links:
   - title: About
-    url: /about-healthx/
+    url: /about/
   - title: Products & Services
     url: /hcc-compliance/
     sublinks:
