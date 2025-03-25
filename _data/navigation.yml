@@ -2,8 +2,8 @@ logo: /images/Icons and Logos/synapxe logo.png
 links:
   - title: Get on board
     url: /get-on-board
-  - title: About
-    url: /about/
+  - title: Features
+    collection: features
   - title: Products & Services
     url: /hcc-compliance/
     sublinks:
