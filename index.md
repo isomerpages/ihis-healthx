@@ -30,7 +30,7 @@ sections:
       title: Key features
       id: infobar
   - infopic:
-      title: Healthcare Commercial Cloud Sandbox (AWS & Azure)
+      title: HCC Sandbox (AWS & Azure)
       description: Your secure and customized cloud platform for healthcare, ensuring
         stringent security and compliance with standardized infrastructure
         across AWS and Azure.
