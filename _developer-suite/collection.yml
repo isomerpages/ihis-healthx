@@ -1,4 +1,5 @@
 collections:
   developer-suite:
     output: true
-    order: []
+    order:
+      - Rapid Developement.md
