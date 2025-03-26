@@ -64,6 +64,7 @@ sections:
       button: Learn more
       url: https://syndata.healthx.sg
       alt: Image alt text
+      image: /images/IHiS HealthX Images/Synthetic_Data_Service.png
   - infobar:
       title: Compliance Check
       id: infobar
