@@ -2,5 +2,5 @@ collections:
   get-on-board:
     output: true
     order:
-      - HealthX Innovation Sandbox Terms of Use.md
       - Get On Board.md
+      - HealthX Innovation Sandbox Terms of Use.md
