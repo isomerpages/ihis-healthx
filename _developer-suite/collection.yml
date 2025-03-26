@@ -2,6 +2,7 @@ collections:
   developer-suite:
     output: true
     order:
+      - Tech Radar.md
       - Open Health Stack.md
       - Healthcare Integrated Pipeline (HIP).md
       - Rapid Developement.md
