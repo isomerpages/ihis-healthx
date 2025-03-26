@@ -66,13 +66,6 @@ sections:
       alt: Image alt text
       image: /images/IHiS HealthX Images/Synthetic_Data_Service.png
   - infobar:
-      title: Compliance Check
-      id: infobar
-      description: Only 5 min to health check your current solution with our
-        Cybersecurity Self-Attestation Portal
-      button: Explore CSAP
-      url: https://csap.healthx.sg
-  - infobar:
       title: HealthTech Advisory Center
       subtitle: Need guidance?
       id: infobar
