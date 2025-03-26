@@ -4,31 +4,6 @@ links:
     url: /get-on-board
   - title: Features
     collection: features
-  - title: Products & Services
-    url: /hcc-compliance/
-    sublinks:
-      - title: HCC Compliance
-        url: /hcc-compliance/
-      - title: Production Equivalent APIs
-        url: /production-equivalent-apis/
-      - title: Sandbox Enviroment
-        url: /sandbox-environment/
-  - title: Solutions
-    url: /solutions/hip/
-    sublinks:
-      - title: HIP
-        url: /solutions/hip/
-      - title: Open Health Stack
-        url: /solutions/open-health-stack/
-      - title: Tech Radar
-        url: /solutions/tech-radar/
-  - title: Happenings
-    url: /events-and-conferences/
-    sublinks:
-      - title: Events and Conferences
-        url: /events-and-conferences/
-      - title: SmartOnFHIR
-        url: /smartonfhir/
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
