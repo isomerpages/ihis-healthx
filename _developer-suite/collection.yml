@@ -1,0 +1,4 @@
+collections:
+  developer-suite:
+    output: true
+    order: []
