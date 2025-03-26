@@ -2,4 +2,4 @@ collections:
   get-on-board:
     output: true
     order:
-      - Get On Board.md
+      - Overall Process.md
