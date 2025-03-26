@@ -2,4 +2,5 @@ collections:
   developer-suite:
     output: true
     order:
+      - Healthcare Integrated Pipeline (HIP).md
       - Rapid Developement.md
