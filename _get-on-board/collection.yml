@@ -1,4 +1,5 @@
 collections:
   get-on-board:
     output: true
-    order: []
+    order:
+      - Get On Board.md
