@@ -2,5 +2,6 @@ collections:
   developer-suite:
     output: true
     order:
+      - Open Health Stack.md
       - Healthcare Integrated Pipeline (HIP).md
       - Rapid Developement.md
