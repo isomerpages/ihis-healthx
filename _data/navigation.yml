@@ -4,6 +4,8 @@ links:
     url: /get-on-board
   - title: Features
     collection: features
+  - title: Developer Suite
+    collection: developer-suite
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
