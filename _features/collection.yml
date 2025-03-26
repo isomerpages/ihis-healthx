@@ -2,6 +2,6 @@ collections:
   features:
     output: true
     order:
-      - Synthetic Data Services.md
       - Healthcare Commercial Cloud (HCC) Sandbox.md
       - Sandbox APIs.md
+      - Synthetic Data Services.md
