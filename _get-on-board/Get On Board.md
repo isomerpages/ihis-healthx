@@ -4,10 +4,24 @@ permalink: /get-on-board/
 variant: tiptap
 description: Get On Board to Healthx Innovation Sandbox
 ---
-<h3>The HealthX Innovation Journey</h3>
+<h3>The Process</h3>
+<p>The objective of <strong>HealthX Innovation Sandbox</strong> is to establish
+suite of enablers including a conducive policy-ops Innovation Sandbox that
+is accessible, safe, self-contained and realistic in simulating a production
+environment that allow innovators to “start fast and prove fast / fail-and-recover
+fast” on their innovations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Innovation Journey" src="/images/Get On Board/Innovation_Journey.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Process.png">
 </div>
-<p><a href="https://www.synapxe.sg/partner-us/healthx/healthtech-advisory-centre" rel="noopener nofollow" target="_blank">Learn more about the HealthX Innovation Journey</a>
-</p>
+<p></p>
+<h4>Detailed Process</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Overall_Process.png">
+</div>
+<p></p>
+<h4>General Eligibility</h4>
+<p><strong>General Eligibility </strong>for shortlisting of “sandbox experiment
+potential suitable” and proceed to the next stage during qualification
+process</p>
+<p></p>
 <p></p>
