@@ -23,5 +23,10 @@ fast” on their innovations.</p>
 <p><strong>General Eligibility </strong>for shortlisting of “sandbox experiment
 potential suitable” and proceed to the next stage during qualification
 process</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/GeneralEligibility.png">
+</div>
+<p></p>
+<h4>Entry Evaluation Criteria</h4>
 <p></p>
 <p></p>
