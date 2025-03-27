@@ -13,8 +13,7 @@ fast” on their innovations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Process.png">
 </div>
-<p><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Apply Now</a>
-</p>
+<h4><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Apply Now</a></h4>
 <h3>Detailed Process</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Overall_Process.png">
@@ -81,6 +80,6 @@ the Sandbox lessons learnt and may be shared with wider innovation community
 or published on Synapxe HealthX Innovation Sandbox portal.</p>
 </li>
 </ul>
-<h3><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Click here to Apply Now</a></h3>
+<h4><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Click here to Apply Now</a></h4>
 <p></p>
 <p></p>
