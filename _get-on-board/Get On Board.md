@@ -34,6 +34,10 @@ Proposal.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/EntryEvaluationCriteria.png">
 </div>
 <h4>Extending or Exiting the Sandbox</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/ExitOrExtendingSandbox.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Project Team can decide to exit sandbox or extend the sandbox period at
