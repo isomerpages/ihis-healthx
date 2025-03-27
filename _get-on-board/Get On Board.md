@@ -75,6 +75,6 @@ the Sandbox lessons learnt and may be shared with wider innovation community
 or published on Synapxe HealthX Innovation Sandbox portal.</p>
 </li>
 </ul>
-<h3><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Apply Now</a></h3>
+<h3><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Click here to Apply Now</a></h3>
 <p></p>
 <p></p>
