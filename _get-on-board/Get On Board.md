@@ -13,6 +13,8 @@ fast” on their innovations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Process.png">
 </div>
+<p><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Apply Now</a>
+</p>
 <h3>Detailed Process</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Overall_Process.png">
