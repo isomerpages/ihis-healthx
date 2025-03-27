@@ -4,7 +4,7 @@ permalink: /get-on-board/
 variant: tiptap
 description: Get On Board to Healthx Innovation Sandbox
 ---
-<h3>The Process</h3>
+<h3>Get Started</h3>
 <p>The objective of <strong>HealthX Innovation Sandbox</strong> is to establish
 suite of enablers including a conducive policy-ops Innovation Sandbox that
 is accessible, safe, self-contained and realistic in simulating a production
