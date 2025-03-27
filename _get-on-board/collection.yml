@@ -2,6 +2,6 @@ collections:
   get-on-board:
     output: true
     order:
-      - HealthX Innovation Journey.md
       - Get On Board.md
+      - HealthX Innovation Journey.md
       - HealthX Innovation Sandbox Terms of Use.md
