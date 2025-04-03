@@ -64,7 +64,7 @@ data types, including:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SyntheticDataService/SynDataProcessFlow.png">
 </div>
-<h3>Get Started</h3>
+<h3> Get Started</h3>
 <p>Access the service via the <a href="https://syndata.healthx.sg" rel="noreferrer noopener" target="_blank">SynData Portal (</a><a href="https://syndata.healthx.sg" rel="noopener noreferrer nofollow" target="_blank">healthx.sg</a>
 <a href="https://syndata.healthx.sg" rel="noreferrer noopener" target="_blank">)</a>and start building realistic, privacy-preserving datasets for your
 next innovation project.</p>
