@@ -33,9 +33,7 @@ for faster prototyping and testing.
 test scenarios, such as specific demographics or use cases.
 <br>• <strong>Collaboration-Friendly</strong>: Teams can download relevant
 dataset copies from the HXIS Data Hub, preserving dataset integrity by
-avoiding overwrite conflicts.
-<br>
-</p>
+avoiding overwrite conflicts.</p>
 <h3>Project Objectives</h3>
 <p>• <strong>Quality</strong>: Produce synthetic data that is balanced and
 unbiased.
@@ -65,6 +63,6 @@ data types, including:
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SyntheticDataService/SynDataProcessFlow.png">
 </div>
 <h3>Get Started</h3>
-<p>Access the service via the <a href="https://syndata.healthx.sg" rel="noreferrer noopener" target="_blank">SynData Portal (</a><a href="https://syndata.healthx.sg" rel="noopener noreferrer nofollow" target="_blank">healthx.sg</a>
-<a href="https://syndata.healthx.sg" rel="noreferrer noopener" target="_blank">)</a>and start building realistic, privacy-preserving datasets for your
-next innovation project.</p>
+<p>Access the service via the <a href="https://syndata.healthx.sg" rel="noopener nofollow" target="_blank">SynData Service</a> and
+start building realistic, privacy-preserving datasets for your next innovation
+project.</p>
