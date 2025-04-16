@@ -64,7 +64,7 @@ sections:
       button: Learn more
       url: https://syndata.healthx.sg
       alt: Image alt text
-      image: /images/IHiS HealthX Images/Synthetic_Data_Service.png
+      image: /images/IHiS HealthX Images/Synthetic_Data_Services.png
   - infobar:
       title: HealthTech Advisory Center
       subtitle: Need guidance?
