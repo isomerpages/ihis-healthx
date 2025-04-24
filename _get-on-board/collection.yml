@@ -1,0 +1,7 @@
+collections:
+  get-on-board:
+    output: true
+    order:
+      - Get On Board.md
+      - Postgraduate Programme.md
+      - HealthX Innovation Sandbox Terms of Use.md

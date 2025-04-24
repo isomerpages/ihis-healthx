@@ -1,7 +1,0 @@
-collections:
-  products-and-services:
-    output: true
-    order:
-      - Healthcare Commercial Cloud (HCC) Compliance.md
-      - Production Equivalent APIs.md
-      - Sandbox Environment.md

@@ -17,7 +17,7 @@ sections:
       url: https://form.gov.sg/6451bef4d0f2470011ddf40a
       button: APPLY SANDBOX ACCESS
   - infopic:
-      title: About HealthX Innovation Sandbox (HX-IS)
+      title: About HX-IS
       id: infopic
       description: HX-IS enables public healthcare institutes and tech partners to
         conduct rapid experimentation and assessments to validate the viability
@@ -27,52 +27,62 @@ sections:
       alt: Image alt text
       image: /images/IHiS HealthX Images/healthx-innovationsandbox-mainbanner 10.png
   - infobar:
-      title: Our Offerings
+      title: Key features
       id: infobar
   - infopic:
-      title: HCC Production Equivalent Sandbox
-      description: Your one-stop resource and support infrastructure that is HCC
-        compliant for seamless setup and deployment to the project’s own HCC
-        application environment.
-      button: More about HCC Compliance
-      url: /hcc-compliance/
+      title: HCC Sandbox (AWS & Azure)
+      description: Your secure and customized cloud platform for healthcare, ensuring
+        stringent security and compliance with standardized infrastructure
+        across AWS and Azure.
+      button: More about HCC Sandbox
+      url: /hcc-sandbox/
       image: /images/IHiS HealthX Images/Cloud_transparent.png
       alt: HCC Sandbox
   - infopic:
-      title: Production Equivalent APIs
-      description: 2300 HL7 FHIR APIs & Synapxe’s implementation of national/central
-        systems. Develop seamless working applications with actual
-        national/central systems.
-      button: Our APIs
-      url: /production-equivalent-apis/
+      title: Sandbox APIs
+      description: Accelerate healthcare innovation with secure, production-equivalent
+        APIs. Test, validate, and integrate solutions seamlessly for smooth live
+        deployment.
+      button: Explore Our APIs
+      url: /apis/
       image: /images/IHiS HealthX Images/API_transparent.png
-      alt: Production Equivalent APIs
+      alt: Sandbox APIs
   - infopic:
-      title: Sandbox Environment
+      title: Developer Suite
       description: Sandbox environment for rapid development and deployment, so that
         you can demo and validate your ideas with end-users without any infra
         setup.
       button: Start Using Our Sandbox
-      url: /sandbox-environment/
+      url: /developer-suite/
       image: /images/IHiS HealthX Images/Sandbox_transparent.png
       alt: Sandbox Environment
-  - textcards:
-      title: Other Articles
-      id: textcards
-      cards:
-        - title: Upcoming Features
-          description: ""
-          linktext: Learn more
-          url: /upcoming-features/
-        - title: Events and Conferences
-          description: ""
-          linktext: See what's coming up
-          url: /events-and-conferences/
-        - title: Tech Stack
-          description: ""
-          linktext: Learn more
-          url: /solutions/open-health-stack/
-  - resources:
-      title: Resources
-      id: resources
+  - infopic:
+      title: Synthetic Data Services
+      id: infopic
+      description: Empower healthcare innovation with privacy-first synthetic datasets
+        tailored for POCs.
+      button: Learn more
+      url: https://syndata.healthx.sg
+      alt: Image alt text
+      image: /images/IHiS HealthX Images/Synthetic_Data_Services.png
+  - infobar:
+      title: HealthTech Advisory Center
+      subtitle: Need guidance?
+      id: infobar
+      description: Connect with us to explore more about HealthX and become part of
+        the community of health-tech innovators.
+      button: Enquire Now
+      url: https://form.gov.sg/6486d787e5498800118ce816
+  - infocols:
+      title: Success Stories
+      id: infocols
+      linktext: Read more
+      url: https://www.synapxe.sg/success-stories-innovation-sandbox
+      infoboxes:
+        - title: US2.AI
+          description: Us2.ai's AI ECG tool, enables early heart failure diagnosis and was
+            showcased at HealthX Startup Day 2023.
+        - title: FathomX
+          description: FathomX's FXMammo enhances mammography screening with AI and was
+            showcased at HealthX Startup Day 2023.
 ---
