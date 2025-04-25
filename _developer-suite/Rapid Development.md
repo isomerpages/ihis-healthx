@@ -1,5 +1,5 @@
 ---
-title: Rapid Developement
+title: Rapid Development
 permalink: /developer-suite/
 variant: tiptap
 description: Out of box setup and rapid development
