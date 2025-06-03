@@ -14,7 +14,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      url: https://innovation.healthx.sg/get-on-board/
+      url: /get-on-board
       button: Get On Board
   - infopic:
       title: About HX-IS
