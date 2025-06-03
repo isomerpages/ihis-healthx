@@ -14,8 +14,8 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      url: https://form.gov.sg/6451bef4d0f2470011ddf40a
-      button: APPLY SANDBOX ACCESS
+      url: https://innovation.healthx.sg/get-on-board/
+      button: Get On Board
   - infopic:
       title: About HX-IS
       id: infopic
