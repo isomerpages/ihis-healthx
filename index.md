@@ -48,15 +48,6 @@ sections:
       image: /images/IHiS HealthX Images/API_transparent.png
       alt: Sandbox APIs
   - infopic:
-      title: Developer Suite
-      description: Sandbox environment for rapid development and deployment, so that
-        you can demo and validate your ideas with end-users without any infra
-        setup.
-      button: Start Using Our Sandbox
-      url: /developer-suite/
-      image: /images/IHiS HealthX Images/Sandbox_transparent.png
-      alt: Sandbox Environment
-  - infopic:
       title: Synthetic Data Services
       id: infopic
       description: Empower healthcare innovation with privacy-first synthetic datasets
@@ -65,6 +56,15 @@ sections:
       url: https://syndata.healthx.sg
       alt: Image alt text
       image: /images/IHiS HealthX Images/Synthetic_Data_Services.png
+  - infopic:
+      title: Developer Suite
+      description: Sandbox environment for rapid development and deployment, so that
+        you can demo and validate your ideas with end-users without any infra
+        setup.
+      button: Start Using Our Sandbox
+      url: /developer-suite/
+      image: /images/IHiS HealthX Images/Sandbox_transparent.png
+      alt: Sandbox Environment
   - infobar:
       title: HealthTech Advisory Center
       subtitle: Need guidance?
