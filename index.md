@@ -72,7 +72,7 @@ sections:
       description: Connect with us to explore more about HealthX and become part of
         the community of health-tech innovators.
       button: Enquire Now
-      url: https://form.gov.sg/6486d787e5498800118ce816
+      url: https://form.gov.sg/67cfa2973b7c50a752645190
   - infocols:
       title: Success Stories
       id: infocols
