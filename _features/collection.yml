@@ -2,6 +2,7 @@ collections:
   features:
     output: true
     order:
+      - Integration Sandbox/Healthcare Systems Integration Sandbox.md
       - Integration Sandbox/.keep
       - Healthcare Commercial Cloud Sandbox.md
       - Sandbox APIs.md
