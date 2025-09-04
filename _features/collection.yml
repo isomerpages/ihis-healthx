@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Integration Sandbox/.keep
-      - Healthcare Systems Integration Sandbox.md
       - Healthcare Commercial Cloud Sandbox.md
       - Sandbox APIs.md
       - Synthetic Data Services.md
