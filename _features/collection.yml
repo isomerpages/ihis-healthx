@@ -2,6 +2,7 @@ collections:
   features:
     output: true
     order:
+      - Healthcare Systems Integration Sandbox.md
       - Healthcare Commercial Cloud Sandbox.md
       - Sandbox APIs.md
       - Synthetic Data Services.md
