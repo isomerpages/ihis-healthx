@@ -1,0 +1,4 @@
+collections:
+  playbooks:
+    output: true
+    order: []
