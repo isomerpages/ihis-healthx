@@ -24,16 +24,11 @@ modern, standards-based APIs.</p>
 </ul>
 <p>These standards enable external applications and systems to interoperate
 securely with NGEMR.</p>
-<h3>Testing Integration</h3>
-<p>To test integrations with NGEMR, two main environments are available:</p>
+<h3>Sandboxes for Testing Integration </h3>
+<p>To test integrations with NGEMR in a sandbox, two main environments are
+available:</p>
 <p>1. <a href="https://fhir.epic.com/Documentation?docId=testpatients" rel="noopener nofollow" target="_blank">Epic Sandbox</a> –
 Provides access to Epic’s standard sandbox environment and APIs.</p>
 <p>2. <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank">HealthX Innovation Sandbox APIs</a> –
 A local environment that mirrors NGEMR with equivalent APIs, synthetic
 data, and workflows for innovators to test safely.</p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
