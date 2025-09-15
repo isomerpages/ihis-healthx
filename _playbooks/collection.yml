@@ -5,6 +5,6 @@ collections:
       - EMR Integration Sandbox/.keep
       - EMR Integration Sandbox/Overview.md
       - EMR Integration Sandbox/Introduction to NGEMR.md
-      - EMR Integration Sandbox/Testing integration in Sandbox.md
       - EMR Integration Sandbox/Integration using Epic APIs.md
+      - EMR Integration Sandbox/Testing integration in Sandbox.md
       - EMR Integration Sandbox/Integration with NGEMR in Production.md
