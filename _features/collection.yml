@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - EMR Integration Sandbox/.keep
-      - EMR Integration Sandbox/Introduction to Healthcare Systems Integration
-        Sandbox.md
+      - EMR Integration Sandbox/Introduction.md
       - Healthcare Commercial Cloud Sandbox.md
       - Sandbox APIs.md
       - Synthetic Data Services.md
