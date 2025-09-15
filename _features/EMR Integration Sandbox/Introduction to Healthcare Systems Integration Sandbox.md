@@ -5,5 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: EMR Integration Sandbox
 ---
-<h3><strong>COMING SOON!</strong></h3>
+<blockquote>
+<h4></h4>
+<hr>
+<p>Coming Soon</p>
+</blockquote>
 <p></p>
