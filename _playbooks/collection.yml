@@ -2,4 +2,5 @@ collections:
   playbooks:
     output: true
     order:
+      - EMR Integration Sandbox/Overview.md
       - EMR Integration Sandbox/.keep
