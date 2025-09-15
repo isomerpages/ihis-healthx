@@ -11,11 +11,6 @@ Singapore’s national EMR platform, powered by the Epic system, and implemented
 across the public healthcare clusters. NGEMR serves as the single, integrated
 record for patient care, ensuring consistency, safety, and continuity across
 institutions</p>
-<h3>How to integrate external system to NGEMR?</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integration_sandbox/NGEMR_Process.png">
-</div>
 <h3>Integration Standards</h3>
 <p>NGEMR supports integration through widely adopted healthcare data standards:</p>
 <ul data-tight="true" class="tight">
