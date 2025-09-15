@@ -15,7 +15,7 @@ integration project with NGEMR. ​</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integration_sandbox/NGEMR_Process.png">
 </div>
-<h3>Consideration when Designing Data Exchange </h3>
+<h3>Consideration when Designing Data Exchange</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
