@@ -1,4 +1,5 @@
 collections:
   playbooks:
     output: true
-    order: []
+    order:
+      - EMR Integration Sandbox/.keep
