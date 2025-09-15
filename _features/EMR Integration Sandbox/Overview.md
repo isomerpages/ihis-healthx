@@ -32,12 +32,13 @@ prototyping to production readiness.</p>
 </ul>
 <h3>Playbook on EMR integration</h3>
 <p>We are offering a practical guide to help innovators navigate NGEMR integration:
-<br>1. Introduction to NGEMR – Understanding the national EMR system and its
-importance.
-<br>2. Integration with Sandbox APIs – Hands-on testing with preloaded data
-and standardized protocols (HL7, FHIR).
-<br>3. Integration using Epic APIs – Practical pathways using both open and
-vendor-supported services.
-<br>4. Integration with NGEMR in Production – Considerations, processes, and
-case studies for scaling into the real EMR environment.</p>
+<br>1. <a href="/introduction-to-ngemr/" rel="noopener nofollow" target="_blank">Introduction to NGEMR</a> –
+Understanding the national EMR system and its importance.
+<br>2. <a href="/testing-integration-in-sandbox/" rel="noopener nofollow" target="_blank">Testing integration in Sandbox</a> –
+Hands-on testing with preloaded data and standardized protocols (HL7, FHIR).
+<br>3. <a href="/integration-using-epic-apis/" rel="noopener nofollow" target="_blank">Integration using Epic APIs</a> –
+Practical pathways using both open and vendor-supported services.
+<br>4. <a href="/integration-with-ngemr-in-production/" rel="noopener nofollow" target="_blank">Integration with NGEMR in Production</a> –
+Considerations, processes, and case studies for scaling into the real EMR
+environment.</p>
 <p></p>
