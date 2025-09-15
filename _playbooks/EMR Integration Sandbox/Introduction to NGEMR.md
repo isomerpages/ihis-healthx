@@ -24,7 +24,7 @@ modern, standards-based APIs.</p>
 </ul>
 <p>These standards enable external applications and systems to interoperate
 securely with NGEMR.</p>
-<h3>Sandboxes for Testing Integration </h3>
+<h3>Sandboxes for Testing Integration</h3>
 <p>To test integrations with NGEMR in a sandbox, two main environments are
 available:</p>
 <p>1. <a href="https://fhir.epic.com/Documentation?docId=testpatients" rel="noopener nofollow" target="_blank">Epic Sandbox</a> –
