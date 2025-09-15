@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - EMR Integration Sandbox/.keep
-      - EMR Integration Sandbox/Introduction.md
+      - EMR Integration Sandbox/Overview.md
       - EMR Integration Sandbox/Introduction to NGEMR.md
       - EMR Integration Sandbox/Testing integration in Sandbox.md
       - EMR Integration Sandbox/Integration using Epic APIs.md
