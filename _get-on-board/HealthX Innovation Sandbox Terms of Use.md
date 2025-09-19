@@ -155,7 +155,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 * deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorised manner, services, networks, servers, or other infrastructure;
 * exceed your authorised access to any portion of the Sandbox;
 * remove, delete, alter, circumvent, avoid, or bypass any digital rights management technology, encryption or security tools used anywhere on the Sandbox;
-* access, collect or store personal data about any person without the appropriate authorisation or consent;
+* access, collect or store any categories of personal data about any person without Synapxe's prior written authorisation or consent;
 * alter or modify without permission any part of the Sandbox or any of its contents;
 * obtain or attempt to access or otherwise obtain any content or information through any means not intentionally made available or provided for through the Sandbox;
 * exploit errors in design, features which are not documented, and/or bugs to gain access to any part of the Sandbox that would otherwise not be available to you.
@@ -266,7 +266,7 @@ A.2\. Following regulatory requirements shall be contextualized accordingly.
 
 (ii) ***Data Protection***<br>Data stored and processed in the sandbox shall be protected in accordance to the following:
 * No production data and system to be hosted in the sandbox,
-* Only upload non-production and/or synthetic data for use in the sandbox.  Only non-production and/or synthetic data (which is referring to unclassified), i.e., will not result in any negative impact on the Entity in the event of unauthorised data access/loss of the data, will be allowed to be uploaded to the sandbox.
+* Only upload non-production and/or synthetic data for use in the sandbox.  Only non-production and/or synthetic data (i.e., will not result in any negative impact on the Entity in the event of unauthorised data access/loss of the data, will be allowed to be uploaded to the sandbox.
 * Entity users are not permitted to download data from sandbox to personal devices/account, and
 * Implementing encryption for data at rest and in transit where feasible, and regularly backing up data with tested data restoration process.
 
