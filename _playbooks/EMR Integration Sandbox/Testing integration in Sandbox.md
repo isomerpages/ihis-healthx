@@ -287,7 +287,7 @@ resources and participants can be found.​</p>
 <p></p>
 <h4>2. Explore our HealthX EMR demo app</h4>
 <p>The HealthX EMR demo app is developed using the above APIs.</p>
-<p>To try the app,visit <a href="https://userapps.healthx.sg/apps/7e55a7f9-5f47-4b6d-84c3-7c754778b367" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a> 
+<p>To try the app,visit <a href="https://userapps.healthx.sg/apps/7e55a7f9-5f47-4b6d-84c3-7c754778b367" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a>
 </p>
 <p>Login using the following demo credentials:</p>
 <p>Email:<strong> demo@healthx.sg</strong>
@@ -296,21 +296,17 @@ resources and participants can be found.​</p>
 </p>
 <p></p>
 <h4>3. Build &amp; host your app in HealthX Innovation Sandbox</h4>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Create an App in HealthX Develop Portal</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Request for a HealthX Developer Account on <a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener noreferrer nofollow" target="_blank">HealthX Innovation Sandbox Application Form</a>
+<p>Request for a HealthX Developer Account via <a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener noreferrer nofollow" target="_blank">HealthX Innovation Sandbox Application Form</a>
 </p>
 </li>
 <li>
 <p>Once the account is created, create an App from the dashboard.</p>
 </li>
 </ol>
-</li>
-<li>
 <p><strong>Refer to the source code to build your own app</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -326,9 +322,7 @@ resources and participants can be found.​</p>
 application</p>
 </li>
 </ol>
-</li>
-<li>
-<p><strong>Deploy your client-side-rendering web application </strong>
+<p><strong>Deploy your client-side-rendering web application</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -347,6 +341,4 @@ application</p>
 <p>Use the app URL from the app dashboard.</p>
 </li>
 </ol>
-</li>
-</ul>
 <p></p>
