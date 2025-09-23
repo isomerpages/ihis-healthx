@@ -25,5 +25,5 @@ steps given below to explore the integration.</p>
 <p>Password: <strong>demo123</strong>
 </p>
 <h4>2. Explore APIs</h4>
-<p></p>
-<p></p>
+<p>Visit <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>HealthX Innovation Sandbox APIs</u></a> for
+the Epic equivalent APIs in HX-IS.</p>
