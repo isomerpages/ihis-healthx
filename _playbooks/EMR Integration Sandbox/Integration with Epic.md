@@ -5,7 +5,26 @@ variant: tiptap
 description: ""
 third_nav_title: EMR Integration Sandbox
 ---
-<h3>Epic APIs</h3>
+<h3>Integration with Epic</h3>
+<h4>1. Get Started on <a href="https://open.epic.com/" rel="noopener nofollow" target="_blank">open.epic</a></h4><a class="isomer-image-wrapper" href="https://open.epic.com/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/open_epic.png"></a>
+<p>Visit <a href="https://open.epic.com/" rel="noopener noreferrer nofollow" target="_blank">https://open.epic.com/</a> for
+free online resources to learn about integration with Epic.</p>
+<h4>2. Build with Epic on FHIR</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/epic_on_fhir.png">
+</div>
+<p>Explore standard Epic FHIR API specifications from <a href="https://fhir.epic.com/" rel="noopener noreferrer nofollow" target="_blank">https://fhir.epic.com/</a>.</p>
+<h4>3. (Optional) Subscribe to Epic Vendor Services</h4>
+<p>For extra guidance from Epic, you can subscribe to <a href="https://vendorservices.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Vendor Services</a>
+</p>
+<h4>4. Publish to Epic Showroom</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/epic_showroom.png">
+</div>
+<p>If you intend to make your app discoverable and available for any Epic
+users, publish your app to <a href="https://showroom.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Showroom</a>.</p>
+<h3>NGEMR APIs</h3>
 <p>NGEMR primarily uses the following Epic APIs for integration. These include
 clinical, scheduling, medication, practitioner, and patient information
 endpoints.</p>
@@ -272,7 +291,9 @@ resources and participants can be found.​</p>
 <p>
 <br>Refer to <a href="https://open.epic.com/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank"><u>Open.Epic</u></a> for the official API
 documentation and details.
-<br>Equivalent APIs are also made available in the <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>HealthX Innovation Sandbox APIs</u></a> to
+<br>
+</p>
+<p>Equivalent APIs are also made available in the <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>HealthX Innovation Sandbox APIs</u></a> to
 support testing and validation.</p>
 <p>
 <br>
