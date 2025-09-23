@@ -7,27 +7,41 @@ third_nav_title: EMR Integration Sandbox
 ---
 <h3>Integration with Epic</h3>
 <h4>1. Get Started on <a href="https://open.epic.com/" rel="noopener nofollow" target="_blank">open.epic</a></h4><a class="isomer-image-wrapper" href="https://open.epic.com/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/open_epic.png"></a>
-<p>Visit <a href="https://open.epic.com/" rel="noopener noreferrer nofollow" target="_blank">https://open.epic.com/</a> for
-free online resources to learn about integration with Epic.</p>
+<p><a href="https://open.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Open.Epic</a> offers
+free online resources to help you understand Epic's APIs and how to integrate
+with them.</p>
 <h4>2. Build with Epic on FHIR</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/epic_on_fhir.png">
 </div>
-<p>Explore standard Epic FHIR API specifications from <a href="https://fhir.epic.com/" rel="noopener noreferrer nofollow" target="_blank">https://fhir.epic.com/</a>.</p>
+<p>Use <a href="https://fhir.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic on FHIR</a> resources
+to explore and implement standard FHIR APIs.</p>
 <h4>3. (Optional) Subscribe to Epic Vendor Services</h4>
-<p>For extra guidance from Epic, you can subscribe to <a href="https://vendorservices.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Vendor Services</a>
-</p>
+<p>Need extra guidance? Epic offers additional vendor services to support
+your development and submission.</p>
+<p>Find more about <a href="https://vendorservices.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Vendor Services</a>.</p>
 <h4>4. Publish to Epic Showroom</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/epic_showroom.png">
 </div>
-<p>If you intend to make your app discoverable and available for any Epic
-users, publish your app to <a href="https://showroom.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Showroom</a>.</p>
-<h4>5. Get selected by an Epic Customer, Testing &amp; Go Live</h4>
-<p>Epic customers (Healthcare organizations) browser Epic Showroom and request
-apps that meet their needs. If your app is selected by a customer, you
-can with them for testing and validation, and eventually to production.</p>
+<p>Once your app is ready, submit it to <a href="https://showroom.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Showroom.</a> 
+</p>
+<p>Epic Showroom is a marketplace where healthcare organizations can discover
+and evaluate apps that integrate with Epic.</p>
+<h4>5. Get selected, Test &amp; Go Live</h4>
+<p>Epic customers (Healthcare organizations) browse the Epic Showroom and
+select apps that meet their needs. If chosen:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You'll work with the customer to setup and test the app.</p>
+</li>
+<li>
+<p>Epic validates integration in the customer's environment.</p>
+</li>
+<li>
+<p>Once approved, your app goes live in production.</p>
+</li>
+</ul>
 <h3>NGEMR APIs</h3>
 <p>NGEMR primarily uses the following Epic APIs for integration. These include
 clinical, scheduling, medication, practitioner, and patient information
