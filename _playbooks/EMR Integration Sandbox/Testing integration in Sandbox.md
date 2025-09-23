@@ -21,9 +21,12 @@ steps given below to explore the integration.</p>
 <p>Visit <a href="https://userapps.healthx.sg/apps/7e55a7f9-5f47-4b6d-84c3-7c754778b367" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a>
 </p>
 <p>Login using the following demo credentials:</p>
-<p>Email: demo@healthx.sg</p>
+<p>Email:<strong> demo@healthx.sg</strong>
+</p>
 <p>Password: <strong>demo123</strong>
 </p>
 <h4>2. Explore APIs</h4>
-<p>Visit <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>HealthX Innovation Sandbox APIs</u></a> for
-the Epic equivalent APIs in HX-IS.</p>
+<p><strong>FHIR APIs</strong>
+</p>
+<p></p>
+<p>The equivalent FHIR APIs are available in <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>EMR Integration Sandbox APIs</u></a>.</p>
