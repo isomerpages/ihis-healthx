@@ -24,6 +24,10 @@ free online resources to learn about integration with Epic.</p>
 </div>
 <p>If you intend to make your app discoverable and available for any Epic
 users, publish your app to <a href="https://showroom.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Showroom</a>.</p>
+<h4>5. Get selected by an Epic Customer, Testing &amp; Go Live</h4>
+<p>Epic customers (Healthcare organizations) browser Epic Showroom and request
+apps that meet their needs. If your app is selected by a customer, you
+can with them for testing and validation, and eventually to production.</p>
 <h3>NGEMR APIs</h3>
 <p>NGEMR primarily uses the following Epic APIs for integration. These include
 clinical, scheduling, medication, practitioner, and patient information
