@@ -24,7 +24,7 @@ your development and submission.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/epic_showroom.png">
 </div>
-<p>Once your app is ready, submit it to <a href="https://showroom.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Showroom.</a> 
+<p>Once your app is ready, submit it to <a href="https://showroom.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic Showroom.</a>
 </p>
 <p>Epic Showroom is a marketplace where healthcare organizations can discover
 and evaluate apps that integrate with Epic.</p>
