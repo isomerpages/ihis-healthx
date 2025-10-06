@@ -21,6 +21,14 @@ institutions</p>
 <p><strong>FHIR (Fast Healthcare Interoperability Resources)</strong> – for
 modern, standards-based APIs.</p>
 </li>
+<li>
+<p><strong>EPIC Proprietary API</strong>
+</p>
+</li>
+<li>
+<p><strong>DICOM</strong>
+</p>
+</li>
 </ul>
 <p>These standards enable external applications and systems to interoperate
 securely with NGEMR/EPIC.</p>
