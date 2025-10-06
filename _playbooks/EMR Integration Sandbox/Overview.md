@@ -12,27 +12,23 @@ EMR system and used across public healthcare institutions. It is the backbone
 for safe, seamless, and coordinated patient care.
 <br>
 </p>
-<p>Yet, as a live production system, accessing NGEMR for testing and integration
-is challenging:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>It involves <strong>lengthy processes</strong> to safeguard system stability.</p>
-</li>
-<li>
-<p>It requires<strong> strict governance</strong> to ensure compliance with
-national policies and security standards.</p>
-</li>
-<li>
-<p>It demands <strong>tight technical requirements</strong>, including HL7,
-FHIR, and Epic-specific interfaces.</p>
-</li>
-</ul>
-<p>These necessary safeguards make early experimentation within NGEMR itself
-difficult for innovators, startups, and industry partners.</p>
-<p>This is where the <strong>EMR Integration Sandbox </strong>plays a crucial
-role.</p>
-<p>The Sandbox provides a safe, production-like environment that simulates
-NGEMR, allowing innovators to:</p>
+<p>As a live production system, integration with NGEMR follows a well-defined
+and governed process designed to uphold stability, security, and interoperability
+across the healthcare ecosystem.
+<br>• It is guided by structured approval and review procedures that ensure
+all integrations meet operational and clinical standards.
+<br>• It is supported by established governance frameworks to align with national
+healthcare policies and data protection requirements.
+<br>• It operates on clear technical standards, including HL7, FHIR, and Epic
+interfaces, to maintain consistency and compatibility.
+<br>
+<br>This structured approach safeguards the reliability of NGEMR while ensuring
+that any new integration delivers value, complies with standards, and supports
+the broader vision of a connected healthcare system.
+<br>
+<br>To complement this process and facilitate early innovation, the <strong>EMR Integration Sandbox</strong> provides
+a production-like environment that simulates NGEMR, allowing innovators
+to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Experiment and test integrations </strong>without risk to live
