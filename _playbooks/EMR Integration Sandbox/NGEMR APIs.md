@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EMR Integration Sandbox
 ---
-<h3><strong>FHIR APIs</strong></h3>
+<h2><strong>FHIR APIs</strong></h2>
 <p>NGEMR primarily uses the following Epic APIs for integration. These include
 clinical, scheduling, medication, practitioner, and patient information
 endpoints.</p>
@@ -270,10 +270,10 @@ resources and participants can be found.​</p>
 </tbody>
 </table>
 <p>The equivalent FHIR APIs are available in <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>EMR Integration Sandbox APIs</u></a>.</p>
-<h3>Health Level 7 Version 2 (HL7 v2)</h3>
+<h2>Health Level 7 Version 2 (HL7 v2)</h2>
 <p>Another common way to connect Epic with third parties is to use <strong>Health Level 7 Version 2 protocol (HL7 v2)</strong>.
 This is the most common standard used with Epic.</p>
-<h4>HL7 Message Type</h4>
+<h3>HL7 Message Type</h3>
 <p>Given below are the message types currently sent out by Epic in NGEMR
 context.</p>
 <div class="isomer-image-wrapper">
@@ -288,22 +288,17 @@ context.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HL7_MeesageTypes_04.png">
 </div>
-<h4>Example use-cases for HL7 v2</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Outgoing Patient Administration – Registration and ADT Interface&nbsp;</strong>&nbsp;</p>
-</li>
-</ol>
+<h3>Example use-cases for HL7 v2</h3>
+<h4><strong>1.  Outgoing Patient Administration – Registration and ADT Interface&nbsp;</strong>&nbsp;</h4>
 <p>Informs external systems of new patient creation, changes to patient demographic
 information, visits (ADT), registration (guarantors and insurance coverage),
 allergies, and bed status updates. You can trigger these messages from
 many of Epic's applications. The ability to send allergy updates is only
 applicable if you are using the Allergy activity and need to send allergy
 updates to an external system.&nbsp;</p>
-<p>&nbsp;<strong>Communication Methods</strong>&nbsp;</p>
+<p><strong>Communication Methods</strong>&nbsp;</p>
 <p>Epic recommends using the Outgoing TCP/IP Using Database Servers communication
-method.&nbsp;</p>
-<p>Other supported communications methods include:&nbsp;</p>
+method.&nbsp;Other supported communications methods include:&nbsp;</p>
 <ol>
 <li>
 <p>Outgoing TCP/IP Using Interconnect&nbsp;</p>
@@ -364,11 +359,13 @@ identifier from PV-19, and the workstation sent in an OBX segment to associate
 the patient to the device.&nbsp;</p>
 <p><strong>A03 Format Example</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A03_Example.png">
+</div>
+<h4><strong>2. Outgoing Clinical Documentation Flowsheet Data Interface</strong>&nbsp;</h4>
+<p>Sends discrete documentation flowsheet data to another system&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Outgoing Clinical Documentation Flowsheet Data Interface</strong>&nbsp;</p>
-<p>Sends discrete documentation flowsheet data to another system&nbsp;</p>
 <p><strong>Communication Methods</strong>&nbsp;</p>
 <p>Epic recommends using the Outgoing TCP/IP Using Database Servers communication
 method.&nbsp;Other supported communications methods include:&nbsp;</p>
