@@ -368,9 +368,7 @@ the patient to the device.&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Outgoing Clinical Documentation Flowsheet Data Interface</strong>&nbsp;</p>
-<p></p>
 <p>Sends discrete documentation flowsheet data to another system&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Communication Methods</strong>&nbsp;</p>
 <p>Epic recommends using the Outgoing TCP/IP Using Database Servers communication
 method.&nbsp;Other supported communications methods include:&nbsp;</p>
