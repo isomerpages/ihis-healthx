@@ -362,5 +362,72 @@ information to the patient's MAR.&nbsp;</p>
 <p>The receiving system uses the patient identifier from PID-3, the visit
 identifier from PV-19, and the workstation sent in an OBX segment to associate
 the patient to the device.&nbsp;</p>
-<p><strong>A03 Format Example</strong>&nbsp;</p>
+<p><strong>A03 Format Example</strong>
+</p>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Outgoing Clinical Documentation Flowsheet Data Interface</strong>&nbsp;</p>
+<p></p>
+<p>Sends discrete documentation flowsheet data to another system&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Communication Methods</strong>&nbsp;</p>
+<p>Epic recommends using the Outgoing TCP/IP Using Database Servers communication
+method.&nbsp;Other supported communications methods include:&nbsp;</p>
+<ol>
+<li>
+<p>Outgoing TCP/IP Using Interconnect&nbsp;</p>
+</li>
+</ol>
+<ol start="2">
+<li>
+<p>HL7v2 Batch Using Database Server&nbsp;</p>
+</li>
+</ol>
+<ol start="3">
+<li>
+<p>Outgoing HL7v2 Over HTTPS Using Interconnect&nbsp;</p>
+</li>
+</ol>
+<ol start="4">
+<li>
+<p>Outgoing DIRECT Using Interconnect&nbsp;</p>
+</li>
+</ol>
+<p><strong>ORU^R01 Unsolicited Observation</strong>&nbsp;</p>
+<p>The interface uses the standard HL7 ORU^R01 message type to send documentation
+flowsheet data. The message sends new observation data from Epic.&nbsp;</p>
+<p></p>
+<p><strong>Triggering</strong>&nbsp;</p>
+<p>The primary trigger for this interface is FLOWSHEET_EVENT (2121). This
+triggers an outgoing ORU^R01 message when flowsheet data is filed into
+the system from any activity that can interact with flowsheets.&nbsp;&nbsp;</p>
+<p>If you wish to send periodic batch updates rather than the real-time updates
+normally sent by FLOWSHEET_EVENT, create a batch job using template 6028
+EDI - FLOWSHEET ADMITTED PATIENT TRIGGER. When run, this job will search
+all currently admitted patients and send a message with the most recent
+observation for each row in the flowsheet table (see FLOWSHEET_TABLE discussion).
+Note that only the most recent observation is sent regardless of how many
+times the row has been updated since the last job.&nbsp;</p>
+<p></p>
+<p><strong>Device Data</strong>&nbsp;</p>
+<p>You can use the profile variable SEND_DEVICE_DATA (2122) to control whether
+data that was filed into Epic from a device should be sent in an outbound
+message or not.&nbsp;&nbsp;</p>
+<p></p>
+<p><strong>Blood Pressure Handling</strong>&nbsp;</p>
+<p>To send systolic and diastolic blood pressure readings as separate OBX
+segments, enter the flowsheet row used to document the combined diastolic
+and systolic blood pressure in the FLO Record column. In the corresponding
+Special Handling column, enter dsplitBP^ASDFOFN1(&lt;Systolic FLO ID&gt;,&lt;Diastolic
+FLO ID&gt;) where &lt;Systolic FLO ID&gt; and &lt;Diastolic FLO ID&gt;
+are the IDs of the flowsheet rows built specifically for the interface
+table.&nbsp;</p>
+</li>
+</ol>
+<p><strong>Format Example</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ORU_Example.png">
+</div>
 <p></p>
