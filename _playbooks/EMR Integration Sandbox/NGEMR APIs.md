@@ -362,7 +362,5 @@ information to the patient's MAR.&nbsp;</p>
 <p>The receiving system uses the patient identifier from PID-3, the visit
 identifier from PV-19, and the workstation sent in an OBX segment to associate
 the patient to the device.&nbsp;</p>
-<p>
-<br>&nbsp;<strong>A03 Format Example</strong>&nbsp;</p>
-<p></p>
+<p><strong>A03 Format Example</strong>&nbsp;</p>
 <p></p>
