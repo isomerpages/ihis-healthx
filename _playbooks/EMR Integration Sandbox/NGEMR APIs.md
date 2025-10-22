@@ -123,9 +123,8 @@ for a patient​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10042" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Surgeries)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=10042" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search(Surgeries)</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -176,9 +175,8 @@ short, free-text notes associated with a patient record. ​</p>
 <p><strong>Medication Order</strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Specifications?api=997" rel="noopener noreferrer nofollow" target="_blank"><u>MedicationRequest.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=997" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Signed Medication Order)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=997" rel="noopener noreferrer nofollow" target="_blank"><u>MedicationRequest.Search(Signed Medication Order)</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
