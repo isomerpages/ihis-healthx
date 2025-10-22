@@ -29,17 +29,17 @@ your development and submission.</p>
 <p>Epic Showroom is a marketplace where healthcare organizations can discover
 and evaluate apps that integrate with Epic.</p>
 <h4>5. Get selected, Test &amp; Go Live</h4>
-<p>Epic customers (Healthcare organizations) browse the Epic Showroom and
-select apps that meet their needs. If chosen:</p>
+<p>Epic customers (Healthcare organizations) browse the Epic Showroom to
+find and evaluate apps that meet their needs. If your app is selected:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You'll work with the customer to setup and test the app.</p>
+<p>You'll collaborate directly with the customer to set up, configure, and
+test the integration in their Epic environment.</p>
 </li>
 <li>
-<p>Epic validates integration in the customer's environment.</p>
-</li>
-<li>
-<p>Once approved, your app goes live in production.</p>
+<p>Once the customer approves the integration and moves it to production,
+your app goes live and remains discoverable to other Epic clients in the
+showroom.</p>
 </li>
 </ul>
 <p>
