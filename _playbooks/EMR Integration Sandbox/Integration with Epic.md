@@ -16,6 +16,8 @@ with them.</p>
 </div>
 <p>Use <a href="https://fhir.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic on FHIR</a> resources
 to explore and implement standard FHIR APIs.</p>
+<p>Refer to Epic's <a href="https://open.epic.com/Playbooks" rel="noopener noreferrer nofollow" target="_blank">Data Sharing Playbooks</a> for
+best practices and recommendations on data sharing and integration</p>
 <h4>3. (Optional) Subscribe to Epic Vendor Services</h4>
 <p>Need extra guidance? Epic offers additional vendor services to support
 your development and submission.</p>
