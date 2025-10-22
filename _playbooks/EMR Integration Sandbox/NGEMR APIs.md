@@ -272,5 +272,6 @@ resources and participants can be found.​</p>
 <p>The equivalent FHIR APIs are available in <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>EMR Integration Sandbox APIs</u></a>.</p>
 <h2>Health Level 7 Version 2 (HL7 v2)</h2>
 <p>Another common way to connect Epic with third parties is to use <strong>Health Level 7 Version 2 protocol (HL7 v2)</strong>.
-This is the most common standard used with Epic. Refer to <a href="https://open.epic.com/Identity/HL7v2" rel="noopener noreferrer nofollow" target="_blank">Epic documentation</a> to
+This is the most common standard used with Epic.</p>
+<p>Refer to <a href="https://open.epic.com/Identity/HL7v2" rel="noopener noreferrer nofollow" target="_blank">Epic documentation</a> to
 learn more about this standard.</p>
