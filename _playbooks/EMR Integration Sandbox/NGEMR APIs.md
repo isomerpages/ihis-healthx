@@ -238,33 +238,51 @@ resources and participants can be found.​</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Appointments</strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://fhir.epic.com/Specifications?api=10189" rel="noopener noreferrer nofollow" target="_blank"><u>Appointment.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10189" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Appointments)</u>
-</a>​</p>
+<a href="https://fhir.epic.com/Specifications?api=10189" class="Hyperlink" rel="noreferrer" target="_blank"><u> (STU3)</u>
+</a>​ <strong><em><sup>To be deprecated</sup></em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STU3​</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Search for appointment Info​</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="http://Appointment.Search" rel="noopener noreferrer nofollow" target="_blank">Appointment.Search (R4)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>R4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Practitioner Profile</strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Specifications?api=858" rel="noopener noreferrer nofollow" target="_blank"><u>Practitioner.Search</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=858" rel="noopener noreferrer nofollow" target="_blank"><u>Practitioner.Search (STU3)</u></a>​ <strong><em><sup>To be deprecated</sup></em></strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STU3​</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Search and get information of a doctor​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://fhir.epic.com/Specifications?api=936" rel="noopener noreferrer nofollow" target="_blank"><u>Practitioner.Search (R4)</u></a>​​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>R4​</p>
 </td>
 </tr>
 </tbody>
