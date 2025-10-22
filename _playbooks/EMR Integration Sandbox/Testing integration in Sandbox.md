@@ -26,7 +26,7 @@ the equivalent APIs in HealthX Innovation Sandbox.</p>
 </p>
 <h4>2. Explore our HealthX EMR demo app</h4>
 <p>The HealthX EMR demo app is developed using the above APIs.</p>
-<p>To try the app,visit <a href="https://userapps.healthx.sg/apps/7e55a7f9-5f47-4b6d-84c3-7c754778b367" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a>
+<p>To try the app,visit <a href="https://hxemr.healthx.sg/" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a>
 </p>
 <p>Login using the following demo credentials:</p>
 <p>Email:<strong> demo@healthx.sg</strong>
