@@ -75,9 +75,7 @@ etc.,​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Specifications?api=10141" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10141" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Infection)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=10141" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search(Infection)</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -88,9 +86,7 @@ etc.,​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Specifications?api=10314" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10314" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Medical History)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=10314" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search(Medical History)</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -102,9 +98,7 @@ patient’s chart.​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Specifications?api=953" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=953" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Problems)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=953" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search(Problems)</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -115,9 +109,8 @@ patient’s chart.​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Specifications?api=976" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=976" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Orders)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=976" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search(Orders)</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -143,9 +136,7 @@ for a patient​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10030" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Surgical History)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=10030" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search(Surgical History)</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
