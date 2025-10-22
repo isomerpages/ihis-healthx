@@ -22,7 +22,7 @@ institutions</p>
 modern, standards-based APIs.</p>
 </li>
 <li>
-<p><strong>EPIC Proprietary API</strong>
+<p><strong>Epic Proprietary API</strong>
 </p>
 </li>
 <li>
