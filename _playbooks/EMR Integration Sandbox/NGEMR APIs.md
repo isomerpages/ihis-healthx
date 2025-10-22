@@ -148,9 +148,8 @@ as pertinent negatives (indicating a patient has not had a particular surgery).�
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>List.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10147" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Allergies)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=10147" rel="noopener noreferrer nofollow" target="_blank"><u>List.Search(Allergies)</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -161,9 +160,8 @@ as pertinent negatives (indicating a patient has not had a particular surgery).�
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Flag.Search</u></a>
-<a href="https://fhir.epic.com/Specifications?api=10166" class="Hyperlink" rel="noreferrer" target="_blank"><u>(Patient FYI)</u>
-</a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=10166" rel="noopener noreferrer nofollow" target="_blank"><u>Flag.Search(Patient FYI)</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
