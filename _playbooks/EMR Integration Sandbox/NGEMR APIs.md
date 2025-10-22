@@ -48,7 +48,7 @@ endpoints.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Patient.Search</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=932" rel="noopener noreferrer nofollow" target="_blank"><u>Patient.Search</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -64,7 +64,7 @@ etc.,​</p>
 <p>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>AllergyIntolerance.Search</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=947" rel="noopener noreferrer nofollow" target="_blank"><u>AllergyIntolerance.Search</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -75,8 +75,8 @@ etc.,​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10140" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Infection)</u>
+<p><a href="https://fhir.epic.com/Specifications?api=10141" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
+<a href="https://fhir.epic.com/Specifications?api=10141" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Infection)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,8 +88,8 @@ etc.,​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10302" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Medical History)</u>
+<p><a href="https://fhir.epic.com/Specifications?api=10314" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
+<a href="https://fhir.epic.com/Specifications?api=10314" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Medical History)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,8 +102,8 @@ patient’s chart.​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=951" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Problems)</u>
+<p><a href="https://fhir.epic.com/Specifications?api=953" rel="noopener noreferrer nofollow" target="_blank"><u>Condition.Search</u></a>
+<a href="https://fhir.epic.com/Specifications?api=953" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Problems)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,8 +115,8 @@ patient’s chart.​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=976" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Orders)</u>
+<p><a href="https://fhir.epic.com/Specifications?api=976" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
+<a href="https://fhir.epic.com/Specifications?api=976" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Orders)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ for a patient​</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10042" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Surgeries)</u>
+<a href="https://fhir.epic.com/Specifications?api=10042" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Surgeries)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +144,7 @@ for a patient​</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Procedure.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10030" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Surgical History)</u>
+<a href="https://fhir.epic.com/Specifications?api=10030" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Surgical History)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +158,7 @@ as pertinent negatives (indicating a patient has not had a particular surgery).�
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>List.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10147" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Allergies)</u>
+<a href="https://fhir.epic.com/Specifications?api=10147" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Allergies)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,7 @@ as pertinent negatives (indicating a patient has not had a particular surgery).�
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Flag.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10165" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Patient FYI)</u>
+<a href="https://fhir.epic.com/Specifications?api=10166" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Patient FYI)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,8 +187,8 @@ short, free-text notes associated with a patient record. ​</p>
 <p><strong>Medication Order</strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>MedicationRequest.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=997" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Signed Medication Order)</u>
+<p><a href="https://fhir.epic.com/Specifications?api=997" rel="noopener noreferrer nofollow" target="_blank"><u>MedicationRequest.Search</u></a>
+<a href="https://fhir.epic.com/Specifications?api=997" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Signed Medication Order)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,7 +205,7 @@ category​</p>
 <p>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Encounter.Search</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=909" rel="noopener noreferrer nofollow" target="_blank"><u>Encounter.Search</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -216,7 +216,7 @@ category​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=963" class="Hyperlink" rel="noreferrer" target="_blank"><u>Observation.Create (Vitals)</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=963" class="Hyperlink" rel="noreferrer" target="_blank"><u>Observation.Create (Vitals)</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -227,7 +227,7 @@ category​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Location.Read</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=928" rel="noopener noreferrer nofollow" target="_blank"><u>Location.Read</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R4​</p>
@@ -242,8 +242,8 @@ resources and participants can be found.​</p>
 <p><strong>Appointments</strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Appointment.Search</u></a>
-<a href="https://fhir.epic.com/Sandbox?api=10189" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Appointments)</u>
+<p><a href="https://fhir.epic.com/Specifications?api=10189" rel="noopener noreferrer nofollow" target="_blank"><u>Appointment.Search</u></a>
+<a href="https://fhir.epic.com/Specifications?api=10189" class="Hyperlink" rel="noreferrer" target="_blank"><u> (Appointments)</u>
 </a>​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +258,7 @@ resources and participants can be found.​</p>
 <p><strong>Practitioner Profile</strong>​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fhir.epic.com/Sandbox?api=930" rel="noopener noreferrer nofollow" target="_blank"><u>Practitioner.Search</u></a>​</p>
+<p><a href="https://fhir.epic.com/Specifications?api=858" rel="noopener noreferrer nofollow" target="_blank"><u>Practitioner.Search</u></a>​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STU3​</p>
@@ -289,7 +289,7 @@ context.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HL7_MeesageTypes_04.png">
 </div>
 <h3>Example use-cases for HL7 v2</h3>
-<h4><strong>1.  Outgoing Patient Administration – Registration and ADT Interface&nbsp;</strong>&nbsp;</h4>
+<h4><strong>1. Outgoing Patient Administration – Registration and ADT Interface&nbsp;</strong>&nbsp;</h4>
 <p>Informs external systems of new patient creation, changes to patient demographic
 information, visits (ADT), registration (guarantors and insurance coverage),
 allergies, and bed status updates. You can trigger these messages from
