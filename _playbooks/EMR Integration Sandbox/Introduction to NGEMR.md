@@ -32,6 +32,6 @@ modern, standards-based APIs.</p>
 </ul>
 <p>These standards enable external applications and systems to interoperate
 securely with NGEMR.</p>
-<p>Refer to <a href="https://open.epic.com/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank"><u>Open.Epic</u></a> for the official Epic
-documentation on the integration standards.</p>
-<p></p>
+<p>Refer to <a href="https://open.epic.com/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank"><u>Open.Epic</u></a> and <a href="https://open.epic.com/Playbooks" rel="noopener noreferrer nofollow" target="_blank">Data Sharing Playbooks</a> for
+official Epic documentation on best practices and recommendations on data
+sharing and integration standards.</p>
