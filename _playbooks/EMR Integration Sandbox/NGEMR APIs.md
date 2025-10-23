@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: EMR Integration Sandbox
 ---
+<h2>Health Level 7 Version 2 (HL7 v2)</h2>
+<p>Another common way to connect Epic with third parties is to use <strong>Health Level 7 Version 2 protocol (HL7 v2)</strong>.
+This is the most common standard used with Epic.</p>
+<p>Refer to <a href="https://open.epic.com/Identity/HL7v2" rel="noopener noreferrer nofollow" target="_blank">Epic documentation</a> to
+learn more about this standard.</p>
 <h2><strong>FHIR APIs</strong></h2>
 <p>NGEMR primarily uses the following Epic APIs for integration. These include
 clinical, scheduling, medication, practitioner, and patient information
@@ -257,8 +262,4 @@ resources and participants can be found.​</p>
 </tbody>
 </table>
 <p>The equivalent FHIR APIs are available in <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank"><u>EMR Integration Sandbox APIs</u></a>.</p>
-<h2>Health Level 7 Version 2 (HL7 v2)</h2>
-<p>Another common way to connect Epic with third parties is to use <strong>Health Level 7 Version 2 protocol (HL7 v2)</strong>.
-This is the most common standard used with Epic.</p>
-<p>Refer to <a href="https://open.epic.com/Identity/HL7v2" rel="noopener noreferrer nofollow" target="_blank">Epic documentation</a> to
-learn more about this standard.</p>
+<p></p>
