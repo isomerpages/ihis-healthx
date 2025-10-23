@@ -10,14 +10,14 @@ third_nav_title: EMR Integration Sandbox
 <p><a href="https://open.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Open.Epic</a> offers
 free online resources to help you understand Epic's APIs and how to integrate
 with them.</p>
+<p>Refer to Epic's <a href="https://open.epic.com/Playbooks" rel="noopener noreferrer nofollow" target="_blank">Data Sharing Playbooks</a> for
+best practices and recommendations on data sharing and integration</p>
 <h4>2. Build with Epic on FHIR</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/epic_on_fhir.png">
 </div>
 <p>Use <a href="https://fhir.epic.com/" rel="noopener noreferrer nofollow" target="_blank">Epic on FHIR</a> resources
 to explore and implement standard FHIR APIs.</p>
-<p>Refer to Epic's <a href="https://open.epic.com/Playbooks" rel="noopener noreferrer nofollow" target="_blank">Data Sharing Playbooks</a> for
-best practices and recommendations on data sharing and integration</p>
 <h4>3. (Optional) Subscribe to Epic Vendor Services</h4>
 <p>Need extra guidance? Epic offers additional vendor services to support
 your development and submission.</p>
