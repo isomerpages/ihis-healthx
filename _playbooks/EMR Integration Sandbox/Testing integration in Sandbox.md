@@ -13,6 +13,8 @@ Provides access to Epic’s standard sandbox environment and APIs.</p>
 <p>2. <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank">HealthX Innovation Sandbox</a> –
 A sandbox environment that simulates NGEMR with equivalent APIs, synthetic
 data, and workflows for innovators to test safely.</p>
+<p><strong><em>Please note that while the sandbox simulates NGEMR for realistic testing, it does not guarantee production readiness, as integration with NGEMR in production may still require further reviews and alignment with operational and compliance standards.</em></strong>
+</p>
 <h3>EMR Integration in HealthX Innovation Sandbox</h3>
 <p>The HealthX Innovation Sandbox offers an open-source demo EMR application
 and the sandbox APIs to experiment the integration with EMR. Follow the
