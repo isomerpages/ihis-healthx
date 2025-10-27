@@ -46,6 +46,8 @@ and delays.</p>
 <p>By bridging the gap between innovation and adoption, the EMR Integration
 Sandbox helps ideas move faster, safer, and more effectively into Singapore’s
 healthcare ecosystem.</p>
+<p><strong><em>Please note that while the sandbox simulates NGEMR for realistic testing, it does not guarantee production readiness, as integration with NGEMR in production may still require further reviews and alignment with operational and compliance standards.</em></strong>
+</p>
 <h3>Purpose</h3>
 <p>The EMR Integration Sandbox is designed to:
 <br>• Provide an overview of NGEMR and the pathway to integrate with it.
