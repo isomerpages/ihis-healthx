@@ -38,6 +38,9 @@ workflow as well as the capability of target external systems.</p>
 <li>
 <p>Consider potential additional costs e.g. Epic API licensing fee, interface
 license</p>
+<p>In parallel, user champion need to secure budget for the project, covering
+Capex and Opex, and raise it as a workplan item for cluster internal review
+and prioritization process</p>
 </li>
 </ol>
 </div>
@@ -59,6 +62,10 @@ to raise workplan item in BET</p>
 <p>Workplan raised and require NGEMR support will be prioritized according
 to certain criteria e.g. National or MOH strategic projects, Support for
 Operation, cross cluster or cluster strategic projects and general enhancements.</p>
+<p>Once demand is approved, the project can proceed to contracting with external
+systems and with Epic. Implementation starts once the PO is issued, contract
+is signed off and Synapxe efforts have been assigned to NGEMR team supporting
+the project.</p>
 </li>
 </ol>
 </div>
