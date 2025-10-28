@@ -14,7 +14,8 @@ integration option. Below is a high-level illustration of external systems
 integration project with NGEMR. ​</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Step 1: Pre-assessment</summary>
+<summary><strong>A. Pre-assessment</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
@@ -42,7 +43,8 @@ license</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 2: Budgeting</summary>
+<summary><strong>B. Budgeting</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
@@ -62,7 +64,8 @@ Operation, cross cluster or cluster strategic projects and general enhancements.
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 3: Contracting</summary>
+<summary><strong>C. Contracting</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
@@ -75,7 +78,8 @@ Operation, cross cluster or cluster strategic projects and general enhancements.
 </div>
 </details>
 <details class="isomer-details">
-<summary>Step 4: Implementation</summary>
+<summary><strong>D. Implementation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
