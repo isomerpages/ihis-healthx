@@ -8,11 +8,17 @@ third_nav_title: EMR Integration Sandbox
 <h3>Testing integration in Sandbox</h3>
 <p>To test integrations with NGEMR in a sandbox, two main environments are
 available:</p>
-<p>1. <a href="https://fhir.epic.com/Documentation?docId=testpatients" rel="noopener nofollow" target="_blank">Epic Sandbox</a> –
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://fhir.epic.com/Documentation?docId=testpatients" rel="noopener nofollow" target="_blank">Epic Sandbox</a> –
 Provides access to Epic’s standard sandbox environment and APIs.</p>
-<p>2. <a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank">HealthX Innovation Sandbox</a> –
+</li>
+<li>
+<p><a href="https://apidocs.healthx.sg/ngemr" rel="noopener nofollow" target="_blank">HealthX Innovation Sandbox</a> –
 A sandbox environment that simulates NGEMR with equivalent APIs, synthetic
 data, and workflows for innovators to test safely.</p>
+</li>
+</ol>
 <p><strong><em>Please note that while the sandbox simulates NGEMR for realistic testing, it does not guarantee production readiness, as integration with NGEMR in production may still require further reviews and alignment with operational and compliance standards.</em></strong>
 </p>
 <h3>EMR Integration in HealthX Innovation Sandbox</h3>
@@ -27,14 +33,20 @@ the equivalent APIs in HealthX Innovation Sandbox.</p>
 <p><a href="https://staging-lite.d119f02n40zgqp.amplifyapp.com/ngemr-apis/" rel="noopener noreferrer nofollow" target="_blank">NGEMR Sandbox APIs</a>
 </p>
 <h4>2. Explore our HealthX EMR demo app</h4>
-<p>The HealthX EMR demo app is developed using the above APIs.</p>
-<p>To try the app, visit <a href="https://hxemr.healthx.sg/" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a>
+<p>The HealthX EMR demo app is developed using the above APIs. To try the
+app, visit <a href="https://hxemr.healthx.sg/" rel="noopener nofollow" target="_blank">HealthX EMR Demo App</a>
 </p>
 <p>Login using the following demo credentials:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Email:<strong> demo@healthx.sg</strong>
 </p>
+</li>
+<li>
 <p>Password: <strong>demo123</strong>
 </p>
+</li>
+</ul>
 <p></p>
 <h4>3. Build &amp; host your app in HealthX Innovation Sandbox</h4>
 <p><strong>Create an App in HealthX Develop Portal</strong>
