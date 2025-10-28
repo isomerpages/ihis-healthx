@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EMR Integration Sandbox
 ---
-<h3>Overview</h3>
+<h3>EMR Integration Sandbox Overview</h3>
 <p>The <strong>EMR Integration Sandbox</strong> provides a production-like
 environment that simulates the <strong>Next Generation Electronic Medical Record (NGEMR)</strong> —
 Singapore’s national Electronic Medical Record platform built on the Epic
