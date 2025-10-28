@@ -13,7 +13,7 @@ EMR system and used across public healthcare institutions of Singapore.
 NGEMR serves as the backbone for safe, seamless, and coordinated patient
 care.
 <br>
-<br>The Sandbox enables innovators to explore, test, and validate integrations
+<br>The sandbox enables innovators to explore, test, and validate integrations
 safely before connecting to the live NGEMR environment. It allows innovators
 to:
 <br>• <strong>Experiment and test integrations</strong> without risk to live
@@ -36,7 +36,7 @@ testing.
 <br>• Enable innovators to trial solutions with production-like interfaces,
 building confidence before engaging the live system.</p>
 <h3>Playbook on EMR integration</h3>
-<p>This Playbook serves as a practical guide for innovators, outlining the
+<p>This playbook serves as a practical guide for innovators, outlining the
 steps to move from idea to production:
 <br>1. <a href="/introduction-to-ngemr/" rel="noopener nofollow" target="_blank">Introduction to NGEMR</a> –
 Understanding the national EMR system and its importance.
