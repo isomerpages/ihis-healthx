@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EMR Integration Sandbox
 ---
-<h3>The Process</h3>
+<h3>Integration with NGEMR</h3>
 <p>Epic has multiple modules that may fulfill the business requirement. Integration
 to NGEMR will be an option if the business requirements/workflow cannot
 be met by Epic’s out-of-the box capability. User workflow and capability
