@@ -6,44 +6,24 @@ description: ""
 third_nav_title: EMR Integration Sandbox
 ---
 <h3>Overview</h3>
-<p>The <strong>Next Generation Electronic Medical Record (NGEMR)</strong> is
-Singapore’s national Electronic Medical Record platform, built on the Epic
-EMR system and used across public healthcare institutions. It is the backbone
-for safe, seamless, and coordinated patient care.
+<p>The <strong>EMR Integration Sandbox</strong> provides a production-like
+environment that simulates the <strong>Next Generation Electronic Medical Record (NGEMR)</strong> —
+Singapore’s national Electronic Medical Record platform built on the Epic
+EMR system and used across public healthcare institutions of Singapore.
+NGEMR serves as the backbone for safe, seamless, and coordinated patient
+care.
 <br>
-</p>
-<p>As a live production system, integration with NGEMR follows a well-defined
-and governed process designed to uphold stability, security, and interoperability
-across the healthcare ecosystem.
-<br>• It is guided by structured approval and review procedures that ensure
-all integrations meet operational and clinical standards.
-<br>• It is supported by established governance frameworks to align with national
-healthcare policies and data protection requirements.
-<br>• It operates on clear technical standards, including HL7, FHIR, and Epic
-interfaces, to maintain consistency and compatibility.
+<br>The Sandbox enables innovators to explore, test, and validate integrations
+safely before connecting to the live NGEMR environment. It allows innovators
+to:
+<br>• <strong>Experiment and test integrations</strong> without risk to live
+operations.
+<br>• <strong>Validate and refine solutions early</strong> using test/synthetic
+data and realistic clinical workflows.
+<br>• <strong>Accelerate readiness for NGEMR integration</strong>, reducing
+rework and delays.
 <br>
-<br>This structured approach safeguards the reliability of NGEMR while ensuring
-that any new integration delivers value, complies with standards, and supports
-the broader vision of a connected healthcare system.
-<br>
-<br>To complement this process and facilitate early innovation, the <strong>EMR Integration Sandbox</strong> provides
-a production-like environment that simulates NGEMR, allowing innovators
-to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Experiment and test integrations </strong>without risk to live
-operations.</p>
-</li>
-<li>
-<p><strong>Validate and refine solutions early</strong> using synthetic data
-and realistic workflows.</p>
-</li>
-<li>
-<p><strong>Accelerate readiness</strong> for NGEMR integration, reducing rework
-and delays.</p>
-</li>
-</ul>
-<p>By bridging the gap between innovation and adoption, the EMR Integration
+<br>By bridging the gap between innovation and adoption, the EMR Integration
 Sandbox helps ideas move faster, safer, and more effectively into Singapore’s
 healthcare ecosystem.</p>
 <p><strong><em>Please note that while the sandbox simulates NGEMR for realistic testing, it does not guarantee production readiness, as integration with NGEMR in production may still require further reviews and alignment with operational and compliance standards.</em></strong>
