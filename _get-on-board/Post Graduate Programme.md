@@ -1,5 +1,5 @@
 ---
-title: Postgraduate Programme
+title: Post Graduate Programme
 permalink: /postgraduate-programme/
 variant: tiptap
 description: ""
