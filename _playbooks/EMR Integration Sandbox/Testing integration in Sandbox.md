@@ -30,7 +30,7 @@ steps given below to explore the integration.</p>
 the equivalent APIs in HealthX Innovation Sandbox.</p>
 <p><a href="https://fhir.epic.com/Specifications" rel="noopener noreferrer nofollow" target="_blank">Epic on FHIR API Specifications</a>
 </p>
-<p><a href="https://staging-lite.d119f02n40zgqp.amplifyapp.com/ngemr-apis/" rel="noopener noreferrer nofollow" target="_blank">NGEMR Sandbox APIs</a>
+<p><a href="https://apidocs.healthx.sg/ngemr" rel="noopener noreferrer nofollow" target="_blank">NGEMR Sandbox APIs</a>
 </p>
 <h4>2. Explore our HealthX EMR demo app</h4>
 <p>The HealthX EMR demo app is developed using the above APIs. To try the
