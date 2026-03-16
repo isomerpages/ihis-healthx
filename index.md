@@ -5,10 +5,9 @@ description: Synapxe HealthX Innovation Sandbox | Copyright ©2025 Synapxe Pte
   Ltd. All Rights Reserved. Co Reg No.200814464H
 image: /images/Icons and Logos/icon_hxis api.png
 permalink: /
-notification: "Notice: Scheduled Domain Migration Our website is currently
-  undergoing a domain migration from 17 March 2026. During this period, you may
-  occasionally experience intermittent downtime. If the page does not load,
-  please refresh the page again after a few minutes."
+notification: "Notice: Our website will be undergoing a domain migration on 17
+  Mar 2026. You may occasionally experience intermittent downtime. If the page
+  does not load properly, please refresh the page again after a few minutes."
 sections:
   - hero:
       title: HealthX Innovation Sandbox
