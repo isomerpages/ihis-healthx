@@ -46,7 +46,7 @@ its own discretion.</p>
 </li>
 <li>
 <p>Upon exiting, the Project Team must submit a report to HealthX Innovation
-Sandbox administrator @ <a href="mailto:healthx@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">healthx@synapxe.sg</a><strong> </strong>within
+Sandbox administrator @ <a href="mailto:hx-is@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">hx-is@synapxe.sg</a><strong> </strong>within
 1 month from the expiry of the sandbox period.</p>
 </li>
 <li>
