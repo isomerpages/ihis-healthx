@@ -124,25 +124,26 @@ At the end of the Sandbox Period, any and all licences and rights granted to you
 7.1\. Where you or any person on your behalf, post or upload your application, content and/or material to the Sandbox, or make contact with any other users on the Sandbox (collectively, the “**UGC**”), you must comply with the Content Standards set out in this clause. The UGC that you post or upload must comply with the applicable laws in Singapore and in any country from which they are posted or uploaded.
 
 7.2\. In particular, such UGC must not:
-* contain any material which is defamatory of any person;
-* contain any material which is obscene, offensive, illegal, unlawful, fraudulent, defamatory, libellous, harassing, hateful, inflammatory, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate;
-* contain any unsolicited or unauthorized advertising, promotional materials, spam, junk mail, chain letters, pyramid schemes, or any other form of unauthorized solicitation;
-* contain material regarding sweepstakes, contests, or lotteries, or otherwise related to gambling;
-* promote sexually explicit material;
-* promote violence;
-* promote discrimination of any kind whether based on race, sex, religion, nationality, disability, sexual orientation or age;
-* infringe any intellectual property rights;
-* be likely to deceive any person or amount to fraudulent misrepresentation;
-* be made in breach of any legal duty owed to a third-party, such as a contractual duty or a duty of confidence;
-* promote any illegal activity;
-* contain any content with seditious tendency or political references;
-* promote ill-will and hostility amongst the users or general public of Singapore;
-* be threatening, abuse or invade another’s privacy, or cause annoyance, inconvenience or needless anxiety;
-* be likely to harass, upset, embarrass, alarm or annoy any other person;
-* be used to impersonate any person, or to misrepresent your identity or affiliation with any person;
-* give the impression that the UGC emanates from us if that is not the case; and/or
-* advocate, promote or assist any unlawful act such as, for example, copyright infringement or computer misuse.
-<br> (each, a&nbsp;“**Content Standard**”, and collectively, the “**Content Standards**”)
+
+(a) contain any material which is defamatory of any person;
+<br>(b) contain any material which is obscene, offensive, illegal, unlawful, fraudulent, defamatory, libellous, harassing, hateful, inflammatory, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate;
+<br>(c) contain any unsolicited or unauthorized advertising, promotional materials, spam, junk mail, chain letters, pyramid schemes, or any other form of unauthorized solicitation;
+<br>(d) contain material regarding sweepstakes, contests, or lotteries, or otherwise related to gambling;
+<br>(e) promote sexually explicit material;
+<br>(f)&nbsp; promote violence;
+<br>(g) promote discrimination of any kind whether based on race, sex, religion, nationality, disability, sexual orientation or age;
+<br>(h) infringe any intellectual property rights;
+<br>(i) be likely to deceive any person or amount to fraudulent misrepresentation;
+<br>(j) be made in breach of any legal duty owed to a third-party, such as a contractual duty or a duty of confidence;
+<br>(k) promote any illegal activity;
+<br>(l) contain any content with seditious tendency or political references;
+<br>(m) promote ill-will and hostility amongst the users or general public of Singapore;
+<br>(n) be threatening, abuse or invade another’s privacy, or cause annoyance, inconvenience or needless anxiety;
+<br>(o) be likely to harass, upset, embarrass, alarm or annoy any other person;
+<br>(p) be used to impersonate any person, or to misrepresent your identity or affiliation with any person;
+<br>(q) give the impression that the UGC emanates from us if that is not the case; and/or
+<br>(r) advocate, promote or assist any unlawful act such as, for example, copyright infringement or computer misuse.
+<br>(each, a “**Content Standard**”, and collectively, the “**Content Standards**”)
 
 7.3\. You irrevocably and unconditionally represent and warrant that any UGC you post or upload on the Sandbox complies with the Content Standards set out above.
 
@@ -158,150 +159,132 @@ At the end of the Sandbox Period, any and all licences and rights granted to you
 
 7.9\. You shall remain the owner or licensee (whichever is applicable) of any UGC you post or upload on the Sandbox.
 
+7.10\. You shall only upload non-production and/or synthetic data for use in the Sandbox. Non-production and/or synthetic data refer to unclassified data that will not result in any negative impact on the entity in the event of unauthorised access or loss of the data.
 
-### 8. Prohibited Uses
+7.11\. Where you are a MOH Holdings Pte. Ltd. (MOHH) group entity, you shall comply with all applicable policies, guidelines and directives from the Ministry of Health Singapore (or any updates thereof) and your institution relevant for your project when using the Sandbox, including those relating to data classification, data protection or use of artificial intelligence. You are responsible for obtaining the necessary approvals, clearances or for seeking any required advice from relevant functions within your institution (including your Data Protection Office) relating to the use of the Sandbox.
+
+7.12\. You are not permitted to download any data from the Sandbox to personal devices/accounts.
+
+7.13\. You must implement encryption for data at rest and in transit where feasible, and regularly back up data with tested data restoration processes.
+
+### 8. Use of Resources
 ------------------
 
-8.1\. You agree that you will not use or attempt to use any method, device, system, bot, ransomware, software, or routine to harm others or interfere with the functioning of any of the services provided on the Sandbox, or use and/or monitor any information in or related to the Sandbox for any unauthorised purpose.
+8.1\. You shall ensure that your usage of resources in the Sandbox is optimised to minimise costs and improve efficiency. You are responsible for planning and managing usage appropriately, including by turning off project instances when not in use and scheduling the operation of the project instances to avoid incurring unnecessary charges.
 
-8.2\. In addition to the general restrictions above, the following restrictions and conditions apply specifically to your use of the Sandbox. Any determination regarding breach of any of the following is final. Please review the following list of prohibited uses carefully before using the Sandbox. Specifically, you agree not to use the Sandbox to:
-* deploy programs, software, or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial of service attack or similar conduct;
-* deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorised manner, services, networks, servers, or other infrastructure;
-* exceed your authorised access to any portion of the Sandbox;
-* remove, delete, alter, circumvent, avoid, or bypass any digital rights management technology, encryption or security tools used anywhere on the Sandbox;
-* access, collect or store any categories of personal data about any person without Synapxe's prior written authorisation or consent;
-* alter or modify without permission any part of the Sandbox or any of its contents;
-* obtain or attempt to access or otherwise obtain any content or information through any means not intentionally made available or provided for through the Sandbox;
-* exploit errors in design, features which are not documented, and/or bugs to gain access to any part of the Sandbox that would otherwise not be available to you.
+We reserve the right to change, suspend, or discontinue your use of the Sandbox and/or Service Offerings at any time for any excessive or abusive usage, or misuse of the Sandbox and/or Service Offerings.
 
-8.3\. Additionally, you agree not to:
-* use the Sandbox in any manner that could disable, overburden, damage, or impair the site or interfere with any other person’s use of the Sandbox, including their ability to engage in real time activities through the Sandbox;
-* use any robot, spider, or other automatic device, process, or means to access the Sandbox for any purpose, including monitoring or copying any of the material on the Sandbox without our prior written consent;
-* use any manual process to monitor or copy any of the material on the Sandbox or for any other unauthorised purpose without our prior written consent;
-* use any device, bots, scripts, software, or routine that interferes with the proper working of the Sandbox or that shortcut or alter the functions on the Sandbox to run or appear in ways that are not intended by the design of the Sandbox;
-* introduce or upload any viruses, Trojan horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program, or material which is malicious or technologically harmful or that that may damage the operation of another’s property or of the Sandbox;
-* attempt to gain unauthorised access to, interfere with, damage, or disrupt any parts of the Sandbox, the server on which the Sandbox is stored, or any server, computer, or database connected to the Sandbox;
-* remove any copyright, trade marks or other proprietary notices from the Sandbox or any of the materials contained therein;
-* attack the Sandbox via a denial-of-service attack or a distributed denial-of-service attack;
-* Otherwise attempt to interfere with the proper working of the Sandbox.
-
-
-### 9. Breach of these Terms
+### 9. Prohibited Uses
 ------------------
 
-9.1\. When we consider that a breach of these Terms has occurred, we may take such action as we deem appropriate.
+9.1\. You agree that you will not use or attempt to use any method, device, system, bot, ransomware, software, or routine to harm others or interfere with the functioning of any of the services provided on the Sandbox, or use and/or monitor any information in or related to the Sandbox for any unauthorised purpose.
 
-9.2\. Failure to comply with any of these Terms constitutes a material breach of these Terms and may result in our taking all or any of the following actions:
-* immediate, temporary or permanent suspension or termination of your User Account and any right to use the Sandbox and/or the Service Offerings;
-* immediate, temporary or permanent removal of any UGC;
-* issuance of a warning to you;
-* legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
-* further legal action against you;
-* disclosure of such information to the public, other users, our partners, service providers, regulatory bodies and/or law enforcement authorities as we reasonably feel is necessary or as required by law.
+9.2\. In addition to the general restrictions above, the following restrictions and conditions apply specifically to your use of the Sandbox. Any determination regarding breach of any of the following is final. Please review the following list of prohibited uses carefully before using the Sandbox. Specifically, you agree not to use the Sandbox to:
 
-9.3\. We exclude our liability for all actions we may take in response to breaches of this policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.
+(a)&nbsp;deploy programs, software, or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial of service attack or similar conduct;
+<br>(b) deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorised manner, services, networks, servers, or other infrastructure;
+<br>(c)&nbsp;exceed your authorised access to any portion of the Sandbox;
+<br>(d)&nbsp;remove, delete, alter, circumvent, avoid, or bypass any digital rights management technology, encryption or security tools used anywhere on the Sandbox;
+<br>(e)&nbsp;access, collect or store any categories of personal data about any person without Synapxe’s prior written authorisation or consent;
+<br>(f)&nbsp;&nbsp;alter or modify without permission any part of the Sandbox or any of its contents;
+<br>(g)&nbsp;obtain or attempt to access or otherwise obtain any content or information through any means not intentionally made available or provided for through the Sandbox; and
+<br>(h)&nbsp;exploit errors in design, features which are not documented, and/or bugs to gain access to any part of the Sandbox that would otherwise not be available to you.
+
+9.3\. Additionally, you agree not to:
+
+(a) use the Sandbox in any manner that could disable, overburden, damage, or impair the site or interfere with any other person’s use of the Sandbox, including their ability to engage in real time activities through the Sandbox;
+<br>(b) use any robot, spider, or other automatic device, process, or means to access the Sandbox for any purpose, including monitoring or copying any of the material on the Sandbox without our prior written consent;
+<br>(c) use any manual process to monitor or copy any of the material on the Sandbox or for any other unauthorised purpose without our prior written consent;
+<br>(d) use any device, bots, scripts, software, or routine that interferes with the proper working of the Sandbox or that shortcut or alter the functions on the Sandbox to run or appear in ways that are not intended by the design of the Sandbox;
+<br>(e) introduce or upload any viruses, Trojan horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program, or material which is malicious or technologically harmful or that that may damage the operation of another’s property or of the Sandbox;
+<br>(f) attempt to gain unauthorised access to, interfere with, damage, or disrupt any parts of the Sandbox, the server on which the Sandbox is stored, or any server, computer, or database connected to the Sandbox;
+<br>(g) remove any copyright, trade marks or other proprietary notices from the Sandbox or any of the materials contained therein;
+<br>(h) attack the Sandbox via a denial-of-service attack or a distributed denial-of-service attack;
+<br>(i) otherwise attempt to interfere with the proper working of the Sandbox.
 
 
-### 10. Our Disclaimers
+### 10. Breach of these Terms
 ------------------
 
-10.1\. You acknowledge and agree that:
-* you choose to use the Sandbox, any Service Offerings and API Content on the Sandbox at your own risk;
-* the Sandbox is provided on an “as is” basis;
-* to the extent permitted by law, we disclaim all warranties:
-<br> (i) of any kind, whether express or implied, unless provided otherwise herein;
-<br> (ii) relating to merchantability, fitness for a particular purpose, quiet enjoyment, non-infringement, and any warranties arising out of the course of dealing or usage of trade;
-<br> (iii) of any kind that the Sandbox, Service Offerings and any API Content on the Sandbox will meet your requirements or be available on an uninterrupted, secure, or error-free basis; 
-<br> (iv) regarding the quality of Sandbox, or the accuracy, timeliness, truthfulness, completeness, or reliability of any Service Offerings, and API Content obtained through the Sandbox;
-* that no advice or information, whether orally or written, obtained from us or through the Sandbox, will create any warranty not expressly made herein; and
-* that you are solely responsible for all of your communications and interactions made via the Sandbox.
+10.1\. When we consider that a breach of these Terms has occurred, we may take such action as we deem appropriate.
 
-10.2\. You acknowledge and agree that:
-* to the maximum extent permitted by law, we will not be liable whatsoever for any and all of the risks or liability arising out of your access to and use of the Sandbox and/or the Service Offerings; and,
-* to the maximum extent permitted by law, that we will not be liable for any incidental, special, exemplary, or consequential damages. The foregoing includes any loss of profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substituting products or services, or for any damages for personal or bodily injury, or emotional distress arising out of or in connection with these Terms, from the use of or inability to use the Sandbox, and/or from any communications or interactions via the Sandbox, whether based on warranty, contract, tort (including negligence), product liability, or any other grounds of action, and whether or not we have been informed of the possibility of such damage.
+10.2\. Failure to comply with any of these Terms constitutes a material breach of these Terms and may result in our taking all or any of the following actions:
 
-10.3\. You agree to indemnify and hold us and our directors, officers, employees, affiliates, agents, contractors and licensors harmless in respect of any claims arising out of: (i) your breach of these Terms, (ii) your use of the Sandbox, the Service Offerings and/or any API Content, (iii) any UGC or (iv) any action taken by us as part of our investigation of a suspected breach of these Terms or as a result of a finding or decision that a breach of these Terms has occurred.
+(a)&nbsp;immediate, temporary or permanent suspension or termination of your User Account and any right to use the Sandbox and/or the Service Offerings;
+<br>(b) immediate, temporary or permanent removal of any UGC;
+<br>(c) issuance of a warning to you;
+<br>(d) legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+<br>(e) further legal action against you;
+<br>(f) disclosure of such information to the public, other users, our partners, service providers, regulatory bodies and/or law enforcement authorities as we reasonably feel is necessary or as required by law.
+
+10.3\. We exclude our liability for all actions we may take in response to breaches of this policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.We exclude our liability for all actions we may take in response to breaches of this policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.
 
 
-### 11. Intellectual Property
+### 11. Our Disclaimers
 ------------------
 
-11.1\. The Sandbox contains intellectual property rights (including the API Content, source codes, pages, documents and images, graphics, trademarks, trade names, logos, audio and video) that are the exclusive property of us and where applicable, our licensors. As such, we require you to not remove, alter or obscure any copyright, trademark, service mark, or other proprietary rights notices ;incorporated in or accompanying the Sandbox.
+11.1\. You acknowledge and agree that:
+        
+(a)&nbsp;you choose to use the Sandbox, any Service Offerings and API Content on the Sandbox at your own risk;
+<br>(b)&nbsp;the Sandbox is provided on an “as is” basis;
+<br>(c) to the extent permitted by law, we disclaim all warranties:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) of any kind, whether express or implied, unless provided otherwise herein;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) relating to merchantability, fitness for a particular purpose, quiet enjoyment, non-infringement, and any warranties arising out of the course of dealing or usage of trade;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) of any kind that the Sandbox, Service Offerings and any API Content on the Sandbox will meet your requirements or be available on an uninterrupted, secure, or error-free basis;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) regarding the quality of Sandbox, or the accuracy, timeliness, truthfulness, completeness, or reliability of any Service Offerings, and API Content obtained through the Sandbox;
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that no advice or information, whether orally or written, obtained from us or through the Sandbox, will create any warranty not expressly made herein; and
+<br>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that you are solely responsible for all of your communications and interactions made via the Sandbox.
 
-11.2\. All trade marks, service marks, logos, trade names and any other proprietary designations of us used herein are our (or where applicable, our licensors’) trade marks or registered trademarks. Any other trade marks, service marks, logos, trade names and any other proprietary designations are the trade marks or registered trade marks of their respective parties. In the course of your use of the Sandbox, you must ensure that you do not infringe our (or where applicable, our licensors’) intellectual property rights or the intellectual property rights of any other third party.
+11.2\. You acknowledge and agree that:
 
-11.3\. You remain the owner of any of your own background intellectual property that you bring onto the Sandbox. Any new intellectual property which you generate or develop yourself while on the Sandbox, will be owned by you.
+(a) to the maximum extent permitted by law, we will not be liable whatsoever for any and all of the risks or liability arising out of your access to and use of the Sandbox and/or the Service Offerings; and,
+<br>(b) to the maximum extent permitted by law, that we will not be liable for any incidental, special, exemplary, or consequential damages. The foregoing includes any loss of profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substituting products or services, or for any damages for personal or bodily injury, or emotional distress arising out of or in connection with these Terms, from the use of or inability to use the Sandbox, and/or from any communications or interactions via the Sandbox, whether based on warranty, contract, tort (including negligence), product liability, or any other grounds of action, and whether or not we have been informed of the possibility of such damage.
+
+11.3\. You agree to indemnify and hold us and our directors, officers, employees, affiliates, agents, contractors and licensors harmless in respect of any claims arising out of: (i) your breach of these Terms, (ii) your use of the Sandbox, the Service Offerings and/or any API Content, (iii) any UGC or (iv) any action taken by us as part of our investigation of a suspected breach of these Terms or as a result of a finding or decision that a breach of these Terms has occurred.
 
 
-### 12. Fees and/or Waivers
+### 12. Intellectual Property
 ------------------
 
-12.1\. There may be fees payable by you for using the Service Offerings. We are not responsible for any fees charged by any other third party website or app that is not owned or operated by us, or part of the Sandbox, and we shall not be liable towards you for any fees incurred as a result of using or accessing or making purchases from any such third party website or app.
+12.1\. The Sandbox contains intellectual property rights (including the API Content, source codes, pages, documents and images, graphics, trademarks, trade names, logos, audio and video) that are the exclusive property of us and where applicable, our licensors. As such, we require you to not remove, alter or obscure any copyright, trademark, service mark, or other proprietary rights notices incorporated in or accompanying the Sandbox.
 
-12.2\. We will notify you in writing, if you are eligible to receive any support or waivers for any project specific costs with respect to the Sandbox. In such a case, your eligibility to receive and your receipt of such support or waivers, are subject to and governed by the Terms, and any other applicable terms that we may provide to you when these support or waivers are provided.
+12.2\. All trade marks, service marks, logos, trade names and any other proprietary designations of us used herein are our (or where applicable, our licensors’) trade marks or registered trademarks. Any other trade marks, service marks, logos, trade names and any other proprietary designations are the trade marks or registered trade marks of their respective parties. In the course of your use of the Sandbox, you must ensure that you do not infringe our (or where applicable, our licensors’) intellectual property rights or the intellectual property rights of any other third party.
+
+12.3\. You remain the owner of any of your own background intellectual property that you bring onto the Sandbox. Any new intellectual property which you generate or develop yourself while on the Sandbox, will be owned by you.
 
 
-### 13. Governing law and Jurisdiction
+### 13. Fees and/or Grants
 ------------------
 
-13.1\. The use of the Sandbox, the Service Offerings, and these Terms, shall be governed by and interpreted in accordance with the laws of the Republic of Singapore. In the event of any dispute arising out of or in connection with these Terms, including any question regarding its existence, validity, termination, application or interpretation of these Terms or any of its provisions, both Parties shall use their best endeavours to settle the dispute informally by agreement between the Parties. Both Parties shall always act in good faith and co-operate with each other to resolve any disputes.
+13.1\. There may be fees payable by you for using the Service Offerings. We are not responsible for any fees charged by any other third party website or app that is not owned or operated by us, or part of the Sandbox, and we shall not be liable towards you for any fees incurred as a result of using or accessing or making purchases from any such third party website or app.
 
-13.2\. If the dispute is not settled in accordance with Clause 13.1 above, the dispute shall be referred to and finally resolved by the courts of Singapore.
+13.2\. Cost shall commence and payable by you upon the creation of User Account, including during the HCC setup period prior to your access and use of the Sandbox and/or its Service Offerings (including HCC). Decommissioning of the project upon its completion may take approximately one (1) month, during which costs may continue to be incurred. All such costs shall remain your responsibility and must be factored into your planning.
 
+13.3\. We will notify you in writing, if you are eligible to receive any support or waivers for any project specific costs with respect to the Sandbox. In such a case, your eligibility to receive and your receipt of such support or waivers, are subject to and governed by the Terms, and any other applicable terms that we may provide to you when these support or waivers are provided.
 
-### 14. General
+13.4\. To avoid doubt, any support that may be provided to you is offered by Synapxe in its sole discretion, and may be reviewed either together with, or separately from, the Sandbox application, and is not guaranteed. You acknowledge that such support, if provided, is intended to be supplementary and not meant to fully cover the costs, fees or resources required for your use of the Sandbox and/or Service Offerings. You remain responsible and shall ensure that you are self-sufficient and have adequate resources throughout the Sandbox period.
+
+### 14. Governing law and Jurisdiction
 ------------------
 
-14.1\. These Terms apply to your access and use of the Sandbox, the Service Offerings and/or User Account and shall supersede all previous communications (whether written, oral or otherwise), discussions or letters relating to the same.
+14.1\. The use of the Sandbox, the Service Offerings, and these Terms, shall be governed by and interpreted in accordance with the laws of the Republic of Singapore. In the event of any dispute arising out of or in connection with these Terms, including any question regarding its existence, validity, termination, application or interpretation of these Terms or any of its provisions, both Parties shall use their best endeavours to settle the dispute informally by agreement between the Parties. Both Parties shall always act in good faith and co-operate with each other to resolve any disputes.
 
-14.2\. A failure by us to exercise or enforce any rights conferred upon us by these Terms shall not be deemed to be a waiver or variation of any such rights or operate so as to bar the exercise or enforcement thereof at any subsequent time or times.
-
-14.3\. If any provision of these Terms, in whole or in part, is held to be illegal, invalid or unenforceable under any enactment or rule of law or by any court in any jurisdiction: (i) such provision or part will, to that extent, be deemed not to form part of these Terms, but the legality, validity and enforceability of the remainder of these Terms is not affected; and (ii) the legality, validity and enforceability of that or any other provision or part under any other jurisdiction will not be affected.
-
-14.4\. The rights to access and use your User Account and/or the Sandbox is personal to you, and you may not transfer or assign to a third party any of your rights and obligations as defined in these Terms. We may freely assign, transfer or sub-contract these Terms or its rights and obligations under these Terms, in whole or in part, without your prior consent or prior notice to you.
-
-14.5\. These Terms are entered into between you and us. For the avoidance of doubt, except as expressly stated in these Terms, a person who is not a party to these Terms shall have no right under the Contracts (Rights of Third Parties) Act 2001 to enforce any of the terms of these Terms.
-
-14.6\. Any Notice that we intend to give to you may be carried out by posting the relevant Notice on the Sandbox and/or by sending any such Notice to the contact that you may have provided us with. You are deemed to have received notice of the same upon the posting the relevant Notice on the Sandbox by us and/or by sending any such Notice to any contact information that you may have provided us with.
-
-14.7\. We shall not be responsible for failure or delay of performance if caused by: an act of war, hostility, or sabotage; riots; act of God; pandemic (including the COVID-19 pandemic); electrical, internet, or telecommunication outage that is not caused by the us; government restrictions (including any quarantine, health, safety or stay-home measures, lock-down, travel or other movement restriction in connection with the COVID-19 pandemic); or other event outside the reasonable control of us (each, a “force majeure event”). We will use reasonable efforts to mitigate the effect of a force majeure event. If such force majeure event continues for more than ten (10) days, we may terminate these Terms (including to terminate your User Account and your access and/or use of the Sandbox and/or the Service Offerings).
+14.2\. If the dispute is not settled in accordance with Clause 14.1 above, the dispute shall be referred to and finally resolved by the courts of Singapore.
 
 
-### Specific Usage Terms and Notices
+### 15. General
 ------------------
 
-A\. You agree that:
+15.1\. These Terms apply to your access and use of the Sandbox, the Service Offerings and/or User Account and shall supersede all previous communications (whether written, oral or otherwise), discussions or letters relating to the same.
 
-A.1\. innovation solution to be tested in the Sandbox must have features that allow the Entities to endeavour to meet the requirements in HealthTech Instruction Manual from Ministry of Health of Singapore;
+15.2\. A failure by us to exercise or enforce any rights conferred upon us by these Terms shall not be deemed to be a waiver or variation of any such rights or operate so as to bar the exercise or enforcement thereof at any subsequent time or times.
 
-A.2\. Following regulatory requirements shall be contextualized accordingly.
+15.3\. If any provision of these Terms, in whole or in part, is held to be illegal, invalid or unenforceable under any enactment or rule of law or by any court in any jurisdiction: (i) such provision or part will, to that extent, be deemed not to form part of these Terms, but the legality, validity and enforceability of the remainder of these Terms is not affected; and (ii) the legality, validity and enforceability of that or any other provision or part under any other jurisdiction will not be affected.
 
-(i) ***Access Control***<br>Only use the sandbox to carry out the specified project.  Access to IT commercial cloud sandboxes shall be granted only to authorised personnel who are involved in the project.   Access shall be granted based on the principle of least privilege, using role-based access control (RBAC) mechanisms.
+15.4\. The rights to access and use your User Account and/or the Sandbox is personal to you, and you may not transfer or assign to a third party any of your rights and obligations as defined in these Terms. We may freely assign, transfer or sub-contract these Terms or its rights and obligations under these Terms, in whole or in part, without your prior consent or prior notice to you.
 
-(ii) ***Data Protection***<br>Data stored and processed in the sandbox shall be protected in accordance to the following:
-* No production data and system to be hosted in the sandbox,
-* Only upload non-production and/or synthetic data for use in the sandbox.  Only non-production and/or synthetic data (i.e., will not result in any negative impact on the Entity in the event of unauthorised data access/loss of the data, will be allowed to be uploaded to the sandbox.
-* Entity users are not permitted to download data from sandbox to personal devices/account, and
-* Implementing encryption for data at rest and in transit where feasible, and regularly backing up data with tested data restoration process.
+15.5\. These Terms are entered into between you and us. For the avoidance of doubt, except as expressly stated in these Terms, a person who is not a party to these Terms shall have no right under the Contracts (Rights of Third Parties) Act 2001 to enforce any of the terms of these Terms.
 
-(iii) ***Network Security***<br>Network security measures are as listed:
-* Access to innovation project in the sandbox environment via public network shall through Virtual Private Network (VPN) with 2-Factor Authentication (2FA), and
-* Segmenting the network to isolate the cloud sandbox from other systems and environments, i.e., innovation project to be tested in the sandbox shall NOT access Entity's non-sandbox networks and non-sandbox resources. 
+15.6\.  Any Notice that we intend to give to you may be carried out by posting the relevant Notice on the Sandbox and/or by sending any such Notice to the contact that you may have provided us with. You are deemed to have received notice of the same upon the posting the relevant Notice on the Sandbox by us and/or by sending any such Notice to any contact information that you may have provided us with.
 
-(iv) ***Design for scalability***<br>Project teams are encouraged to seek input from Synapxe Chief Architect's Office so that the necessary design considerations can better meet subsequent Solution Review Board assessment requirements when the innovation project progresses towards production environment implementation.
-
-(v) ***Patch Management***<br>The sandbox shall be regularly updated with the latest security patches and updates.  A well-defined patch management process shall be followed to ensure timely and efficient patching of vulnerabilities.
-
-(vi) ***Monitoring and Logging***<br>Robust monitoring and logging practices shall be implemented to detect and respond to security incidents in a timely manner.  This includes setting up monitoring alerts and notifications, enabling logging and auditing features in the cloud sandbox environment, and regularly reviewing logs for security events or policy violations.
-
-(vii) ***Compliance and Governance***<br>The project shall comply with all relevant laws, regulations, and industry standards.  Established governance practices and guidelines shall be followed for cloud resource provisioning, configuration management, and resource usage.
-
-(viii) ***Resource Optimisation*** <br>Resource usage in sandbox shall be optimised to minimise costs and improve efficiency.  This includes implementing resource usage monitoring policies and optimising resource allocation based on actual usage patterns.
-
-(ix) ***Documentation and Change Management***<br>Up-to-date documentation of sandbox environment, including configuration details, architecture diagrams, and standard operating procedures (SOPs), shall be maintained.  A formal change management process shall be followed for managing changes to the cloud sandbox environment, including documentation, testing and approval process.
-
-(x) ***Disaster Recovery and Business Continuity***<br>Disaster recovery (DR) and business continuity (BC) measures shall be implemented.  Regular test DR and BC plans to ensure they are effective and can be executed in case of a disaster or outage.
-
-(xi) ***Training and Awareness***<br>Users who have access to the sandbox should have regular training and awareness programs to educate them about security best practices, policies, and procedures to ensure they understand their responsibilities and follow the established guidelines.  
-
-A.3\. You shall specify the Entry and Exit requirement for the Sandbox project with the information included as part of the project proposal.
+We shall not be responsible for failure or delay of performance if caused by: an act of war, hostility, or sabotage; riots; act of God; pandemic (including the COVID-19 pandemic); electrical, internet, or telecommunication outage that is not caused by the us; government restrictions (including any quarantine, health, safety or stay-home measures, lock-down, travel or other movement restriction in connection with the COVID-19 pandemic); or other event outside the reasonable control of us (each, a “force majeure event”). We will use reasonable efforts to mitigate the effect of a force majeure event. If such force majeure event continues for more than ten (10) days, we may terminate these Terms (including to terminate your User Account and your access and/or use of the Sandbox and/or the Service Offerings).
