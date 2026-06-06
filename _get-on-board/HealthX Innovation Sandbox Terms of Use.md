@@ -29,7 +29,7 @@ Last updated on 8 June 2026
 2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [hx-is@synapxe.sg](mailto:hx-is@synapxe.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
 
-### 3. Changes to Terms; Sandbox
+### 3. Changes to Terms
 ------------------
 
 3.1\. We may at any time, from time to time, make changes to the whole or any part of these Terms, the Sandbox and/or the Service Offerings as it deems appropriate. Every time you wish to use the Sandbox and/or the Service Offerings, please check these Terms to ensure you understand the terms that apply at that time. If you continue to use the Sandbox and/or the Service Offerings following any changes to these Terms, such continued use of the Sandbox and/or the Service Offerings shall constitute your express acceptance of the amended Terms. If you do not agree to the Terms, as may be amended from time to time, you must immediately discontinue the use of Sandbox and/or the Service Offerings.
@@ -118,7 +118,7 @@ Last updated on 8 June 2026
 At the end of the Sandbox Period, any and all licences and rights granted to you relating to the use of API Content shall immediately expire.
 
 
-### 7. User-Generated Content
+### 7. User-Generated Content and Data
 ------------------
 
 7.1\. Where you or any person on your behalf, post or upload your application, content and/or material to the Sandbox, or make contact with any other users on the Sandbox (collectively, the “**UGC**”), you must comply with the Content Standards set out in this clause. The UGC that you post or upload must comply with the applicable laws in Singapore and in any country from which they are posted or uploaded.
