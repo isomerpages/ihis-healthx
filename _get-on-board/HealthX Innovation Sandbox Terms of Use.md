@@ -51,20 +51,13 @@ Last updated on 8 June 2026
 4.3\. In addition to the eligibility criteria and Sandbox Objectives on our HealthX website, while you are using the Sandbox (“**Sandbox Period**”), you are required to meet the following project obligations, which may be updated from time to time:
 
 (a) oversee and coordinate your relevant project(s) during the Sandbox Period;
-
-(b) take over the relevant User Account(s) for HCC cloud platform workload setup and operation;
-
-(c) deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
-
-(d)&nbsp;verify and acknowledge any cloud service provider billings;
-
-(e)&nbsp;pay and settle any relevant HCC fees or charges (including cloud service provider charges, HCC platform fees and HCC compliance fees) that are not claimable from Synapxe;
-
-(f) at the end of the Sandbox Period, (I) decommission all deployed workloads, delete all data from the Sandbox environment, cease all access and use of all Service Offerings (including APIs) and exit from the Sandbox, in accordance with any exit instructions issued by Synapxe; and (II) complete any surveys or provide such reports or information as Synapxe may require;
-
-(g) ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
-
-(h) provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator,<br>(the “**Project Obligations**”).
+<br>(b) take over the relevant User Account(s) for HCC cloud platform workload setup and operation;
+<br>(c) deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
+<br>(d) verify and acknowledge any cloud service provider billings;
+<br>(e) pay and settle any relevant HCC fees or charges (including cloud service provider charges, HCC platform fees and HCC compliance fees) that are not claimable from Synapxe;
+<br>(f) at the end of the Sandbox Period, (I) decommission all deployed workloads, delete all data from the Sandbox environment, cease all access and use of all Service Offerings (including APIs) and exit from the Sandbox, in accordance with any exit instructions issued by Synapxe; and (II) complete any surveys or provide such reports or information as Synapxe may require;
+<br>(g) ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
+<br>(h) provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator,<br>(the “**Project Obligations**”).
 
 4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of the eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you.
 
@@ -91,32 +84,38 @@ Last updated on 8 June 2026
 ### 6. Your use of the APIs for Service Offerings
 ------------------
 
-6.1\.  Your use of any of the APIs relating to the Service Offerings and its relevant documentation (collectively, “**API Content**”) is subject to our ongoing approval in our sole discretion. To request for access to any API Content, you must:
-* provide any and all relevant information (which you warrant is true and accurate) requested by us;
-* allow us to conduct tests including for the&nbsp;purpose of ensuring performance, availability; and
-* provide us with access to your application at any time upon request. 
-<br> (“**Approval Process**”)
+6.1\. Your use of any of the APIs relating to the Service Offerings and its relevant documentation (collectively, “**API Content**”) is subject to our ongoing approval in our sole discretion. To request for access to any API Content, you must:
+
+(a)&nbsp;provide any and all relevant information (which you warrant is true and accurate) requested by us;
+<br>(b) allow us to conduct tests including for the purpose of ensuring performance, availability; and
+<br>(c) provide us with access to your application at any time upon request.
+<br>(“**_Approval Process_**”)
 <br> We may at any time and at our sole discretion amend any (or all) of the requirements under our Approval Process, including but not limited to requiring you to provide us with additional information relating to your request for access.
 
 6.2\. When accessing and/or using the API Content, you agree not to:
-* use the API Content other than for the Purpose;
-* reproduce, adapt or create a derivative work from the API Content; 
-* reverse engineer, decompile, decrypt, reverse assemble the API Content; and
-* distribute, disclose, publish, market, sell, rent, lease, sublicense or assign to any third party the API Contentto which you have access.
+
+(a) use the API Content other than for the Purpose;
+<br>(b)&nbsp;reproduce, adapt or create a derivative work from the API Content;
+<br>(c)&nbsp;reverse engineer, decompile, decrypt, reverse assemble the API Content; and
+<br>(d) distribute, disclose, publish, market, sell, rent, lease, sublicense or assign to any third party the API Content to which you have access.
 
 6.3\. You acknowledge and agree that the API Content is non-public information disclosed to you that is our confidential and proprietary information which may not be disclosed to any third party (including but not limited to, your affiliates) without our prior written consent, and agree to:
-* use commercially reasonable means to maintain the confidentiality of such confidential information in your possession or contained in your application, but in no circumstances means that are less stringent than those required by law or that you use to safeguard your own confidential or proprietary information (whichever means is more stringent); and,
-* destroy all copies of such confidential information in your and/or your contractors’ or third party agents’ possession, or control and, upon request, certify such destruction to us.
+
+(a) use commercially reasonable means to maintain the confidentiality of all confidential information in your possession or contained in your application, but in no circumstances means that are less stringent than those required by law or that you use to safeguard your own confidential or proprietary information (whichever means is more stringent); and,
+<br>(b) destroy all copies of such confidential information in your and/or your contractors’ or third party agents’ possession, or control and, upon request, certify such destruction to us.
 
 6.4\. You must not otherwise exercise any of the rights comprised in the copyright in the whole or any part of the contents and materials in the API Content for any other purpose except as expressly permitted by any applicable law or with our prior written consent. Any rights relating to the contents and materials in the API Content that is not expressly granted are reserved, and no licence or right is granted to you by implication, estoppel or otherwise.
 
 6.5\. We may provide you with access to third party content and/or third party API Content through the Sandbox. We may also provide hyperlinks, URLs or web addresses to other websites as part of the Sandbox. You acknowledge and agree that:
-* we shall not be responsible or liable for your access or use of any such third party content or third party API Content on the Sandbox;
-* you shall be solely responsible for your access or use of any such third party content or third party API Content, and your compliance with any of their relevant terms and conditions;
-* we do not control such third party websites and are not responsible for their contents; 
-* we will not be party to any transactions or contracts with a third party that you may enter into via such websites;
-* we shall not be liable to you in respect of any loss or damage which you may suffer by accessing and/or using those websites; and
-* you agree that you will not involve us in any dispute between you and any third parties.
+
+(a) we shall not be responsible or liable for your access or use of any such third party content or third party API Content on the Sandbox;
+<br>(b) you shall be solely responsible for your access or use of any such third party content or third party API Content, and your compliance with any of their relevant terms and conditions;
+<br>(c)&nbsp;we do not control such third party websites and are not responsible for their contents;
+<br>(d) we will not be party to any transactions or contracts with a third party that you may enter into via such websites;
+<br>(e) we shall not be liable to you in respect of any loss or damage which you may suffer by accessing and/or using those websites; and
+<br>(f) you agree that you will not involve us in any dispute between you and any third parties.
+
+At the end of the Sandbox Period, any and all licences and rights granted to you relating to the use of API Content shall immediately expire.
 
 
 ### 7. User-Generated Content
