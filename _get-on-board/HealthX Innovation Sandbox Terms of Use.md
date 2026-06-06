@@ -89,7 +89,7 @@ Last updated on 8 June 2026
 (a)&nbsp;provide any and all relevant information (which you warrant is true and accurate) requested by us;
 <br>(b) allow us to conduct tests including for the purpose of ensuring performance, availability; and
 <br>(c) provide us with access to your application at any time upon request.
-<br>(“**_Approval Process_**”)
+<br>(“**Approval Process**”)
 <br> We may at any time and at our sole discretion amend any (or all) of the requirements under our Approval Process, including but not limited to requiring you to provide us with additional information relating to your request for access.
 
 6.2\. When accessing and/or using the API Content, you agree not to:
