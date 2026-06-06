@@ -121,7 +121,7 @@ At the end of the Sandbox Period, any and all licences and rights granted to you
 ### 7. User-Generated Content
 ------------------
 
-7.1\. Where you or any person on your behalf, post or upload your application, content and/or material to the Sandbox, or make contact with any other users on the Sandbox (collectively, the “**UGC**”) you must comply with the Content Standards set out in this clause. The UGC that you post or upload must comply with the applicable laws in Singapore and in any country from which they are posted or uploaded.
+7.1\. Where you or any person on your behalf, post or upload your application, content and/or material to the Sandbox, or make contact with any other users on the Sandbox (collectively, the “**UGC**”), you must comply with the Content Standards set out in this clause. The UGC that you post or upload must comply with the applicable laws in Singapore and in any country from which they are posted or uploaded.
 
 7.2\. In particular, such UGC must not:
 * contain any material which is defamatory of any person;
