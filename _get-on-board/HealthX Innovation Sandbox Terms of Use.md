@@ -64,9 +64,7 @@ Last updated on 8 June 2026
 
 (g) ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
 
-(h) provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator,
-
-(the “**Project Obligations**”).
+(h) provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator,<br>(the “**Project Obligations**”).
 
 4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of the eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you.
 
