@@ -4,14 +4,16 @@ permalink: /hx-is-tou/
 description: ""
 variant: markdown
 ---
-Thank you for participating in the HealthX Innovation Sandbox.  
-Please read the Terms below carefully before using the HealthX Innovation Sandbox.
+# Terms of Use (HealthX Innovation Sandbox)
+Last updated on 8 June 2026
+
+**PLEASE READ THE TERMS CAREFULLY BEFORE USING THE HEALTHX INNOVATION SANDBOX**
 
 
 ### 1. HealthX Innovation Sandbox
 ------------------
 
-1.1\.  The Terms of Use (HealthX Innovation Sandbox) (“***Terms***”) is a legally binding document that governs your use of the HealthX Innovation Sandbox (“***Sandbox***”). The Sandbox provides you access to and use of our service offerings accessible in the Sandbox, including but not limited to the HealthCare Commercial Cloud (“***HCC”***) workload services and our application programming interface portal and relevant documentation (together, the “***Service Offerings***”), for you to ideate and conduct fast experimentation, assessment and demonstrate the viability of your innovation projects (“***Purpose***”). Please read these Terms carefully, so as to fully understand your rights and obligations when using the Sandbox. If you do not agree to these Terms, you should not use the Sandbox and/or the Service Offerings.
+1.1\. The Terms of Use (HealthX Innovation Sandbox) (“**Terms**”) is a legally binding document that governs your use of the HealthX Innovation Sandbox (“**Sandbox**”). The Sandbox provides you access to and use of our service offerings accessible in the Sandbox, including but not limited to the HealthCare Commercial Cloud (“**HCC**”) workload services and our application programming interface portal and relevant documentation (together, the “**Service Offerings**”), for you to ideate and conduct fast experimentation, assessment and demonstrate the viability of your innovation projects (the “**Purpose**”). Please read these Terms carefully, so as to fully understand your rights and obligations when using the Sandbox. If you do not agree to these Terms, you should not use the Sandbox and/or the Service Offerings.
 
 1.2\.  By using or accessing the Sandbox and/or the Service Offerings, you agree to be legally bound by these Terms and you agree to comply with them.
 
@@ -24,7 +26,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 2.1\. The Sandbox is operated by&nbsp;Synapxe Pte. Ltd. (“**We**”). We are registered in Singapore under UEN No 200814464H and have our registered office at 1 North Buona Vista Link, #05-01 Elementum, Singapore 139691.
 
-2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [healthx@synapxe.sg](mailto:healthx@synapxe.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
+2.2\. If you have any questions about these Terms, the Sandbox and/or the Service Offerings, you may contact us @ [hx-is@synapxe.sg](mailto:hx-is@synapxe.sg). In these Terms of Use, “we” or “us” or “our” refers to Synapxe. 
 
 
 ### 3. Changes to Terms; Sandbox
@@ -34,7 +36,7 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 3.2\. The accessibility and operation of the Sandbox and/or the Service Offerings rely on systems, databases and technologies that may not be entirely within our control. We do not guarantee continuous accessibility or uninterrupted operation of the Sandbox and/or the Service Offerings. We will not be liable to you if, for any reason, access to the Sandbox and/or the Service Offerings is interrupted, delayed or unavailable for any period of time.
 
-3.3\. From time to time, we may issue, release or provide updates / upgrades to, or new version(s) of the Sandbox and/or the Service Offerings (“**Updates**”). Such Updates may take place and be implemented automatically or may require action on your part. Please note that the Sandbox and/or the Service Offerings, or any part thereof, may not operate properly or at all if the Updates are not installed or implemented by you. For the avoidance of doubt, we do not guarantee that such Updates will be made available, or that such Updates will continue to be compatible with your existing UGC (defined below) or your operating systems.
+3.3\. From time to time, we may issue, release or provide updates / upgrades to, or new version(s) of the Sandbox and/or the Service Offerings (“**_Updates_**”).&nbsp; Such Updates may take place and be implemented automatically or may require action on your part.&nbsp;&nbsp;&nbsp; Please note that the Sandbox and/or the Service Offerings, or any part thereof, may not operate properly or at all if the Updates are not installed or implemented by you.&nbsp; For the avoidance of doubt, we do not guarantee that such Updates will be made available, or that such Updates will continue to be compatible with your existing UGC (defined below) or your operating systems.
 
 3.4\. We may at any time change, suspend, or discontinue the Sandbox and/or the Service Offerings, any of its content, and/or access to part or all of it, without notice and for any reason.
 
@@ -44,33 +46,48 @@ Please read the Terms below carefully before using the HealthX Innovation Sandbo
 
 4.1\. You are required to meet the eligibility criteria for entry to the Sandbox. While using the Sandbox and/or the Service Offerings, you are required to meet a number of objectives that must be met for all users of the Sandbox (the “**Sandbox Objectives**”).
 
-4.2\. These eligibility criteria and Sandbox Objectives are set out on our HealthX website, which may be updated from time to time. The eligibility criteria and your Sandbox Objectives for the Sandbox can be found at [https://www.healthx.sg/files/healthx innovation sandbox overall process &amp; guidelines.pdf](/files/healthx%20innovation%20sandbox%20overall%20process%20&amp;%20guidelines.pdf)
+4.2\. These eligibility criteria and Sandbox Objectives are set out on our HealthX website at [https://innovation.healthx.sg/get-on-board/](https://innovation.healthx.sg/get-on-board/), which may be updated from time to time, or may otherwise be provided to you upon request.
 
 4.3\. In addition to the eligibility criteria and Sandbox Objectives on our HealthX website, while you are using the Sandbox (“**Sandbox Period**”), you are required to meet the following project obligations, which may be updated from time to time:
-* oversee and coordinate your relevant project(s) during the Sandbox Period; 
-* take over the relevant HCC-Amazon Web Services (“**AWS**") User Account(s) for workload setup and operation;
-* deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
-* verify and acknowledge any AWS billings;
-* pay and settle any relevant HCC fees or charges (including AWS charges, HCC platform fees and HCC compliance fees) that are not claimable from Synapxe;
-* decommission the workloads, de-activate the HCC-AWS User Account(s) and exit from the Sandbox at the end of the Sandbox Period;
-* ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
-* provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator <br>
+
+(a) oversee and coordinate your relevant project(s) during the Sandbox Period;
+
+(b) take over the relevant User Account(s) for HCC cloud platform workload setup and operation;
+
+(c) deploy the prototype digital solution on the Sandbox environment within the Sandbox Period;
+
+(d)&nbsp;verify and acknowledge any cloud service provider billings;
+
+(e)&nbsp;pay and settle any relevant HCC fees or charges (including cloud service provider charges, HCC platform fees and HCC compliance fees) that are not claimable from Synapxe;
+
+(f) at the end of the Sandbox Period, (I) decommission all deployed workloads, delete all data from the Sandbox environment, cease all access and use of all Service Offerings (including APIs) and exit from the Sandbox, in accordance with any exit instructions issued by Synapxe; and (II) complete any surveys or provide such reports or information as Synapxe may require;
+
+(g) ensure proper maintenance of all records during the Sandbox Period to facilitate reviews of Sandbox experimentation and expected outcomes with the relevant Synapxe HealthX Innovation Sandbox administrator; and
+
+(h) provide a report to support the experimentation conclusions and exit outcome to the relevant Synapxe HealthX Innovation Sandbox administrator,
+
 (the “**Project Obligations**”).
 
-4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you. 
+4.4\. You are required to ensure that your use of the Sandbox and/or the Service Offerings, continues to meet the eligibility criteria and the Sandbox Objectives set out on our HealthX website, and the Project Obligations set out in these Terms. If we, in our sole discretion, determine that you do not meet any of the eligibility criteria, the Sandbox Objectives and the Project Obligations at any point in time, we may suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings immediately, with or without prior notice to you.
 
 ### 5. Your Sandbox account
 ------------------
 
-5.1\. The Sandbox may only be used or accessed if you have a registered account with us or our Sandbox partner(s) (a “**User Account**”). If you have a User Account, you are solely responsible for safekeeping and maintaining the confidentiality of your user name and password for your User Account. You agree to take all necessary measures and all due care to protect your password against misuse by third parties.
+5.1\. You acknowledge and agree that the Sandbox and the Service Offerings are made available solely for the Purpose, and are not intended for production deployment.
 
-5.2\. You agree that you will be liable and responsible for any transactions and activities conducted through, or purported to be conducted through, your User Account. You also agree that any access to or use of, or purported access to or use of, the Sandbox, the Service Offerings and/or any information, data, instructions or communications; whether or not authorized by you, referable to your User Account shall, as the case may be, be deemed to be access to or use of the Sandbox, the Service Offerings, and/or information, data, instructions or communications transmitted and validly issued by you.
+5.2\. We act solely as the platform provider of the Sandbox. We offer infrastructure, tools and enablers to facilitate experimentation in a safe and compliant manner. Our role does not extend to, and we also do not assume any responsibility or liability for activities related to project ownership, management or delivery.
 
-5.3\. You acknowledge that we are under no obligation, nor are we able to, verify the authenticity of any transactions and activities conducted through your User Account, or the identity of the person logging into and using your User Account and you agree that we shall be entitled (but not obliged) to act upon, rely on and/or hold you responsible and liable in respect or liable, in any way whatsoever, for losses, costs, expenses or damage suffered or incurred by you or any third party if there is any unauthorized use of your User Account.
+5.3\. You shall use the Sandbox in compliance with all applicable laws and regulations. Where you are a MOH Holdings Pte. Ltd. (MOHH) group entity, you acknowledge that you are required to comply with all policies, guidelines and directives from the Ministry of Health Singapore (or any updates thereof) that are applicable to the use of the Sandbox.
 
-5.4\. If you believe that the security or confidentiality of your user name and/or password has been compromised, you have the responsibility to immediately change your password and notify us to suspend your User Account. We will use reasonable measures to suspend your account if promptly notified by you. Notwithstanding this, you will be solely liable for any unauthorised use or access of the Sandbox through your User Account. We shall not be liable for any damages resulting from any, unauthorised and/or fraudulent use or access of the Sandbox via or in connection with your User Account.
+5.4\. The Sandbox may only be used or accessed if you have a registered account with us or our Sandbox partner(s) (a “**_User Account_**”). If you have a User Account, you are solely responsible for safekeeping and maintaining the confidentiality of your user name and password for your User Account. You agree to take all necessary measures and all due care to protect your password against misuse by third parties.
 
-5.5\. We may (at our sole discretion) and without giving any reason suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings at any time with or without prior to you. Our right to suspend or terminate your access to and use of your User Account shall be without prejudice to any other rights or remedies which may have under these Terms and at law.
+5.5\. You agree that you will be liable and responsible for any transactions and activities conducted through, or purported to be conducted through, your User Account. You also agree that any access to or use of, or purported access to or use of, the Sandbox, the Service Offerings and/or any information, data, instructions or communications; whether or not authorized by you, referable to your User Account shall, as the case may be, be deemed to be access to or use of the Sandbox, the Service Offerings, and/or information, data, instructions or communications transmitted and validly issued by you.
+
+5.6\. You acknowledge that we are under no obligation, nor are we able to, verify the authenticity of any transactions and activities conducted through your User Account, or the identity of the person logging into and using your User Account and you agree that we shall be entitled (but not obliged) to act upon, rely on and/or hold you responsible and liable in respect or liable, in any way whatsoever, for losses, costs, expenses or damage suffered or incurred by you or any third party if there is any unauthorized use of your User Account.
+
+5.7\. If you believe that the security or confidentiality of your user name and/or password has been compromised, you have the responsibility to immediately change your password and notify us to suspend your User Account. We will use reasonable measures to suspend your account if promptly notified by you. Notwithstanding this, you will be solely liable for any unauthorised use or access of the Sandbox through your User Account. We shall not be liable for any damages resulting from any, unauthorised and/or fraudulent use or access of the Sandbox via or in connection with your User Account.
+
+5.8\. We may (at our sole discretion) and without giving any reason suspend or terminate your User Account and/or your access and/or use of the Sandbox and/or the Service Offerings at any time with or without prior notice to you. Our right to suspend or terminate your access to and use of your User Account shall be without prejudice to any other rights or remedies which we may have under these Terms and at law.
 
 
 ### 6. Your use of the APIs for Service Offerings
