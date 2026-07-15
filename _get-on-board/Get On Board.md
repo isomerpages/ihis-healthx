@@ -113,7 +113,7 @@ the HX-IS Team in accordance with reporting requirements.</p>
 <p>Notify the HX-IS Team when experimentation has concluded.</p>
 </li>
 <li>
-<p>Complete the required offboarding actitivities.</p>
+<p>Complete the required offboarding activities.</p>
 </li>
 <li>
 <p>Settle bills, teardown the workloads, delete data, deactivate account(s)
@@ -121,7 +121,7 @@ where applicable.</p>
 </li>
 <li>
 <p>Submit a post-project report to <a href="mailto:healthx@synapxe.sg" rel="" target="_self">hx-is@synapxe.sg</a><strong> </strong>within
-1 month of dandbox project completion.</p>
+1 month of sandbox project completion.</p>
 </li>
 </ul>
 <p>The HX-IS Team will issue a formal sandbox project closure notification
