@@ -5,81 +5,130 @@ variant: tiptap
 description: Get On Board to Healthx Innovation Sandbox
 ---
 <h2>Get Started</h2>
-<p>The objective of <strong>HealthX Innovation Sandbox</strong> is to establish
-suite of enablers including a conducive policy-ops Innovation Sandbox that
-is accessible, safe, self-contained and realistic in simulating a production
-environment that allow innovators to “start fast and prove fast / fail-and-recover
-fast” on their innovations.</p>
+<p>he objective of <strong>HealthX Innovation Sandbox (HX-IS)</strong> is to
+establish suite of enablers including a conducive policy-ops innovation
+sandbox environment that is accessible, safe, self-contained and realistic
+in simulating a production environment that allow innovators to “start
+fast and prove fast / fail-and-recover fast” on their innovations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Process.png">
 </div>
-<h4><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Apply Now</a></h4>
-<h3>Detailed Process</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Overall_Process.png">
-</div>
 <h4>General Eligibility</h4>
-<p>General Eligibility for shortlisting of “sandbox experiment potential
-suitable” and proceed to the next stage during qualification process</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/GeneralEligibility.png">
-</div>
-<h4>Entry Evaluation Criteria</h4>
-<p>The requestor must submit a project proposal with the project team composition
-and project information (including list of Cloud Service Provider (CSP)
-requirements or services required, solution architecture diagram and entry
-&amp; exit requirement for the project).</p>
-<p>The criteria listed below shall be used for the evaluation of the Sandbox
-Proposal.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/EntryEvaluationCriteria.png">
-</div>
-<h4>Extending or Exiting the Sandbox</h4>
+<p>Projects should:</p>
+<ul>
+<li>
+<p>Demonstrate a clear innovation or experimentation objective.</p>
+</li>
+<li>
+<p>Comply with applicable respective healthcare institution policies and
+governance requirements.</p>
+</li>
+<li>
+<p>Have an identified project team with designated business and technical
+leads.</p>
+</li>
+</ul>
+<h4>Application Process</h4>
+<p>Project teams are expected to:</p>
+<ul>
+<li>
+<p>Read and understand the HealthX Innovation Sandbox (HX-IS) <a href="[resource:372:161943]" rel="" target="_self">Terms of Use (TOU)</a>.</p>
+</li>
+<li>
+<p>Review the available sandbox enablers and determine the resources required.</p>
+</li>
+<li>
+<p>Ensure sufficient funding is available for any chargeable enablers, where
+applicable.</p>
+</li>
+<li>
+<p>Obtain the necessary internal approvals and clearances before onboarding.</p>
+</li>
+<li>
+<p>Prepare key project information, including objectives, scope, intended
+outcomes, timeline, success criteria, post-sandbox plan and technical requirements.</p>
+</li>
+<li>
+<p>Submit your application at least two (2) months before your intended project
+start date, where applicable, to allow sufficient time for assessment,
+onboarding and environment setup.</p>
+</li>
+</ul>
+<p><strong>Note:</strong> Please factor in the estimated processing and onboarding
+timelines when planning your project.</p>
+<ul>
+<li>
+<p>Projects not requiring cloud provisioning: Approximately 1-3 weeks.</p>
+</li>
+<li>
+<p>Projects requiring cloud provisioning: At least 6-8 weeks, depending on
+the complexity of the provisioning needs and billing setup.</p>
+</li>
+</ul>
+<h4>During the Sandbox</h4>
+<p>Project teams are expected to:</p>
+<ul>
+<li>
+<p>Comply with the HealthX Innovation Sandbox (HX-IS) <a href="[resource:372:161943]" rel="" target="_self">Terms of Use (TOU)</a>.</p>
+</li>
+<li>
+<p>Owns the end-to-end delivery of the project and manage the project budget
+throughout the project lifecycle.</p>
+</li>
+<li>
+<p>Use sandbox only for the approved project scope submitted during the application.
+Any changes or additions to the approved scope are not permitted unless
+they have been formally assessed and approved.</p>
+</li>
+<li>
+<p>Use sandbox resources responsibly and monitor utilisation and costs and
+optimise usage where appropriate.</p>
+</li>
+<li>
+<p>Complete project within the approved sandbox duration. Extension requests
+are not encouraged and are subject to review, justification and approval.
+Submit extension requests at least one (1) month before the approved project
+end date.</p>
+</li>
+<li>
+<p>Identify, assess and manage project risks, issues and dependencies.</p>
+</li>
+<li>
+<p>Escalate platform-related technical issues or service requests to the
+HX-IS Team in a timely manner.</p>
+</li>
+<li>
+<p>Report project progress, milestones, risks, utilisation and outcomes to
+the HX-IS Team in accordance with reporting requirements.</p>
+</li>
+</ul>
+<h4>Project Completion</h4>
+<p>Project teams are expected to:</p>
+<ul>
+<li>
+<p>Notify the HX-IS Team when experimentation has concluded.</p>
+</li>
+<li>
+<p>Complete the required offboarding actitivities.</p>
+</li>
+<li>
+<p>Settle bills, teardown the workloads, delete data, deactivate account(s)
+where applicable.</p>
+</li>
+<li>
+<p>Submit a post-project report to <a href="mailto:healthx@synapxe.sg" rel="" target="_self">hx-is@synapxe.sg</a><strong> </strong>within
+1 month of dandbox project completion.</p>
+</li>
+</ul>
+<p>The HX-IS Team will issue a formal sandbox project closure notification
+upon completion of the offboarding process. This notification confirms
+the administrative closure of the sandbox engagement and does not constitute
+endorsement or validation of the project's outcomes or readliness for subsequent
+implementation.</p>
+<h4>HealthX Innovation Sandbox (HX-IS) Onboarding Application</h4>
+<p>Click here to download the application form.</p>
+<p>Please submit the completed application form to <a href="mailto:hx-is@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">hx-is@synapxe.sg</a>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/ExitOrExtendingSandbox.png">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Project Team can decide to exit sandbox or extend the sandbox period at
-its own discretion.</p>
-</li>
-<li>
-<p>Upon exiting, the Project Team must submit a report to HealthX Innovation
-Sandbox administrator @ <a href="mailto:hx-is@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">hx-is@synapxe.sg</a><strong> </strong>within
-1 month from the expiry of the sandbox period.</p>
-</li>
-<li>
-<p>HealthX Innovation Sandbox administrator will evaluate the data points
-and provide its recommendation to support project exit decision based on
-stats generated from the cloud services (e.g., number of users and usage,
-transactions supported)</p>
-</li>
-<li>
-<p>Project team will “graduate” from the sandbox and may proceed to scale
-the technology under experimentation in production, provided that:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>the Project Team has provided an acceptable exit and transition strategy;</p>
-</li>
-<li>
-<p>the sandbox has achieved successful outcome in actualizing its goal and
-objective (i.e., fulfil the entry and exit requirement of the project).</p>
-</li>
-</ul>
-</li>
-<li>
-<p>At the end of the sandbox period, the Project Team must settle the HCC
-billings, teardown the workloads, de-activate the account(s) and exit from
-the sandbox.</p>
-<p>For the purpose of transparency, relevant information of all approved
-sandbox projects such as the name of the requestors, the start and end
-dates of the sandbox experimentation, experimentation conclusion and exit
-outcome will be included in Synapxe documentation repository as part of
-the Sandbox lessons learnt and may be shared with wider innovation community
-or published on Synapxe HealthX Innovation Sandbox portal.</p>
-</li>
-</ul>
-<h4><a href="https://form.gov.sg/6451bef4d0f2470011ddf40a" rel="noopener nofollow" target="_blank">Click here to Apply Now</a></h4>
 <p></p>
 <p></p>
