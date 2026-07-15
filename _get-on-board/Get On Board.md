@@ -34,7 +34,7 @@ leads.</p>
 <p>Project teams are expected to:</p>
 <ul>
 <li>
-<p>Read and understand the HealthX Innovation Sandbox (HX-IS) <a href="[resource:372:161943]" rel="" target="_self">Terms of Use (TOU)</a>.</p>
+<p>Read and understand the HealthX Innovation Sandbox (HX-IS) <a href="https://innovation.healthx.sg/hx-is-tou/" rel="noopener nofollow" target="_blank">Terms of Use (TOU)</a>.</p>
 </li>
 <li>
 <p>Review the available sandbox enablers and determine the resources required.</p>
@@ -72,7 +72,7 @@ the complexity of the provisioning needs and billing setup.</p>
 <p>Project teams are expected to:</p>
 <ul>
 <li>
-<p>Comply with the HealthX Innovation Sandbox (HX-IS) <a href="[resource:372:161943]" rel="" target="_self">Terms of Use (TOU)</a>.</p>
+<p>Comply with the HealthX Innovation Sandbox (HX-IS) <a href="https://innovation.healthx.sg/hx-is-tou/" rel="noopener nofollow" target="_blank">Terms of Use (TOU)</a>.</p>
 </li>
 <li>
 <p>Owns the end-to-end delivery of the project and manage the project budget
@@ -132,7 +132,8 @@ implementation.</p>
 <hr>
 <p></p>
 <h4><strong>HealthX Innovation Sandbox (HX-IS) Onboarding Application</strong></h4>
-<p>Click here to download the application form.</p>
+<p>Click <a href="https://d35fsc4dql04zx.cloudfront.net/hxis-form-excel.xlsx" rel="noopener nofollow" target="_blank">here</a> to
+download the application form.</p>
 <p>Please submit the completed application form to <a href="mailto:hx-is@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">hx-is@synapxe.sg</a>
 </p>
 <p></p>
