@@ -125,7 +125,7 @@ upon completion of the offboarding process. This notification confirms
 the administrative closure of the sandbox engagement and does not constitute
 endorsement or validation of the project's outcomes or readliness for subsequent
 implementation.</p>
-<h4>HealthX Innovation Sandbox (HX-IS) Onboarding Application</h4>
+<h4><strong>HealthX Innovation Sandbox (HX-IS) Onboarding Application</strong></h4>
 <p>Click here to download the application form.</p>
 <p>Please submit the completed application form to <a href="mailto:hx-is@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">hx-is@synapxe.sg</a>
 </p>
