@@ -13,6 +13,7 @@ fast and prove fast / fail-and-recover fast” on their innovations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Get On Board/HXIS_Process.png">
 </div>
+<hr>
 <h4>General Eligibility</h4>
 <p>Projects should:</p>
 <ul>
@@ -28,6 +29,7 @@ governance requirements.</p>
 leads.</p>
 </li>
 </ul>
+<hr>
 <h4>Application Process</h4>
 <p>Project teams are expected to:</p>
 <ul>
@@ -65,6 +67,7 @@ timelines when planning your project.</p>
 the complexity of the provisioning needs and billing setup.</p>
 </li>
 </ul>
+<hr>
 <h4>During the Sandbox</h4>
 <p>Project teams are expected to:</p>
 <ul>
@@ -102,6 +105,7 @@ HX-IS Team in a timely manner.</p>
 the HX-IS Team in accordance with reporting requirements.</p>
 </li>
 </ul>
+<hr>
 <h4>Project Completion</h4>
 <p>Project teams are expected to:</p>
 <ul>
@@ -125,6 +129,8 @@ upon completion of the offboarding process. This notification confirms
 the administrative closure of the sandbox engagement and does not constitute
 endorsement or validation of the project's outcomes or readliness for subsequent
 implementation.</p>
+<hr>
+<p></p>
 <h4><strong>HealthX Innovation Sandbox (HX-IS) Onboarding Application</strong></h4>
 <p>Click here to download the application form.</p>
 <p>Please submit the completed application form to <a href="mailto:hx-is@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">hx-is@synapxe.sg</a>
